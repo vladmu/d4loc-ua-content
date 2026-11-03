@@ -1,0 +1,1976 @@
+EC95Z4A-hQbax$Sk2X
+	alias: dlg_western05showdown_train_health_50_percent_alternative_info_01
+	volume: 1
+	channel: Narrator
+EC95Z4B-4rpttbeEp0
+	alias: dlg_western05showdown_brynnhild_fight_taunt_01
+	volume: 1
+	channel: Narrator
+EC95Z4C-PH1_3JsAjU
+	alias: dlg_western05showdown_brynnhild_fight_rematch_01
+	volume: 1
+	channel: Narrator
+W47HRHH-BJ5_He_xrA
+	alias: dlg_western02rescue_snot_rescue_25_percent_info_03
+	volume: 1
+	channel: Narrator
+W47HRHJ-4Vv0_DOYjR
+	alias: dlg_western02rescue_snot_rescue_50_percent_info_03
+	volume: 1
+	channel: Narrator
+W47HRHL-$rJoty_To7
+	alias: dlg_western02rescue_train_01_start_02
+	volume: 1
+	channel: Narrator
+W47HRHM-S7Gsp_ExOc
+	alias: dlg_western02rescue_train_01_start_03
+	volume: 1
+	channel: Narrator
+W47HRHN-$cBgyWq9ed
+	alias: dlg_western02rescue_train_01_start_04
+	volume: 1
+	channel: Narrator
+W47HRHP-pHXS0Zdj8T
+	alias: dlg_western02rescue_train_01_start_05
+	volume: 1
+	channel: Narrator
+W47HRHQ-t2BdNHi64E
+	alias: dlg_western02rescue_snot_rescue_first_info_03
+	volume: 1
+	channel: Narrator
+W47HRHR-e2JZtqtaAH
+	alias: dlg_western02rescue_train_01_end_02
+	volume: 1
+	channel: Narrator
+W47HRHS-Pxz7d69aX9
+	alias: dlg_western02rescue_train_01_end_03
+	volume: 1
+	channel: Narrator
+W47HRHT-p97M2n3N16
+	alias: dlg_western02rescue_train_02_start_02
+	volume: 1
+	channel: Narrator
+W47HRHU-JWjT3BWnWR
+	alias: dlg_western02rescue_train_02_start_03
+	volume: 1
+	channel: Narrator
+W47HRHV-YRkXT451pD
+	alias: dlg_western02rescue_train_02_end_02
+	volume: 1
+	channel: Narrator
+W47HRHW-Ehnk7MHet0
+	alias: dlg_western02rescue_train_03_start_02
+	volume: 1
+	channel: Narrator
+W47HRHX-O8DfgMivU4
+	alias: dlg_western02rescue_train_03_start_03
+	volume: 1
+	channel: Narrator
+W47HRHY-9OT3FZ5vT5
+	alias: dlg_western02rescue_train_03_start_04
+	volume: 1
+	channel: Narrator
+W47HRHZ-CNcZ4iz4e$
+	alias: dlg_western02rescue_train_03_start_05
+	volume: 1
+	channel: Narrator
+W47HRJ2-UF_S6OlZZi
+	alias: dlg_western02rescue_train_03_start_06
+	volume: 1
+	channel: Narrator
+W47HRJ3-yPBCcVCQw4
+	alias: dlg_western02rescue_train_03_end_02
+	volume: 1
+	channel: Narrator
+W47HRJ4-LZVqBVSMUY
+	alias: dlg_western02rescue_train_03_end_03
+	volume: 1
+	channel: Narrator
+36F6AYT7-ay9opSrCSx
+	alias: dlg_western04escort_barricades_brynnhild_damaged_first_info_01
+	volume: 1
+	channel: Narrator
+36F6AYT8-TC_GIUzryF
+	alias: dlg_western04escort_barricades_player_damaged_first_info_01
+	volume: 1
+	channel: Narrator
+36F6AYT9-zxpKEwaBCL
+	alias: dlg_western04escort_train_player_damaged_random_01
+	volume: 1
+	channel: Narrator
+36F6AYTA-NX8KHMbhke
+	alias: dlg_western04escort_train_player_damaged_first_info_01
+	volume: 1
+	channel: Narrator
+36F6AYTB-tt$ddSqLWy
+	alias: dlg_western04escort_train_player_damaged_random_02
+	volume: 1
+	channel: Narrator
+36F6AYTC-HdBiqOf6lu
+	alias: dlg_western04escort_train_player_damaged_random_03
+	volume: 1
+	channel: Narrator
+36F6AYTD-K4zTuO7ETj
+	alias: dlg_western04escort_barricades_brynnhild_damaged_random_01
+	volume: 1
+	channel: Narrator
+36F6AYTE-mrLlksICom
+	alias: dlg_western04escort_barricades_brynnhild_damaged_random_02
+	volume: 1
+	channel: Narrator
+36F6AYTF-JXG83s5amR
+	alias: dlg_western04escort_barricades_brynnhild_damaged_random_03
+	volume: 1
+	channel: Narrator
+3MP2F6JZ-LSp4kwxeg0
+	alias: dlg_western02rescue_enemy_spawn_init_info_01
+	volume: 1
+	channel: Narrator
+3MP2F6K2-Y0LS4n8nGB
+	alias: dlg_western02rescue_enemy_spawn_init_fallback_info_01
+	volume: 1
+	channel: Narrator
+3MP2F6K7-W1HtBr9VSs
+	alias: dlg_western02rescue_heroes_killed_random_05
+	volume: 1
+	channel: Narrator
+54GQXT9V-hj4PTUlQIo
+	alias: dlg_western01flee_trap_reserach_info_01
+	volume: 1
+	channel: Narrator
+5MHW4KD4-s9mewtd73L
+	alias: dlg_western03bounty_resources_train_second_deliver_info_06
+	volume: 1
+	channel: Narrator
+63XXJSLW-vXodm0fRKp
+	alias: dlg_western01flee_intro_02
+	volume: 1
+	channel: Narrator
+63XXJSLX-6LDC3wBMOJ
+	alias: dlg_western01flee_train_mg_spawn_random_01
+	volume: 1
+	channel: Narrator
+63XXJSLY-eNIWHrIDgg
+	alias: dlg_western01flee_train_mg_spawn_random_02
+	volume: 1
+	channel: Narrator
+63XXJSLZ-qVjz6Pny$e
+	alias: dlg_western01flee_train_mg_spawn_random_03
+	volume: 1
+	channel: Narrator
+63XXJSM2-6mtKWSmTBT
+	alias: dlg_western01flee_gimmick_westernlake_grid_constructed_01
+	volume: 1
+	channel: Narrator
+63XXJSM3-qhtUPB5ib6
+	alias: dlg_western01flee_trap_westernfountain_constructed_01
+	volume: 1
+	channel: Narrator
+63XXJSM4-xfMwmMcYBs
+	alias: dlg_western01flee_trap_westernpump_constructed_01
+	volume: 1
+	channel: Narrator
+63XXJSM5-vXSN1YnypT
+	alias: dlg_western01flee_trap_westernsteamer_constructed_01
+	volume: 1
+	channel: Narrator
+63XXJSM6-$xUWCTTmUR
+	alias: dlg_western01flee_scorpion_spawner_killed_info_01
+	volume: 1
+	channel: Narrator
+63XXJSM7-3ECOsLNWwT
+	alias: dlg_western01flee_scorpion_spawner_guards_spawn_info_01
+	volume: 1
+	channel: Narrator
+6CKTUZXX-NlUfzLEW4J
+	alias: dlg_western02rescue_golden_portals_start_01
+	volume: 1
+	channel: Narrator
+6CKTUZXY-TwhjnXnmaK
+	alias: dlg_western02rescue_golden_portals_start_02
+	volume: 1
+	channel: Narrator
+6CKTUZXZ-FOO$Ld5NWy
+	alias: dlg_western02rescue_golden_portals_end_01
+	volume: 1
+	channel: Narrator
+6CKTUZY2-GWlbS2VKPG
+	alias: dlg_western02rescue_golden_portals_end_02
+	volume: 1
+	channel: Narrator
+6CKTUZY3-VSe$xJG1kM
+	alias: dlg_western02rescue_golden_portals_end_03
+	volume: 1
+	channel: Narrator
+6CKTUZY4-ixN6MyyFy0
+	alias: dlg_western02rescue_stargate_found_info_01
+	volume: 1
+	channel: Narrator
+6CKTUZY5-Zl9FyuIBnh
+	alias: dlg_western02rescue_stargate_found_info_02
+	volume: 1
+	channel: Narrator
+6CKTUZY6-d_MHqtNp7y
+	alias: dlg_western02rescue_stargate_activated_info_01
+	volume: 1
+	channel: Narrator
+6CKTUZY7-DrMKb554X6
+	alias: dlg_western02rescue_stargate_activated_info_02
+	volume: 1
+	channel: Narrator
+BSBBXRKL-bT7LcDLJpk
+	alias: dlg_western01flee_mission_capt
+	volume: 1
+	channel: Narrator
+BSBBXRKM-bZwoQLEfhZ
+	alias: dlg_western01flee_mission_desc
+	volume: 1
+	channel: Narrator
+BSBBXRKN-OKd8mOBEgs
+	alias: dlg_western01flee_intro_01
+	volume: 1
+	channel: Narrator
+BSBBXRKP-F3soh4uQL2
+	alias: dlg_western01flee_western_vendor_staging_01
+	volume: 1
+	channel: Narrator
+BSBBXRKQ-XWNHUG9BK6
+	alias: dlg_western01flee_western_vendor_staging_success_01
+	volume: 1
+	channel: Narrator
+BSBBXRKR-44Pd0XaP06
+	alias: dlg_western01flee_sandstorm_effects_unit_info_01
+	volume: 1
+	channel: Narrator
+BSBBXRKS-FDNhCBaOY$
+	alias: dlg_western01flee_twister_info_01
+	volume: 1
+	channel: Narrator
+BSBBXRKT-$58UbMsWDi
+	alias: dlg_western01flee_new_heroes_info_01
+	volume: 1
+	channel: Narrator
+BSBBXRKU-bdUMmdNP$A
+	alias: dlg_western01flee_scorpion_outside_staging_start_01
+	volume: 1
+	channel: Narrator
+BSBBXRKV-UQNJBDQEhL
+	alias: dlg_western01flee_scorpion_outside_staging_end_01
+	volume: 1
+	channel: Narrator
+BSBBXRKW-OWnJSDPwC4
+	alias: dlg_western01flee_western_vendor_new_trap_01
+	volume: 1
+	channel: Narrator
+BSBBXRKX-owFShiNjvK
+	alias: dlg_western01flee_western_vendor_new_trap_success_01
+	volume: 1
+	channel: Narrator
+BSBBXRKY-e5sZobc5D7
+	alias: dlg_western01flee_western_vendor_new_trap_failed_01
+	volume: 1
+	channel: Narrator
+BSBBXRKZ-LPMhVu4HTx
+	alias: dlg_western01flee_exit_found_01
+	volume: 1
+	channel: Narrator
+BSBBXRL2-DMTX53TBqE
+	alias: dlg_western01flee_western_vendor_aoe_dynamite_01
+	volume: 1
+	channel: Narrator
+BSBBXRL3-9r41K4nMZn
+	alias: dlg_western01flee_western_vendor_aoe_dynamite_success_01
+	volume: 1
+	channel: Narrator
+BSBBXRL4-FR5LQisWMp
+	alias: dlg_western01flee_western_vendor_aoe_dynamite_failed_01
+	volume: 1
+	channel: Narrator
+BSBBXRL5-g6tqckp950
+	alias: dlg_western01flee_city_destroyed_01
+	volume: 1
+	channel: Narrator
+BSBBXRL6-5y8l5G3EkP
+	alias: dlg_western01flee_outro_01
+	volume: 1
+	channel: Narrator
+BSBBXRL7-5ZMt8Nv_wq
+	alias: dlg_western01flee_outro_lose_01
+	volume: 1
+	channel: Narrator
+CV4TQ78A-fvZbucV6kI
+	alias: dlg_western01flee_outro_02
+	volume: 1
+	channel: Narrator
+CV4TQ78B-TsVENrsWXu
+	alias: dlg_western01flee_outro_03
+	volume: 1
+	channel: Narrator
+DGPMKUC3-$B$UffIoPl
+	alias: dlg_western04escort_outro_lose_train_destroyed_01
+	volume: 1
+	channel: Narrator
+E3ZBMNM5-vGB5lJZuDG
+	alias: dlg_western03bounty_western_vendor_ressource_first_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNM6-yVjXj8rflS
+	alias: dlg_western03bounty_western_vendor_ressource_random_01
+	volume: 1
+	channel: Narrator
+E3ZBMNM7-H_SAT5aVwI
+	alias: dlg_western03bounty_western_vendor_ressource_success_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNM9-5oAgCXWKyf
+	alias: dlg_western03bounty_western_vendor_ressource_failed_first_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMA-MQJ_mE4LET
+	alias: dlg_western03bounty_western_vendor_ressource_failed_random_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMB-yZlmYN6unO
+	alias: dlg_western03bounty_western_vendor_ressource_failed_random_02
+	volume: 1
+	channel: Narrator
+E3ZBMNMC-zskBW3u1iK
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_success_first_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMD-gyLNo8XBzL
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_failed_first_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNME-_kiJAJg5e5
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_failed_random_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMF-9OLJLLlqaI
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_success_random_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMG-VXRvxmlKhZ
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_random_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMH-ZQ3qq4XmXk
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_first_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMJ-zytZXeXcV3
+	alias: dlg_western04escort_barricades_brynnhild_spawn_first_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMK-X$Yk4eLswD
+	alias: dlg_western04escort_barricades_brynnhild_spawn_random_01
+	volume: 1
+	channel: Narrator
+E3ZBMNML-JKeBkar3$_
+	alias: dlg_western04escort_barricades_brynnhild_spawn_random_02
+	volume: 1
+	channel: Narrator
+E3ZBMNMM-Ynxi$yfUVb
+	alias: dlg_western04escort_barricades_brynnhild_spawn_vendor_first_info_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMN-0ORoxxU2nu
+	alias: dlg_western04escort_barricades_brynnhild_spawn_vendor_random_01
+	volume: 1
+	channel: Narrator
+E3ZBMNMP-Hw1OcP8K8n
+	alias: dlg_western04escort_barricades_brynnhild_spawn_vendor_random_02
+	volume: 1
+	channel: Narrator
+E8APZF2G-aDSBzDhHmc
+	alias: dlg_western03bounty_mission_capt
+	volume: 1
+	channel: Narrator
+E8APZF2H-hLqk40iAOB
+	alias: dlg_western03bounty_mission_desc
+	volume: 1
+	channel: Narrator
+E8APZF2J-eG3wkYlnr6
+	alias: dlg_western04escort_mission_capt
+	volume: 1
+	channel: Narrator
+E8APZF2K-O1tCLgcdly
+	alias: dlg_western04escort_mission_desc
+	volume: 1
+	channel: Narrator
+E8APZF2L-2qZQE_DBUT
+	alias: dlg_western02rescue_mission_capt
+	volume: 1
+	channel: Narrator
+E8APZF2M-aJ4yQtE1z5
+	alias: dlg_western02rescue_mission_desc
+	volume: 1
+	channel: Narrator
+E8APZF2N-XYvMLaDEpL
+	alias: dlg_western05showdown_mission_capt
+	volume: 1
+	channel: Narrator
+E8APZF2P-EM$0Az2KUZ
+	alias: dlg_western05showdown_mission_desc
+	volume: 1
+	channel: Narrator
+F7FE68LW-mkUvzmR2xu
+	alias: dlg_western04escort_barricades_brynnhild_damaged_first_info_02
+	volume: 1
+	channel: Narrator
+F7FE68LX-emIiM$Xeeo
+	alias: dlg_western04escort_barricades_brynnhild_damaged_first_info_03
+	volume: 1
+	channel: Narrator
+F7FE68LY-cbSC8ArZW4
+	alias: dlg_western04escort_train_player_damaged_first_info_02
+	volume: 1
+	channel: Narrator
+F7FE68LZ-3wHagh2iCA
+	alias: dlg_western04escort_barricades_player_damaged_first_info_02
+	volume: 1
+	channel: Narrator
+F7FE68M2-0AsdB3kBKV
+	alias: dlg_western04escort_outro_05
+	volume: 1
+	channel: Narrator
+F7FE68M3-xJYH7442_1
+	alias: dlg_western04escort_outro_06
+	volume: 1
+	channel: Narrator
+F7FE68M4-NmZ9vIyOfR
+	alias: dlg_western04escort_outro_07
+	volume: 1
+	channel: Narrator
+F7FE68M5-XYvMLaDEpL
+	alias: dlg_western04escort_outro_08
+	volume: 1
+	channel: Narrator
+FHM9JUYU-D5trOa$3b
+	alias: dlg_western02rescue_intro_01
+	volume: 1
+	channel: Narrator
+FHM9JUYV-VOBAIm_Zem
+	alias: dlg_western02rescue_intro_02
+	volume: 1
+	channel: Narrator
+FHM9JUYW-H3HAk273CZ
+	alias: dlg_western02rescue_intro_03
+	volume: 1
+	channel: Narrator
+FHM9JUYX-uCmzYiW5uZ
+	alias: dlg_western02rescue_intro_04
+	volume: 1
+	channel: Narrator
+FHM9JUYY-jPcckpIHaL
+	alias: dlg_western02rescue_intro_05
+	volume: 1
+	channel: Narrator
+FHM9JUYZ-GS2FgiWGR6
+	alias: dlg_western02rescue_intro_06
+	volume: 1
+	channel: Narrator
+FHM9JUZ2-489L2abJro
+	alias: dlg_western02rescue_intro_07
+	volume: 1
+	channel: Narrator
+FHM9JUZ3-j3nzruUQPr
+	alias: dlg_western02rescue_intro_08
+	volume: 1
+	channel: Narrator
+FHM9JUZ5-X3SN_RC$eq
+	alias: dlg_western02rescue_intro_09
+	volume: 1
+	channel: Narrator
+FHM9JUZN-QsVZTLRGNi
+	alias: dlg_western05showdown_intro_11
+	volume: 1
+	channel: Narrator
+FHM9JUZP-v9rVJMWUU7
+	alias: dlg_western02rescue_outro_01
+	volume: 1
+	channel: Narrator
+FHM9JUZQ-lGRvp9d$Is
+	alias: dlg_western02rescue_outro_lose_01
+	volume: 1
+	channel: Narrator
+FWY5RMZG-atNCw5roj5
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_01
+	volume: 1
+	channel: Narrator
+FWY5RMZH-oSws0rRhb5
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_start_random_01
+	volume: 1
+	channel: Narrator
+FWY5RMZJ-DnufHtngYp
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_success_01
+	volume: 1
+	channel: Narrator
+FWY5RMZK-845bfQ24NR
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_success_random_01_01
+	volume: 1
+	channel: Narrator
+FWY5RMZL-TPJ1fX8gGZ
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_failed_01
+	volume: 1
+	channel: Narrator
+FWY5RMZN-kgkQ_1yVhE
+	alias: dlg_western02rescue_western_vendor_stargate_hint_info_01
+	volume: 1
+	channel: Narrator
+FWY5RMZP-BoBTF$74qC
+	alias: dlg_western05showdown_western_vendor_train_slow_buff_first_start_01
+	volume: 1
+	channel: Narrator
+FWY5RMZQ-1Mo_ydRTlC
+	alias: dlg_western05showdown_western_vendor_train_slow_buff_start_random_01
+	volume: 1
+	channel: Narrator
+FWY5RMZR-_UB8JGuB13
+	alias: dlg_western05showdown_western_vendor_train_slow_first_start_success_01
+	volume: 1
+	channel: Narrator
+FWY5RMZS-Jabwdf5d6b
+	alias: dlg_western05showdown_western_vendor_train_slow_success_random_01
+	volume: 1
+	channel: Narrator
+FWY5RMZT-K13ILzchFC
+	alias: dlg_western05showdown_western_vendor_train_slow_first_start_fail_01
+	volume: 1
+	channel: Narrator
+FWY5RMZU-siPyFR6DCn
+	alias: dlg_western05showdown_western_vendor_train_slow_fail_random_01
+	volume: 1
+	channel: Narrator
+G9MU8RHQ-tYSUeVJZyB
+	alias: dlg_western05showdwon_dungeon_dwarfs_defeated_early_info_02
+	volume: 1
+	channel: Narrator
+G9MU8RHR-8soTOfOpNn
+	alias: dlg_western05showdwon_dungeon_dwarfs_defeated_info_02
+	volume: 1
+	channel: Narrator
+G9MU8RHS-d4al8rXM$l
+	alias: dlg_western05showdown_train_health_50_percent_info_02
+	volume: 1
+	channel: Narrator
+H8WXFYFN-cNTY08wJz2
+	alias: dlg_western03bounty_spawner_first_info_02
+	volume: 1
+	channel: Narrator
+H8WXFYFP-c4AZT41XUo
+	alias: dlg_western03bounty_spawner_first_fallback_info_02
+	volume: 1
+	channel: Narrator
+H8WXFYFQ-xwHkjWEUu7
+	alias: dlg_western03bounty_bounty_increased_first_info_02
+	volume: 1
+	channel: Narrator
+H8WXFYFR-o7foxpC7yF
+	alias: dlg_western03bounty_bounty_increased_first_info_03
+	volume: 1
+	channel: Narrator
+H8WXFYFS-UoELLa_pbJ
+	alias: dlg_western03bounty_cages_destroyed_first_info_02
+	volume: 1
+	channel: Narrator
+H8WXFYFT-9zBV$HF7lg
+	alias: dlg_western03bounty_spawner_bounty_hunter_first_info_02
+	volume: 1
+	channel: Narrator
+HJ2BN2MY-9RHQS$Tj81
+	alias: dlg_western04escort_train_brynnhild_damaged_first_info_01
+	volume: 1
+	channel: Narrator
+HJ2BN2MZ-n$1LtXwQlT
+	alias: dlg_western04escort_train_brynnhild_damaged_random_01
+	volume: 1
+	channel: Narrator
+HJ2BN2N2-SOoU0RmUbV
+	alias: dlg_western04escort_train_brynnhild_damaged_random_02
+	volume: 1
+	channel: Narrator
+HJ2BN2N3-cWQE6XYv7N
+	alias: dlg_western04escort_train_brynnhild_damaged_random_03
+	volume: 1
+	channel: Narrator
+HJ2BN2N6-3GpcZRj4tc
+	alias: dlg_western04escort_train_brynnhild_repair_first_info_01
+	volume: 1
+	channel: Narrator
+HJ2BN2N7-D$JkW8XpZS
+	alias: dlg_western04escort_train_brynnhild_repair_random_01
+	volume: 1
+	channel: Narrator
+HJ2BN2N8-DBrdOzfpL0
+	alias: dlg_western04escort_train_brynnhild_repair_random_02
+	volume: 1
+	channel: Narrator
+HJ2BN2N9-wFxkaE8qc1
+	alias: dlg_western04escort_train_brynnhild_repair_random_03
+	volume: 1
+	channel: Narrator
+HJ2BN2NA-p78YscO4Je
+	alias: dlg_western04escort_thalya_idle_random_01
+	volume: 1
+	channel: Narrator
+HJ2BN2NB-SCjxexqhKg
+	alias: dlg_western04escort_thalya_idle_random_02
+	volume: 1
+	channel: Narrator
+HJ2BN2NC-5U$Dkc4K9w
+	alias: dlg_western04escort_thalya_idle_random_03
+	volume: 1
+	channel: Narrator
+HJ2BN2ND-eR9fXHhGxC
+	alias: dlg_western04escort_thalya_annoyed_random_01_01
+	volume: 1
+	channel: Narrator
+HJ2BN2NE-RNDMOgiJM0
+	alias: dlg_western04escort_thalya_annoyed_random_02_01
+	volume: 1
+	channel: Narrator
+HJ2BN2NF-WsNLnA$yM4
+	alias: dlg_western04escort_thalya_annoyed_random_03_01
+	volume: 1
+	channel: Narrator
+HJ2BN2NG-KevQ5hIjHv
+	alias: dlg_western04escort_thalya_annoyed_random_01_02
+	volume: 1
+	channel: Narrator
+HJ2BN2NH-kHlo5p3XMa
+	alias: dlg_western04escort_thalya_annoyed_random_02_02
+	volume: 1
+	channel: Narrator
+HJ2BN2NJ-8Jt89MY6ky
+	alias: dlg_western04escort_thalya_annoyed_random_03_02
+	volume: 1
+	channel: Narrator
+HJ2BN2NK-dLXjkdxnJR
+	alias: dlg_western04escort_thalya_idle_random_04
+	volume: 1
+	channel: Narrator
+HJ2BN2NL-a_a4Bpx7XO
+	alias: dlg_western04escort_train_brynnhild_repair_first_info_02
+	volume: 1
+	channel: Narrator
+HJ2BN2NN-_hb39bqdPC
+	alias: dlg_western04escort_thalya_first_idle_01
+	volume: 1
+	channel: Narrator
+HXDFRGLP-1UfNYsSNm0
+	alias: dlg_western01flee_intro_03
+	volume: 1
+	channel: Narrator
+HXDFRGLQ-o$yT1608uR
+	alias: dlg_western01flee_intro_04
+	volume: 1
+	channel: Narrator
+HXDFRGLR-1uBo40c9Iy
+	alias: dlg_western01flee_intro_05
+	volume: 1
+	channel: Narrator
+HXDFRGLS-Vf3bh$DYVw
+	alias: dlg_western01flee_intro_06
+	volume: 1
+	channel: Narrator
+HXDFRGLT-xy3uBdWlvn
+	alias: dlg_western01flee_intro_07
+	volume: 1
+	channel: Narrator
+HXDFRGLU-kFZbG_GZTV
+	alias: dlg_western01flee_intro_08
+	volume: 1
+	channel: Narrator
+HXDFRGLV-$WlbPnGLu6
+	alias: dlg_western01flee_intro_09
+	volume: 1
+	channel: Narrator
+HXDFRGLW-ahqmQoZkK3
+	alias: dlg_western01flee_intro_10
+	volume: 1
+	channel: Narrator
+HXDFRGLX-cTy$qfuZUv
+	alias: dlg_western01flee_intro_11
+	volume: 1
+	channel: Narrator
+HXDFRGLY-JlxrQFW8FN
+	alias: dlg_western01flee_intro_12
+	volume: 1
+	channel: Narrator
+HXDFRGLZ-DeKcakmCz6
+	alias: dlg_western01flee_western_vendor_staging_02
+	volume: 1
+	channel: Narrator
+HXDFRGM2-kqQl_msXco
+	alias: dlg_western01flee_western_vendor_staging_03
+	volume: 1
+	channel: Narrator
+HXDFRGM3-K_0CnrM9JK
+	alias: dlg_western01flee_western_vendor_staging_04
+	volume: 1
+	channel: Narrator
+HY3BL24Q-18jwNFanZI
+	alias: dlg_western05showdown_intro_01
+	volume: 1
+	channel: Narrator
+HY3BL24R-PWqajKNn_5
+	alias: dlg_western05showdown_intro_02
+	volume: 1
+	channel: Narrator
+HY3BL24S-i4nMfLDyOY
+	alias: dlg_western05showdown_intro_03
+	volume: 1
+	channel: Narrator
+HY3BL24T-_jlMEIHKDK
+	alias: dlg_western05showdown_intro_04
+	volume: 1
+	channel: Narrator
+HY3BL24U-tnz7qcQel0
+	alias: dlg_western05showdown_intro_05
+	volume: 1
+	channel: Narrator
+HY3BL24V-htbBcvNHb4
+	alias: dlg_western05showdown_intro_06
+	volume: 1
+	channel: Narrator
+HY3BL24W-1K5O842drr
+	alias: dlg_western05showdown_intro_07
+	volume: 1
+	channel: Narrator
+HY3BL24X-ECnk6T4kXC
+	alias: dlg_western05showdown_intro_08
+	volume: 1
+	channel: Narrator
+HY3BL24Y-CM2weGsjPr
+	alias: dlg_western05showdown_intro_09
+	volume: 1
+	channel: Narrator
+HY3BL24Z-iHE4zhq9VD
+	alias: dlg_western05showdown_intro_10
+	volume: 1
+	channel: Narrator
+HY3BL252-q0nThLQAkl
+	alias: dlg_western05showdown_boss_train_block_01
+	volume: 1
+	channel: Narrator
+HY3BL253-yD1q$Ri82m
+	alias: dlg_western05showdown_boss_train_block_02
+	volume: 1
+	channel: Narrator
+HY3BL254-685JEGxPS1
+	alias: dlg_western05showdown_boss_train_block_03
+	volume: 1
+	channel: Narrator
+HY3BL255-2FDyIuoevs
+	alias: dlg_western05showdown_boss_train_block_04
+	volume: 1
+	channel: Narrator
+HY3BL256-8ZQ_RWpZd5
+	alias: dlg_western05showdown_boss_train_defeat_01
+	volume: 1
+	channel: Narrator
+HY3BL257-5c4dvO4qOL
+	alias: dlg_western05showdown_boss_train_defeat_02
+	volume: 1
+	channel: Narrator
+HY3BL258-RPZUn6vmxm
+	alias: dlg_western05showdown_boss_train_defeat_03
+	volume: 1
+	channel: Narrator
+HY3BL259-cFE0jnVwzy
+	alias: dlg_western05showdown_boss_train_defeat_04
+	volume: 1
+	channel: Narrator
+HY3BL25A-ckLCR6Fzf
+	alias: dlg_western05showdown_boss_train_defeat_05
+	volume: 1
+	channel: Narrator
+HY3BL25B-xs4vgrhe4L
+	alias: dlg_western05showdown_outro_01
+	volume: 1
+	channel: Narrator
+HY3BL25C-TZ6htH3hW8
+	alias: dlg_western05showdown_outro_lose_01
+	volume: 1
+	channel: Narrator
+HY3BL25D-08F8_qqE68
+	alias: dlg_western05showdown_heroes_killed_random_01
+	volume: 1
+	channel: Narrator
+HY3BL25E-tStlL5epnl
+	alias: dlg_western05showdown_heroes_killed_random_02
+	volume: 1
+	channel: Narrator
+HY3BL25F-VpM4a7fvHe
+	alias: dlg_western05showdown_heroes_killed_random_03
+	volume: 1
+	channel: Narrator
+HY3BL25G-LjW1dr5lmd
+	alias: dlg_western05showdown_enemy_spawn_init_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25H-56B2lUD$_Z
+	alias: dlg_western05showdown_enemy_spawn_init_fallback_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25J-fBJPpTDJHP
+	alias: dlg_western05showdown_train_attack_dungeon_reminder_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25K-t4z8f$rzPj
+	alias: dlg_western05showdown_train_attack_dungeon_reminder_info_02
+	volume: 1
+	channel: Narrator
+HY3BL25L-Nx5X1x5KsO
+	alias: dlg_western05showdwon_dungeon_dwarfs_defeated_early_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25M-v7CjLuJAW3
+	alias: dlg_western05showdwon_dungeon_dwarfs_defeated_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25N-iTN15uE9No
+	alias: dlg_western05showdown_train_health_75_percent_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25P-8IKYCaeyrI
+	alias: dlg_western05showdown_train_health_50_percent_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25Q-Zg7_zZmwiV
+	alias: dlg_western05showdown_train_health_25_percent_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25R-9q6K5xkPIL
+	alias: dlg_western05showdown_brynnhild_health_25_percent_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25S-lIAKaW316H
+	alias: dlg_western05showdown_brynnhild_health_50_percent_info_01
+	volume: 1
+	channel: Narrator
+HY3BL25T-P4hHP7HwYx
+	alias: dlg_western05showdown_brynnhild_health_75_percent_info_01
+	volume: 1
+	channel: Narrator
+J72RBN6E-CIEjA5r6lr
+	alias: dlg_western01flee_sandstorm_appearing_01
+	volume: 1
+	channel: Narrator
+J72RBN6F-Z9ORMJSo55
+	alias: dlg_western01flee_sandstorm_vanishes_01
+	volume: 1
+	channel: Narrator
+J89W5JHF-cGUWDI6YAs
+	alias: dlg_western05showdown_enter_showdown_area_03
+	volume: 1
+	channel: Narrator
+J89W5JHG-9ndBgH_oM3
+	alias: dlg_western05showdown_enter_showdown_area_04
+	volume: 1
+	channel: Narrator
+J89W5JHH-M9OJ7X5ggy
+	alias: dlg_western05showdown_boss_train_defeat_06
+	volume: 1
+	channel: Narrator
+J89W5JHJ-rYfJm_rfZ7
+	alias: dlg_western05showdown_outro_02
+	volume: 1
+	channel: Narrator
+J89W5JHK-cNeqkB40dU
+	alias: dlg_western05showdown_outro_03
+	volume: 1
+	channel: Narrator
+JWBE8X98-UABTIlvFZ0
+	alias: dlg_western01flee_outro_04
+	volume: 1
+	channel: Narrator
+JWBE8X99-1UmvhR28OK
+	alias: dlg_western01flee_outro_05
+	volume: 1
+	channel: Narrator
+K3KKJS6V-fqqxHTcHd1
+	alias: dlg_western04escort_intro_11
+	volume: 1
+	channel: Narrator
+K3KKJS6W-kOuZkkg8ks
+	alias: dlg_western04escort_intro_12
+	volume: 1
+	channel: Narrator
+K3MHLPL7-MENllL$OTf
+	alias: dlg_common_western_vendor_success_random_01
+	volume: 1
+	channel: Narrator
+K3MHLPL8-aAkmGJSdTq
+	alias: dlg_common_western_vendor_failed_random_01
+	volume: 1
+	channel: Narrator
+K3MHLPL9-zCrOwxTwe9
+	alias: dlg_common_western_vendor_new_quest_random_01
+	volume: 1
+	channel: Narrator
+K3SN3PZ4-zltINABJwf
+	alias: dlg_western04escort_intro_01
+	volume: 1
+	channel: Narrator
+K3SN3PZ5-FKFNVsNf1h
+	alias: dlg_western04escort_intro_02
+	volume: 1
+	channel: Narrator
+K3SN3PZ6-0Wq9RONA18
+	alias: dlg_western04escort_intro_03
+	volume: 1
+	channel: Narrator
+K3SN3PZ7-YrZAH7V9wD
+	alias: dlg_western04escort_intro_04
+	volume: 1
+	channel: Narrator
+K3SN3PZ8-00xjZCwkUE
+	alias: dlg_western04escort_intro_05
+	volume: 1
+	channel: Narrator
+K3SN3PZ9-HwFFU6K6Us
+	alias: dlg_western04escort_intro_06
+	volume: 1
+	channel: Narrator
+K3SN3PZA-_YLA2i3wum
+	alias: dlg_western04escort_intro_07
+	volume: 1
+	channel: Narrator
+K3SN3PZB-zOdRjgx7Ti
+	alias: dlg_western04escort_intro_08
+	volume: 1
+	channel: Narrator
+K3SN3PZC-7HsRShXGM7
+	alias: dlg_western04escort_intro_09
+	volume: 1
+	channel: Narrator
+K3SN3PZD-tyRln$DG21
+	alias: dlg_western04escort_spawner_first_info_01
+	volume: 1
+	channel: Narrator
+K3SN3PZE-he9MNTklST
+	alias: dlg_western04escort_spawner_first_fallback_info_01
+	volume: 1
+	channel: Narrator
+K3SN3PZF-GCXzPm_34u
+	alias: dlg_western04escort_spawner_first_info_02
+	volume: 1
+	channel: Narrator
+K3SN3PZG-6WI54TQ3Nd
+	alias: dlg_western04escort_outro_lose_01
+	volume: 1
+	channel: Narrator
+K3SN3PZH-skpgiUsyVq
+	alias: dlg_western04escort_outro_lose_train_brynnhild_01
+	volume: 1
+	channel: Narrator
+K3SN3PZJ-pTJPlLzdYS
+	alias: dlg_western04escort_outro_01
+	volume: 1
+	channel: Narrator
+K3SN3PZK-6U_M$whj1O
+	alias: dlg_western04escort_outro_02
+	volume: 1
+	channel: Narrator
+K3SN3PZL-TDrqIPp_Qx
+	alias: dlg_western04escort_outro_03
+	volume: 1
+	channel: Narrator
+K3SN3PZM-JzT5qTrLqc
+	alias: dlg_western04escort_outro_04
+	volume: 1
+	channel: Narrator
+KKDFX7HW-JlPnzBs2e$
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_02
+	volume: 1
+	channel: Narrator
+KKDFX7HX-KW1QWMzzQK
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_03
+	volume: 1
+	channel: Narrator
+KKDFX7HY-2PhydmYtsb
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_success_02
+	volume: 1
+	channel: Narrator
+KKDFX7HZ-vujeyddx2c
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_failed_02
+	volume: 1
+	channel: Narrator
+KKDFX7J3-G0X4LA$4DQ
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_failed_random_03
+	volume: 1
+	channel: Narrator
+KKDFX7J4-GZd9SOjzmX
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_success_random_02_01
+	volume: 1
+	channel: Narrator
+KKDFX7J5-nskNmecDHb
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_success_random_03_01
+	volume: 1
+	channel: Narrator
+KKDFX7J6-x_vZugAjCY
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_success_random_01_02
+	volume: 1
+	channel: Narrator
+KKDFX7J7-awMKEENCv$
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_success_random_02_02
+	volume: 1
+	channel: Narrator
+KKDFX7J8-I$$hhitJoH
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_success_random_03_02
+	volume: 1
+	channel: Narrator
+KKDFX7J9-0PUfgeci$J
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_start_random_02
+	volume: 1
+	channel: Narrator
+KKDFX7JA-yfnMo9RlM
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_start_random_03
+	volume: 1
+	channel: Narrator
+KKDFX7JB-0w1fO9ARsb
+	alias: dlg_western02rescue_western_vendor_aoe_dynamite_first_start_04
+	volume: 1
+	channel: Narrator
+LC7RW4ED-Oc5PPsZq2X
+	alias: dlg_western04escort_barricades_player_destroyed_01_first_info_01_01
+	volume: 1
+	channel: Narrator
+LC7RW4EE-Cpy10L0c5X
+	alias: dlg_western04escort_barricades_player_destroyed_02_second_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EF-fpvzaVyONX
+	alias: dlg_western04escort_barricades_player_destroyed_03_third_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EG-HcrMovLSvG
+	alias: dlg_western04escort_barricades_player_destroyed_04_fourth_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EH-JpL7hdRktZ
+	alias: dlg_western04escort_barricades_player_destroyed_05_fifth_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EJ-1qCdasvEyI
+	alias: dlg_western04escort_barricades_brynnhild_destroyed_01_first_info_01_01
+	volume: 1
+	channel: Narrator
+LC7RW4EK-z5GdAawxAp
+	alias: dlg_western04escort_barricades_brynnhild_destroyed_02_second_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EL-5Of_EHrYim
+	alias: dlg_western04escort_barricades_brynnhild_destroyed_03_third_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EM-qoMev$grII
+	alias: dlg_western04escort_barricades_brynnhild_destroyed_04_fourth_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EN-EuviQ4ctvB
+	alias: dlg_western04escort_barricades_brynnhild_destroyed_05_fifth_info_01
+	volume: 1
+	channel: Narrator
+LC7RW4EP-YPRd2nFQ4k
+	alias: dlg_western04escort_barricades_player_destroyed_01_first_info_01_02
+	volume: 1
+	channel: Narrator
+LC7RW4EQ-HFGPlxasYV
+	alias: dlg_western04escort_barricades_player_destroyed_01_first_info_01_03
+	volume: 1
+	channel: Narrator
+LC7RW4ER-$hQaizfpN$
+	alias: dlg_western04escort_barricades_brynnhild_destroyed_01_first_info_01_02
+	volume: 1
+	channel: Narrator
+LC7RW4ES-HV3NWgL1Ga
+	alias: dlg_western03bounty_outro_03
+	volume: 1
+	channel: Narrator
+LVJJ4WBT-RgzP0uEj1m
+	alias: dlg_western01flee_first_spawn_01
+	volume: 1
+	channel: Narrator
+LVJJ4WBU-nmfNpFClwc
+	alias: dlg_western01flee_first_spawn_fallback_01
+	volume: 1
+	channel: Narrator
+M7WWFZQJ-BXdAYz8SO8
+	alias: dlg_western03bounty_resources_train_first_deliver_info_01
+	volume: 1
+	channel: Narrator
+M7WWFZQK-MSgyLxcG81
+	alias: dlg_western03bounty_resources_train_first_deliver_info_02
+	volume: 1
+	channel: Narrator
+M7WWFZQL-u0tgTeH6kH
+	alias: dlg_western03bounty_resources_train_first_deliver_info_03
+	volume: 1
+	channel: Narrator
+M7WWFZQM-rOTOxTfdr_
+	alias: dlg_western03bounty_resources_train_first_deliver_info_04
+	volume: 1
+	channel: Narrator
+M7WWFZQP-GIyC0yRNO3
+	alias: dlg_western03bounty_resources_train_second_deliver_info_01
+	volume: 1
+	channel: Narrator
+M7WWFZQQ-VnQ0x8M0Ly
+	alias: dlg_western03bounty_resources_train_second_deliver_info_02
+	volume: 1
+	channel: Narrator
+M7WWFZQR-0sepTD0U4R
+	alias: dlg_western03bounty_resources_train_second_deliver_info_03
+	volume: 1
+	channel: Narrator
+M7WWFZQS-b_6i0AVmLU
+	alias: dlg_western03bounty_resources_train_second_deliver_info_04
+	volume: 1
+	channel: Narrator
+M7WWFZQT-Y$zIWJ3h6D
+	alias: dlg_western03bounty_resources_train_second_deliver_info_05
+	volume: 1
+	channel: Narrator
+MQZ9V32H-bSC62qNMoW
+	alias: dlg_common_western_vendor_success_random_02
+	volume: 1
+	channel: Narrator
+MQZ9V32J-VI$vlPVQxX
+	alias: dlg_common_western_vendor_success_random_03
+	volume: 1
+	channel: Narrator
+MQZ9V32K-v0QWqB_0dj
+	alias: dlg_common_western_vendor_new_quest_random_02
+	volume: 1
+	channel: Narrator
+MQZ9V32L-tGrd_$qlZF
+	alias: dlg_common_western_vendor_new_quest_random_03
+	volume: 1
+	channel: Narrator
+MQZ9V32M-ymNE60pwcC
+	alias: dlg_common_western_vendor_failed_random_02
+	volume: 1
+	channel: Narrator
+MQZ9V32N-TRwSwJEhG5
+	alias: dlg_common_western_vendor_failed_random_03
+	volume: 1
+	channel: Narrator
+NK2KXNN8-1YKSfA5$yC
+	alias: dlg_western02rescue_outro_04
+	volume: 1
+	channel: Narrator
+NK2KXNN9-WtMH8w$WaZ
+	alias: dlg_western02rescue_outro_05
+	volume: 1
+	channel: Narrator
+P3VY6R5U-KQr4QHoXhO
+	alias: dlg_western05showdown_intro_12
+	volume: 1
+	channel: Narrator
+P3VY6R5V-Ybu_FLcmIS
+	alias: dlg_western05showdown_heroes_killed_random_01_01
+	volume: 1
+	channel: Narrator
+P3VY6R5W-jLGrAkxlBU
+	alias: dlg_western05showdown_heroes_killed_random_03_01
+	volume: 1
+	channel: Narrator
+P3VY6R5X-HKlle3Pdom
+	alias: dlg_western05showdown_train_attack_dungeon_reminder_info_03
+	volume: 1
+	channel: Narrator
+QDDL3JX5-Zc0rHpCyjn
+	alias: dlg_western03bounty_spawner_first_info_01
+	volume: 1
+	channel: Narrator
+QDDL3JX6-Tjk6VkRioQ
+	alias: dlg_western03bounty_spawner_first_fallback_info_01
+	volume: 1
+	channel: Narrator
+QT4FDZCL-kazI7$WT3q
+	alias: dlg_western03bounty_western_vendor_ressource_random_02
+	volume: 1
+	channel: Narrator
+QT4FDZCM-osJ78XUB6m
+	alias: dlg_western03bounty_western_vendor_ressource_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZCN-mkxMgCULpC
+	alias: dlg_western03bounty_western_vendor_ressource_failed_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZCP-momFOnu1Y4
+	alias: dlg_western03bounty_western_vendor_ressource_failed_first_info_02
+	volume: 1
+	channel: Narrator
+QT4FDZCR-XvxwbvtnL7
+	alias: dlg_western04escort_barricades_brynnhild_spawn_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZCS-rYzFOM3VLZ
+	alias: dlg_western04escort_barricades_brynnhild_spawn_vendor_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZCV-Wx0uGKxBhZ
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_first_info_02
+	volume: 1
+	channel: Narrator
+QT4FDZCW-IfnVc5Ek8R
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_first_info_03
+	volume: 1
+	channel: Narrator
+QT4FDZCX-su2qFMhwTM
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_first_info_04
+	volume: 1
+	channel: Narrator
+QT4FDZCY-FPe81rCxPZ
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_first_info_05
+	volume: 1
+	channel: Narrator
+QT4FDZCZ-Mmy6cg$lu2
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_failed_first_info_02
+	volume: 1
+	channel: Narrator
+QT4FDZD3-4qs7qk8t4Q
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_failed_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZD4-QhFPmDzRnF
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_random_02
+	volume: 1
+	channel: Narrator
+QT4FDZD5-jMZ8vSo8VL
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_start_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZD6-chH$$NqluY
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_success_random_02
+	volume: 1
+	channel: Narrator
+QT4FDZD7-k_TAuDrmi8
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_success_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZD8-qrCsP3OSGG
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_success_first_info_02
+	volume: 1
+	channel: Narrator
+QT4FDZD9-vVUo0I2ZRQ
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_success_first_info_03
+	volume: 1
+	channel: Narrator
+QT4FDZDA-95QbmM0rWk
+	alias: dlg_western04escort_western_vendor_aoe_dynamite_success_first_info_04
+	volume: 1
+	channel: Narrator
+QT4FDZDB-3bLLCmw9Qv
+	alias: dlg_western04escort_barricades_brynnhild_spawn_vendor_first_info_02
+	volume: 1
+	channel: Narrator
+QT4FDZDC-q1tXHLUZ$v
+	alias: dlg_western04escort_barricades_brynnhild_spawn_vendor_first_info_03
+	volume: 1
+	channel: Narrator
+QT4FDZDD-1hVzdpmOEI
+	alias: dlg_western04escort_barricades_brynnhild_spawn_first_info_02
+	volume: 1
+	channel: Narrator
+QT4FDZDE-Fw9pFKRALq
+	alias: dlg_western05showdown_western_vendor_train_slow_buff_first_start_02
+	volume: 1
+	channel: Narrator
+QT4FDZDF-KuKBUr0xlB
+	alias: dlg_western05showdown_western_vendor_train_slow_buff_first_start_03
+	volume: 1
+	channel: Narrator
+QT4FDZDG-WTS2ef_S7h
+	alias: dlg_western05showdown_western_vendor_train_slow_buff_first_start_04
+	volume: 1
+	channel: Narrator
+QT4FDZDH-w6XZppI6lO
+	alias: dlg_western05showdown_western_vendor_train_slow_buff_start_random_02
+	volume: 1
+	channel: Narrator
+QT4FDZDJ-lKAqaiLiGs
+	alias: dlg_western05showdown_western_vendor_train_slow_buff_start_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZDK-aWuYbU_dxr
+	alias: dlg_western05showdown_western_vendor_train_slow_first_start_success_02
+	volume: 1
+	channel: Narrator
+QT4FDZDL-u9PtqxJ4bn
+	alias: dlg_western05showdown_western_vendor_train_slow_first_start_success_03
+	volume: 1
+	channel: Narrator
+QT4FDZDM-u5KAjoEy60
+	alias: dlg_western05showdown_western_vendor_train_slow_success_random_02
+	volume: 1
+	channel: Narrator
+QT4FDZDN-OSv33xWysf
+	alias: dlg_western05showdown_western_vendor_train_slow_success_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZDP-SWEob81pEm
+	alias: dlg_western05showdown_western_vendor_train_slow_fail_random_02
+	volume: 1
+	channel: Narrator
+QT4FDZDQ-spINf_V2Lm
+	alias: dlg_western05showdown_western_vendor_train_slow_fail_random_03
+	volume: 1
+	channel: Narrator
+QT4FDZDR-Y3z_ieLoQ_
+	alias: dlg_western05showdown_boss_train_random_03_01
+	volume: 1
+	channel: Narrator
+QT4FDZDS-tewuT33zpt
+	alias: dlg_western05showdown_boss_train_random_03_02
+	volume: 1
+	channel: Narrator
+RJ248WXB-53D3jK_Y1G
+	alias: dlg_western01flee_trap_reserach_info_02
+	volume: 1
+	channel: Narrator
+T8FKDT3Q-qwWbxjF8dx
+	alias: dlg_western04escort_train_brynnhild_damaged_first_info_02
+	volume: 1
+	channel: Narrator
+TFY39A8J-wZqvOY3UY2
+	alias: dlg_western02rescue_outro_02
+	volume: 1
+	channel: Narrator
+TFY39A8K-8_$Q4X60TY
+	alias: dlg_western02rescue_outro_03
+	volume: 1
+	channel: Narrator
+TFY39A8L-XnE7xK$EOn
+	alias: dlg_western02rescue_snots_need_to_rescue_reminder_info_01
+	volume: 1
+	channel: Narrator
+TFY39A8M-oML1auoAem
+	alias: dlg_western02rescue_snots_need_to_rescue_reminder_info_02
+	volume: 1
+	channel: Narrator
+TFY39A8N-0aQVa4wYG5
+	alias: dlg_western02rescue_snots_need_to_rescue_reminder_info_03
+	volume: 1
+	channel: Narrator
+TFY39A8P-gaVD0MKxIW
+	alias: dlg_western02rescue_snot_rescue_first_info_01
+	volume: 1
+	channel: Narrator
+TFY39A8Q-3eJu$4ajuS
+	alias: dlg_western02rescue_snot_rescue_first_info_02
+	volume: 1
+	channel: Narrator
+TFY39A8R-VfiRYDVbZd
+	alias: dlg_western02rescue_snot_rescue_25_percent_info_01
+	volume: 1
+	channel: Narrator
+TFY39A8S-LV59ohaYfZ
+	alias: dlg_western02rescue_snot_rescue_25_percent_info_02
+	volume: 1
+	channel: Narrator
+TFY39A8T-mI7NTXzWYq
+	alias: dlg_western02rescue_snot_rescue_50_percent_info_01
+	volume: 1
+	channel: Narrator
+TFY39A8U-GJhhD1hXc8
+	alias: dlg_western02rescue_snot_rescue_50_percent_info_02
+	volume: 1
+	channel: Narrator
+TFY39A8V-vZklrvo$6Z
+	alias: dlg_western02rescue_snot_rescue_75_percent_info_01
+	volume: 1
+	channel: Narrator
+TFY39A8W-nTe17LoJAM
+	alias: dlg_western02rescue_snot_rescue_75_percent_info_02
+	volume: 1
+	channel: Narrator
+TFY39A8X-5R00oU3l4_
+	alias: dlg_western02rescue_snot_rescue_75_percent_info_03
+	volume: 1
+	channel: Narrator
+TFY39A8Y-mpAQ72$MWi
+	alias: dlg_western02rescue_train_01_start_01
+	volume: 1
+	channel: Narrator
+TFY39A8Z-Mq$xzesat1
+	alias: dlg_western02rescue_train_02_start_01
+	volume: 1
+	channel: Narrator
+TFY39A92-PYN5hgCS23
+	alias: dlg_western02rescue_train_03_start_01
+	volume: 1
+	channel: Narrator
+TFY39A93-ZtrAGvcaBn
+	alias: dlg_western02rescue_train_01_end_01
+	volume: 1
+	channel: Narrator
+TFY39A94-mx7CkVJBie
+	alias: dlg_western02rescue_train_02_end_01
+	volume: 1
+	channel: Narrator
+TFY39A95-m4Lc9hByFZ
+	alias: dlg_western02rescue_train_03_end_01
+	volume: 1
+	channel: Narrator
+TFY39A98-p5F6w2WcOL
+	alias: dlg_western02rescue_train_03_destroyed_unreachable_info_01
+	volume: 1
+	channel: Narrator
+TFY39A9A-LkGtWcHKn6
+	alias: dlg_western02rescue_dwarven_ambush_start_01
+	volume: 1
+	channel: Narrator
+TFY39A9B-gdExk0WZFB
+	alias: dlg_western02rescue_dwarven_ambush_start_02
+	volume: 1
+	channel: Narrator
+TFY39A9C-xbBkhcVcTj
+	alias: dlg_western02rescue_dwarven_ambush_send_dwarfs_random_01_01
+	volume: 1
+	channel: Narrator
+TFY39A9D-MbgpIUxfZW
+	alias: dlg_western02rescue_dwarven_ambush_send_dwarfs_random_01_02
+	volume: 1
+	channel: Narrator
+TFY39A9E-QatqnIzHDc
+	alias: dlg_western02rescue_dwarven_ambush_send_dwarfs_random_02_01
+	volume: 1
+	channel: Narrator
+TFY39A9F-khdbxg3l24
+	alias: dlg_western02rescue_dwarven_ambush_send_dwarfs_random_02_02
+	volume: 1
+	channel: Narrator
+TFY39A9G-MmZIG1pbNG
+	alias: dlg_western02rescue_dwarven_ambush_end_01
+	volume: 1
+	channel: Narrator
+TFY39A9H-g8IeaA12TK
+	alias: dlg_western02rescue_dwarven_ambush_end_02
+	volume: 1
+	channel: Narrator
+TFY39A9J-fB399sQh8K
+	alias: dlg_western02rescue_dungeon_dwarven_city_still_alive_info_01
+	volume: 1
+	channel: Narrator
+TFY39A9K-ueYWdG$Tp3
+	alias: dlg_western02rescue_golden_portals_use_random_01
+	volume: 1
+	channel: Narrator
+TFY39A9L-ZMyaDtcqY3
+	alias: dlg_western02rescue_golden_portals_use_random_02
+	volume: 1
+	channel: Narrator
+TFY39A9M-K$OIw6X6Fy
+	alias: dlg_western02rescue_golden_portals_use_random_03
+	volume: 1
+	channel: Narrator
+UB9UMQEU-2kE5u5FSWb
+	alias: dlg_western05showdown_enter_showdown_area_01
+	volume: 1
+	channel: Narrator
+UB9UMQEV-WlvTeXP9nZ
+	alias: dlg_western05showdown_enter_showdown_area_02
+	volume: 1
+	channel: Narrator
+UB9UMQEW-i2TXj9Ofrv
+	alias: dlg_western05showdown_brynnhild_fight_start_01
+	volume: 1
+	channel: Narrator
+UB9UMQEX-drAZqqts$e
+	alias: dlg_western05showdown_brynnhild_fight_start_02
+	volume: 1
+	channel: Narrator
+UB9UMQEY-ovHGFN2fYT
+	alias: dlg_western05showdown_brynnhild_fight_start_03
+	volume: 1
+	channel: Narrator
+UB9UMQEZ-Yh39EsqRxs
+	alias: dlg_western05showdown_brynnhild_fight_start_04
+	volume: 1
+	channel: Narrator
+UB9UMQF2-ts6dOtxTK
+	alias: dlg_western05showdown_brynnhild_fight_start_05
+	volume: 1
+	channel: Narrator
+UB9UMQF3-RZjRw6GmtZ
+	alias: dlg_western05showdown_boss_train_random_01_01
+	volume: 1
+	channel: Narrator
+UB9UMQF4-fYLsqm3v1C
+	alias: dlg_western05showdown_boss_train_random_01_02
+	volume: 1
+	channel: Narrator
+UB9UMQF5-sG6Zvib7G2
+	alias: dlg_western05showdown_boss_train_random_02_01
+	volume: 1
+	channel: Narrator
+UB9UMQF6-JpnYYJB9uy
+	alias: dlg_western05showdown_boss_train_random_02_02
+	volume: 1
+	channel: Narrator
+UKE7RYTW-M96OvmxA6e
+	alias: dlg_western01flee_western_vendor_staging_success_02
+	volume: 1
+	channel: Narrator
+UKE7RYTX-97p7VI_wxG
+	alias: dlg_western01flee_new_heroes_info_02
+	volume: 1
+	channel: Narrator
+UKE7RYTY-nZQ8Z5n_Eu
+	alias: dlg_western01flee_new_heroes_info_03
+	volume: 1
+	channel: Narrator
+UKE7RYTZ-kAQQwEYYpG
+	alias: dlg_western01flee_scorpion_outside_staging_start_02
+	volume: 1
+	channel: Narrator
+UKE7RYU2-UpaWJChgMA
+	alias: dlg_western01flee_scorpion_outside_staging_start_03
+	volume: 1
+	channel: Narrator
+UKE7RYU3-XJMxl6YEsh
+	alias: dlg_western01flee_scorpion_outside_staging_end_02
+	volume: 1
+	channel: Narrator
+UKE7RYU4-9S9Ky$WCV0
+	alias: dlg_western01flee_western_vendor_new_trap_02
+	volume: 1
+	channel: Narrator
+UKE7RYU5-z0lqwhLys2
+	alias: dlg_western01flee_western_vendor_new_trap_success_02
+	volume: 1
+	channel: Narrator
+UKE7RYU6-QIRg_KjcOc
+	alias: dlg_western01flee_western_vendor_new_trap_failed_02
+	volume: 1
+	channel: Narrator
+UKE7RYU7-IDXS65Dpno
+	alias: dlg_western01flee_exit_found_02
+	volume: 1
+	channel: Narrator
+UKE7RYU8-GWwnfMeKmQ
+	alias: dlg_western01flee_exit_found_03
+	volume: 1
+	channel: Narrator
+UKE7RYU9-rN_bHum0tC
+	alias: dlg_western01flee_western_vendor_aoe_dynamite_02
+	volume: 1
+	channel: Narrator
+UKE7RYUA-7xd1ev144l
+	alias: dlg_western01flee_western_vendor_aoe_dynamite_03
+	volume: 1
+	channel: Narrator
+UKE7RYUB-kI9Y3fK5UF
+	alias: dlg_western01flee_western_vendor_aoe_dynamite_success_02
+	volume: 1
+	channel: Narrator
+UKE7RYUC-WWf7x6oov7
+	alias: dlg_western01flee_city_destroyed_02
+	volume: 1
+	channel: Narrator
+UKE7RYUD-odqhBnNblg
+	alias: dlg_western01flee_city_destroyed_03
+	volume: 1
+	channel: Narrator
+UKE7RYUE-YC$g3474r
+	alias: dlg_western01flee_scorpion_spawner_killed_info_02
+	volume: 1
+	channel: Narrator
+USX5BYCK-BJGBWbijQl
+	alias: dlg_western02rescue_dwarven_ambush_end_03
+	volume: 1
+	channel: Narrator
+USX5BYCL-KiWpN3Z0u
+	alias: dlg_western02rescue_dwarven_ambush_end_04
+	volume: 1
+	channel: Narrator
+UWWBPXXS-rxyqafpZK1
+	alias: dlg_general_thalya_western_v1
+	volume: 1
+	channel: Narrator
+UWWBPXXT-U65Yv4pXSg
+	alias: dlg_general_thalya_western_v2
+	volume: 1
+	channel: Narrator
+UWWBPXXU-8xnvW13xSx
+	alias: dlg_general_thalya_western_v3
+	volume: 1
+	channel: Narrator
+UWWBPXXV-c$2zACw5v2
+	alias: dlg_general_thalya_western_v4
+	volume: 1
+	channel: Narrator
+UWWBPXXW-5i8dRaSb6R
+	alias: dlg_general_thalya_western_v5
+	volume: 1
+	channel: Narrator
+UWWBPXXX-nxJDkWtEic
+	alias: dlg_general_thalya_western_v6
+	volume: 1
+	channel: Narrator
+UWWBPXXY-hgmqOTkJN4
+	alias: dlg_general_thalya_western_v7
+	volume: 1
+	channel: Narrator
+UWWBPXY2-U7UYpP2muG
+	alias: dlg_western03bounty_western_vendor_ressource_first_info_02
+	volume: 1
+	channel: Narrator
+UWWBPXY3-llCfIAeOF
+	alias: dlg_western03bounty_western_vendor_ressource_first_info_03
+	volume: 1
+	channel: Narrator
+UWWBPXY4-tDyBKkmmNt
+	alias: dlg_western03bounty_western_vendor_ressource_first_info_04
+	volume: 1
+	channel: Narrator
+UWWBPXY5-B1ykJKz3rS
+	alias: dlg_western03bounty_western_vendor_ressource_first_info_05
+	volume: 1
+	channel: Narrator
+VF3B7Y3D-v3aieyF3lx
+	alias: dlg_general_western
+	volume: 1
+	channel: Narrator
+VF3B7Y3E-JtPO3sTufJ
+	alias: dlg_startup_first_time_western_v1
+	volume: 1
+	channel: Narrator
+W4R76YK5-OvkD18Jx63
+	alias: dlg_western04escort_intro_10
+	volume: 1
+	channel: Narrator
+X5FRBVFV-p83FAgiax9
+	alias: dlg_western05showdown_boss_train_station_east_info_01
+	volume: 1
+	channel: Narrator
+X5FRBVFW-N$MgdQrQM$
+	alias: dlg_western05showdown_boss_train_station_north_info_01
+	volume: 1
+	channel: Narrator
+X5FRBVFX-_o3f2m3av4
+	alias: dlg_western05showdown_boss_train_station_south_west_info_01
+	volume: 1
+	channel: Narrator
+YPRGRA5K-sXQLkiqVdR
+	alias: dlg_western01flee_intro_13
+	volume: 1
+	channel: Narrator
+YPRGRA5L-USFjzffgMz
+	alias: dlg_western01flee_western_vendor_new_trap_03
+	volume: 1
+	channel: Narrator
+YPRGRA5M-u$FK67Kur7
+	alias: dlg_western01flee_introvideo_01
+	volume: 1
+	channel: Narrator
+YPRGRA5N-gxNRByfEvV
+	alias: dlg_western01flee_introvideo_02
+	volume: 1
+	channel: Narrator
+YPRGRA5P-QBEBbfO3Gk
+	alias: dlg_western01flee_introvideo_03
+	volume: 1
+	channel: Narrator
+YPRGRA5Q-ma5mBTMm2H
+	alias: dlg_western01flee_introvideo_04
+	volume: 1
+	channel: Narrator
+YUJJRABN-HSilCGprqz
+	alias: dlg_western03bounty_intro_01
+	volume: 1
+	channel: Narrator
+YUJJRABP-GgbVA9Srs8
+	alias: dlg_western03bounty_intro_02
+	volume: 1
+	channel: Narrator
+YUJJRABQ-QcblqLjfwP
+	alias: dlg_western03bounty_intro_03
+	volume: 1
+	channel: Narrator
+YUJJRABR-xeqjNoIuXO
+	alias: dlg_western03bounty_intro_04
+	volume: 1
+	channel: Narrator
+YUJJRABS-RS5eQ4b97o
+	alias: dlg_western03bounty_intro_05
+	volume: 1
+	channel: Narrator
+YUJJRABT-XlJVTp2In2
+	alias: dlg_western03bounty_intro_06
+	volume: 1
+	channel: Narrator
+YUJJRABU-cTfVWj85Qb
+	alias: dlg_western03bounty_intro_07
+	volume: 1
+	channel: Narrator
+YUJJRABV-uStgGuL0AZ
+	alias: dlg_western03bounty_intro_08
+	volume: 1
+	channel: Narrator
+YUJJRABW-cFMn_AjxOn
+	alias: dlg_western03bounty_intro_09
+	volume: 1
+	channel: Narrator
+YUJJRABX-GIyC0yRNO3
+	alias: dlg_western03bounty_outro_01
+	volume: 1
+	channel: Narrator
+YUJJRABY-kzBOIDzxFv
+	alias: dlg_western03bounty_outro_lose_01
+	volume: 1
+	channel: Narrator
+YUJJRABZ-VA1bV39Wrk
+	alias: dlg_western03bounty_outro_02
+	volume: 1
+	channel: Narrator
+YUJJRAC2-5LJbCNPofO
+	alias: dlg_western03bounty_bounty_increased_first_info_01
+	volume: 1
+	channel: Narrator
+YUJJRAC3-HyDpI0dU6H
+	alias: dlg_western03bounty_bounty_increased_random_01
+	volume: 1
+	channel: Narrator
+YUJJRAC4-CEcDedH_PG
+	alias: dlg_western03bounty_bounty_increased_random_02
+	volume: 1
+	channel: Narrator
+YUJJRAC5-sP6pGkUVIu
+	alias: dlg_western03bounty_bounty_increased_random_04
+	volume: 1
+	channel: Narrator
+YUJJRAC6-lW0cV7LovI
+	alias: dlg_western03bounty_bounty_increased_random_03
+	volume: 1
+	channel: Narrator
+YUJJRAC7-4MGRE49d53
+	alias: dlg_western03bounty_bounty_increased_random_05
+	volume: 1
+	channel: Narrator
+YUJJRAC9-80AN9gdwKS
+	alias: dlg_western03bounty_spawner_bounty_hunter_first_info_01
+	volume: 1
+	channel: Narrator
+YUJJRACB-jwdV8zsiql
+	alias: dlg_western03bounty_spawner_bounty_hunter_easy_random_01
+	volume: 1
+	channel: Narrator
+YUJJRACD-8zWOQPhQkd
+	alias: dlg_western03bounty_spawner_bounty_hunter_easy_random_02
+	volume: 1
+	channel: Narrator
+YUJJRACF-qsI3Va_k4D
+	alias: dlg_western03bounty_spawner_bounty_hunter_easy_random_03
+	volume: 1
+	channel: Narrator
+YUJJRACH-SqTB5E6u$b
+	alias: dlg_western03bounty_spawner_bounty_hunter_easy_random_04
+	volume: 1
+	channel: Narrator
+YUJJRACJ-1c4B_B$_5m
+	alias: dlg_western03bounty_spawner_bounty_hunter_normal_random_01
+	volume: 1
+	channel: Narrator
+YUJJRACK-s0tYywfy8R
+	alias: dlg_western03bounty_spawner_bounty_hunter_normal_random_02
+	volume: 1
+	channel: Narrator
+YUJJRACL-QrYkvNVY0J
+	alias: dlg_western03bounty_spawner_bounty_hunter_normal_random_03
+	volume: 1
+	channel: Narrator
+YUJJRACM-YZossdQW39
+	alias: dlg_western03bounty_spawner_bounty_hunter_hard_random_01_01
+	volume: 1
+	channel: Narrator
+YUJJRACN-TCAa$Wrvry
+	alias: dlg_western03bounty_spawner_bounty_hunter_hard_random_02
+	volume: 1
+	channel: Narrator
+YUJJRACP-3CyXS3rSm9
+	alias: dlg_western03bounty_spawner_bounty_hunter_hard_random_03
+	volume: 1
+	channel: Narrator
+YUJJRACQ-okI4yTXOwj
+	alias: dlg_western03bounty_spawner_bounty_hunter_hard_random_01_02
+	volume: 1
+	channel: Narrator
+YUJJRACR-I$ipVi1zg0
+	alias: dlg_western03bounty_cages_found_random_01
+	volume: 1
+	channel: Narrator
+YUJJRACS-gkunjvJAZi
+	alias: dlg_western03bounty_cages_found_random_02
+	volume: 1
+	channel: Narrator
+YUJJRACT-mrMRy4HN0U
+	alias: dlg_western03bounty_cages_found_random_03
+	volume: 1
+	channel: Narrator
+YUJJRACU-VltOwLU1qO
+	alias: dlg_western03bounty_cages_found_first_info_01
+	volume: 1
+	channel: Narrator
+YUJJRACV-7u9rc3Lv3S
+	alias: dlg_western03bounty_cages_destroyed_random_01
+	volume: 1
+	channel: Narrator
+YUJJRACW-_3m9p4gjEw
+	alias: dlg_western03bounty_cages_destroyed_random_02
+	volume: 1
+	channel: Narrator
+YUJJRACX-iyrrxpdoc2
+	alias: dlg_western03bounty_cages_destroyed_random_03
+	volume: 1
+	channel: Narrator
+YUJJRACY-ZO9NOZq3b$
+	alias: dlg_western03bounty_cages_destroyed_first_info_01
+	volume: 1
+	channel: Narrator
+YUJJRACZ-MSsQkoUDV0
+	alias: dlg_western03bounty_cages_found_first_info_02
+	volume: 1
+	channel: Narrator
+YV7PCXME-aCvj7RAKGg
+	alias: dlg_western01flee_train_mg_start_01
+	volume: 1
+	channel: Narrator
+YV7PCXMF-_CzTq_fcqv
+	alias: dlg_western01flee_train_mg_end_01
+	volume: 1
+	channel: Narrator
+Z7WWHGJC-247wZSutYD
+	alias: dlg_western02rescue_introvideo_01
+	volume: 1
+	channel: Narrator
+Z7WWHGJD-hV0GrlTEsr
+	alias: dlg_western02rescue_introvideo_02
+	volume: 1
+	channel: Narrator
+Z7WWHGJE-JOFplJcJc$
+	alias: dlg_western02rescue_introvideo_03
+	volume: 1
+	channel: Narrator
+Z7WWHGJF-J1zsOwh1XM
+	alias: dlg_western02rescue_introvideo_04
+	volume: 1
+	channel: Narrator
+Z7WWHGJG-QEaU$WugK7
+	alias: dlg_western02rescue_introvideo_05
+	volume: 1
+	channel: Narrator
+Z7WWHGJH-ItnpD5YDFx
+	alias: dlg_western02rescue_introvideo_06
+	volume: 1
+	channel: Narrator
+Z7WWHGJK-rWKXsLq9uC
+	alias: dlg_western02rescue_introvideo_07
+	volume: 1
+	channel: Narrator
+Z7WWHGJL-o1ouL8rBHc
+	alias: dlg_western05showdown_outrovideo_01
+	volume: 1
+	channel: Narrator
+Z7WWHGJM-Q8rBOw7mGI
+	alias: dlg_western05showdown_outrovideo_02
+	volume: 1
+	channel: Narrator
+Z7WWHGJN-x3A_n_eP6
+	alias: dlg_western05showdown_outrovideo_03
+	volume: 1
+	channel: Narrator
+Z7WWHGJP-nIIYIlcGJF
+	alias: dlg_western05showdown_outrovideo_04
+	volume: 1
+	channel: Narrator
+Z7WWHGJQ-oEEAMez5sG
+	alias: dlg_western05showdown_outrovideo_05
+	volume: 1
+	channel: Narrator
+Z7WWHGJR-y8unmbCxNC
+	alias: dlg_western05showdown_outrovideo_06
+	volume: 1
+	channel: Narrator
+Z7WWHGJS-frgmvr8DvP
+	alias: dlg_western05showdown_outrovideo_07
+	volume: 1
+	channel: Narrator
+Z7WWHGJT-16FKdwpDlH
+	alias: dlg_western05showdown_outrovideo_08
+	volume: 1
+	channel: Narrator
+Z7WWHGJU-GYlACcrxxi
+	alias: dlg_western05showdown_outrovideo_09
+	volume: 1
+	channel: Narrator
+Z7WWHGJV-bQDbXx6l9b
+	alias: dlg_western05showdown_outrovideo_10
+	volume: 1
+	channel: Narrator
+Z7WWHGJW-6ZeNqkAPIG
+	alias: dlg_western05showdown_outrovideo_11
+	volume: 1
+	channel: Narrator
+Z7WWHGJX-JF1AlCghWb
+	alias: dlg_western05showdown_outrovideo_12
+	volume: 1
+	channel: Narrator
+Z7WWHGJY-aghbavwdpd
+	alias: dlg_western05showdown_outrovideo_13
+	volume: 1
+	channel: Narrator
+Z7WWHGJZ-1Iq9mQNrwo
+	alias: dlg_western05showdown_outrovideo_14
+	volume: 1
+	channel: Narrator
+Z7WWHGK2-8Tnp6MGJBA
+	alias: dlg_western05showdown_outrovideo_15
+	volume: 1
+	channel: Narrator
+Z7WWHGK3-WDvxlbIp97
+	alias: dlg_western05showdown_outrovideo_16
+	volume: 1
+	channel: Narrator
+Z7WWHGK4-7dfMFWxVHy
+	alias: dlg_western05showdown_outrovideo_17
+	volume: 1
+	channel: Narrator
+Z7WWHGK5-eHTCIWVJ6W
+	alias: dlg_western05showdown_outrovideo_18
+	volume: 1
+	channel: Narrator
+Z7WWHGK6-6_QEn$TZ$n
+	alias: dlg_western05showdown_outrovideo_19
+	volume: 1
+	channel: Narrator
+Z7WWHGK7-vEg5jWvVxo
+	alias: dlg_western05showdown_outrovideo_20
+	volume: 1
+	channel: Narrator
+Z7WWHGK8-6bAe$RqmBe
+	alias: dlg_western05showdown_outrovideo_21
+	volume: 1
+	channel: Narrator
+Z7WWHGK9-eYG1zZOel
+	alias: dlg_western05showdown_outrovideo_22
+	volume: 1
+	channel: Narrator
+Z7WWHGKA-PPi1GK53hQ
+	alias: dlg_western05showdown_outrovideo_23
+	volume: 1
+	channel: Narrator
+Z7WWHGKB-ugcp5n7Hxj
+	alias: dlg_western05showdown_outrovideo_24
+	volume: 1
+	channel: Narrator
+Z7WWHGKC-ddAcUYWoiS
+	alias: dlg_western05showdown_outrovideo_25
+	volume: 1
+	channel: Narrator

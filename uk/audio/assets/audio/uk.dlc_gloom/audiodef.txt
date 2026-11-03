@@ -1,0 +1,1448 @@
+ABYF56S-3k8nAkTtL
+	alias: dlg_gloom03barrier_tristan_help_info_01
+	volume: 1
+	channel: Narrator
+ABYF56T-YwR0ofNmzR
+	alias: dlg_gloom03barrier_tristan_help_ready_random_01
+	volume: 1
+	channel: Narrator
+ABYF56U-9jZ7Z8IbPh
+	alias: dlg_gloom03barrier_tristan_help_activate_random_01
+	volume: 1
+	channel: Narrator
+ABYF56V-5Uyb3xYx5F
+	alias: dlg_gloom03barrier_tristan_help_deactivate_random_01
+	volume: 1
+	channel: Narrator
+4KYDKDR3-ZbJ7vE6A7s
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_energy_ball_01
+	volume: 1
+	channel: Narrator
+4KYDKDR4-GGTeuAacfh
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_energy_ball_survived_01
+	volume: 1
+	channel: Narrator
+4KYDKDR5-1SIvUCAjlE
+	alias: dlg_gloom04twilight_village_near_catapults_defeated_info_01
+	volume: 1
+	channel: Narrator
+4N3D68P3-c6jPTgsLbX
+	alias: dlg_gloom02release_dominant_used_random_01_01
+	volume: 1
+	channel: Narrator
+4N3D68P4-IYU0aHncYt
+	alias: dlg_gloom02release_dominant_used_random_01_02
+	volume: 1
+	channel: Narrator
+4N3D68P5-cz4PWXkAz_
+	alias: dlg_gloom02release_dominant_used_random_01_03
+	volume: 1
+	channel: Narrator
+4N3D68P6-kGn92_O3n4
+	alias: dlg_gloom02release_dominant_cooldown_over_random_01
+	volume: 1
+	channel: Narrator
+4N3D68P7-641C2FOyIa
+	alias: dlg_gloom02release_dominant_reminder_01
+	volume: 1
+	channel: Narrator
+4TFQK9R3-T1ytqf4tbl
+	alias: dlg_gloom04twilight_outro_lose_01
+	volume: 1
+	channel: Narrator
+4TFQK9R4-koBFLIsXBv
+	alias: dlg_gloom04twilight_outro_dungeonheart_lose_01
+	volume: 1
+	channel: Narrator
+58EAC35T-kVZOlFt4Ly
+	alias: dlg_gloom03barrier_intro_08
+	volume: 1
+	channel: Narrator
+58EAC35U-ZdJWelWU9t
+	alias: dlg_gloom03barrier_tristan_help_info_02
+	volume: 1
+	channel: Narrator
+5VH8MMT2-$$uzColuIB
+	alias: dlg_gloom02release_spawner_first_02
+	volume: 1
+	channel: Narrator
+5VH8MMT3-i2QdH2InBi
+	alias: dlg_gloom02release_new_creep_tamed_first_02
+	volume: 1
+	channel: Narrator
+5VH8MMT4-ssz3AGD_Tf
+	alias: dlg_gloom02release_barrier_destroyed_random_02
+	volume: 1
+	channel: Narrator
+5VH8MMT5-KLCinQLjiY
+	alias: dlg_gloom02release_barrier_destroyed_random_03
+	volume: 1
+	channel: Narrator
+5VH8MMT6-qybWSi7_CK
+	alias: dlg_gloom02release_barrier_destroyed_second_02
+	volume: 1
+	channel: Narrator
+5VH8MMT7-kned_J_yyB
+	alias: dlg_gloom02release_barrier_destroyed_second_03
+	volume: 1
+	channel: Narrator
+5VH8MMT8-q_ZAm0eq1m
+	alias: dlg_gloom02release_barrier_destroyed_third_02
+	volume: 1
+	channel: Narrator
+5VH8MMT9-X05T14o0mW
+	alias: dlg_gloom02release_barrier_destroyed_third_03
+	volume: 1
+	channel: Narrator
+7J4FVYQS-gnppD79A7D
+	alias: dlg_gloom02release_way_exit_found_01
+	volume: 1
+	channel: Narrator
+7SQAB9LQ-T9lZgFfuOB
+	alias: dlg_gloom04twilight_village_near_catapults_defeated_info_02
+	volume: 1
+	channel: Narrator
+7SQAB9LR-EurKt5tPak
+	alias: dlg_gloom04twilight_village_near_catapults_defeated_info_03
+	volume: 1
+	channel: Narrator
+7SQAB9LS-pfXDgF5yL2
+	alias: dlg_gloom04twilight_tristan_help_ready_random_02
+	volume: 1
+	channel: Narrator
+7SQAB9LT-9SGiINTWWS
+	alias: dlg_gloom04twilight_tristan_help_ready_random_03
+	volume: 1
+	channel: Narrator
+7SQAB9LU-e4EPpgwv$T
+	alias: dlg_gloom04twilight_tristan_vs_tristan_random_01_02
+	volume: 1
+	channel: Narrator
+7SQAB9LV-qicLlfv$kw
+	alias: dlg_gloom04twilight_tristan_vs_tristan_random_02_01
+	volume: 1
+	channel: Narrator
+7SQAB9LW-YWbVvRHIHI
+	alias: dlg_gloom04twilight_tristan_vs_tristan_random_02_02
+	volume: 1
+	channel: Narrator
+7SQAB9LX-t7JFJvJRZk
+	alias: dlg_gloom04twilight_tristan_vs_tristan_random_03_01
+	volume: 1
+	channel: Narrator
+7SQAB9LY-dGGLfN7$yo
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_reached_first_02
+	volume: 1
+	channel: Narrator
+7SQAB9LZ-giM1nhc4YS
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_reached_first_03
+	volume: 1
+	channel: Narrator
+7SQAB9M2-FzV1oPbbFA
+	alias: dlg_gloom04twilight_tristan_help_activate_random_02
+	volume: 1
+	channel: Narrator
+7SQAB9M3-Tw$QPpU$My
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_random_02
+	volume: 1
+	channel: Narrator
+7SQAB9M4-wS9ZDnFxqY
+	alias: dlg_gloom04twilight_outro_02
+	volume: 1
+	channel: Narrator
+83N2T6CE-vV38n5Oxwq
+	alias: dlg_gloom02release_dominant_explanation_01
+	volume: 1
+	channel: Narrator
+98UFMPQP-xswornQHB6
+	alias: dlg_gloom01tame_darkelf_end_02
+	volume: 1
+	channel: Narrator
+98UFMPQQ-lfiPybOOjx
+	alias: dlg_gloom01tame_darkelf_end_03
+	volume: 1
+	channel: Narrator
+98UFMPQR-tlsTaFN7P4
+	alias: dlg_gloom01tame_taming_start_03
+	volume: 1
+	channel: Narrator
+98UFMPQS-cg3cgeTZvT
+	alias: dlg_gloom01tame_taming_end_02
+	volume: 1
+	channel: Narrator
+98UFMPQT-7LgO0mjeQM
+	alias: dlg_gloom01tame_taming_end_03
+	volume: 1
+	channel: Narrator
+98UFMPQU-SaVGoX7zIM
+	alias: dlg_gloom01tame_taming_end_04
+	volume: 1
+	channel: Narrator
+98UFMPQV-dznPolyDvt
+	alias: dlg_gloom01tame_taming_end_05
+	volume: 1
+	channel: Narrator
+98UFMPQW-Nk2fe1fn7Y
+	alias: dlg_gloom01tame_spawner_first_02
+	volume: 1
+	channel: Narrator
+98UFMPQX-MKQbs8COMF
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_first_04
+	volume: 1
+	channel: Narrator
+98UFMPQZ-mlXySE7uTj
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_03_03
+	volume: 1
+	channel: Narrator
+98UFMPR2-E861GLl_Mx
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_03_04
+	volume: 1
+	channel: Narrator
+98UFMPR3-_5Ug9AOlN0
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_01_03
+	volume: 1
+	channel: Narrator
+98UFMPR4-gdpEzLD_XY
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_01_04
+	volume: 1
+	channel: Narrator
+98UFMPR5-2yDlDVo$nm
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_03_03
+	volume: 1
+	channel: Narrator
+98UFMPR6-bb8fhEgN4u
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_03_04
+	volume: 1
+	channel: Narrator
+98UFMPR7-pARbjNkF_o
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_second_05
+	volume: 1
+	channel: Narrator
+98UFMPR8-WQuQ7lxVdE
+	alias: dlg_gloom01tame_good_thalya_progress_third_random_04
+	volume: 1
+	channel: Narrator
+98UFMPRA-jg9S5pbdNu
+	alias: dlg_gloom01tame_thalya_darkelf_army_first_02
+	volume: 1
+	channel: Narrator
+98UFMPRB-OaCcPrOwA6
+	alias: dlg_gloom01tame_thalya_darkelf_army_first_03
+	volume: 1
+	channel: Narrator
+98UFMPRC-vbwTSn5asC
+	alias: dlg_gloom01tame_outro_03
+	volume: 1
+	channel: Narrator
+9QF5CJM4-hv8qtX1g2R
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_losing_info_02
+	volume: 1
+	channel: Narrator
+9QF5CJM5-1LksnIWqgd
+	alias: dlg_gloom04twilight_player_reached_pitfiend_first_02
+	volume: 1
+	channel: Narrator
+9QF5CJM6-j$THjSQnV
+	alias: dlg_gloom04twilight_progress_trash_talk_eg_random_01_02
+	volume: 1
+	channel: Narrator
+9QF5CJM7-Ni9AYhFwdO
+	alias: dlg_gloom04twilight_progress_trash_talk_eg_random_02_01
+	volume: 1
+	channel: Narrator
+9QF5CJM8-1EYth_MY9k
+	alias: dlg_gloom04twilight_progress_trash_talk_eg_random_02_02
+	volume: 1
+	channel: Narrator
+9QF5CJM9-vSchnyx2Fd
+	alias: dlg_gloom04twilight_progress_trash_talk_mg_random_01_02
+	volume: 1
+	channel: Narrator
+9QF5CJMA-tgRZEOX6jq
+	alias: dlg_gloom04twilight_progress_trash_talk_mg_random_02_01
+	volume: 1
+	channel: Narrator
+9QF5CJMB-dYJPsgBnla
+	alias: dlg_gloom04twilight_progress_trash_talk_mg_random_02_02
+	volume: 1
+	channel: Narrator
+9QF5CJMC-y1LaRKJNi8
+	alias: dlg_gloom04twilight_progress_trash_talk_mg_random_02_03
+	volume: 1
+	channel: Narrator
+9QF5CJMD-Kx6sIUI94P
+	alias: dlg_gloom04twilight_progress_trash_talk_lg_random_01_02
+	volume: 1
+	channel: Narrator
+9QF5CJME-HjWFr$IH9I
+	alias: dlg_gloom04twilight_progress_trash_talk_lg_random_01_03
+	volume: 1
+	channel: Narrator
+9QF5CJMF-iXwCeB6bkO
+	alias: dlg_gloom04twilight_push_wave_spawn_end_03
+	volume: 1
+	channel: Narrator
+9QF5CJMG-dLZEJDFpOf
+	alias: dlg_gloom04twilight_push_wave_spawn_end_04
+	volume: 1
+	channel: Narrator
+9QF5CJMH-6$0zMuGTqW
+	alias: dlg_gloom04twilight_push_wave_spawn_random_02
+	volume: 1
+	channel: Narrator
+9QF5CJMJ-32HtSrn5zW
+	alias: dlg_gloom04twilight_push_wave_spawn_random_03
+	volume: 1
+	channel: Narrator
+9QF5CJMK-8wDs4plUjs
+	alias: dlg_gloom04twilight_push_wave_spawn_reached_first_02
+	volume: 1
+	channel: Narrator
+AAQAE5DQ-9vjnk1sC4d
+	alias: dlg_gloom01tame_good_thalya_attacked_info_01
+	volume: 1
+	channel: Narrator
+AGB38GXK-zzm$EOvBPg
+	alias: dlg_gloom02release_multiverstristan_progress_lg_idle_random_01_02
+	volume: 1
+	channel: Narrator
+AGB38GXL-YrCgThti_O
+	alias: dlg_gloom02release_multiverstristan_progress_lg_idle_random_02_02
+	volume: 1
+	channel: Narrator
+AGB38GXM-X3Prp9pbP_
+	alias: dlg_gloom02release_multiverstristan_progress_mg_idle_random_01_02
+	volume: 1
+	channel: Narrator
+AGB38GXN-vJxRgFsSGZ
+	alias: dlg_gloom02release_multiverstristan_progress_mg_idle_random_02_02
+	volume: 1
+	channel: Narrator
+AYCB7WKG-g19MnZmWZp
+	alias: dlg_gloom03barrier_artifact_attack_ready_random_02
+	volume: 1
+	channel: Narrator
+AYCB7WKH-Zr6McAzE18
+	alias: dlg_gloom03barrier_artifact_attack_ready_random_03
+	volume: 1
+	channel: Narrator
+AYCB7WKJ-NZj7vyR97o
+	alias: dlg_gloom03barrier_artifact_attack_used_random_02
+	volume: 1
+	channel: Narrator
+AYCB7WKK-7l5lab8Q4A
+	alias: dlg_gloom03barrier_artifact_attack_used_random_03
+	volume: 1
+	channel: Narrator
+AYCB7WKL-zb5FqigfkE
+	alias: dlg_gloom03barrier_tristan_help_activate_random_02
+	volume: 1
+	channel: Narrator
+AYCB7WKM-fbXNj8UEcZ
+	alias: dlg_gloom03barrier_tristan_help_activate_random_03
+	volume: 1
+	channel: Narrator
+AYCB7WKN-vg7Hi7Sfnt
+	alias: dlg_gloom03barrier_tristan_help_deactivate_random_02
+	volume: 1
+	channel: Narrator
+AYCB7WKP-xw8eY22WS1
+	alias: dlg_gloom03barrier_tristan_help_deactivate_random_03
+	volume: 1
+	channel: Narrator
+AYCB7WKQ-cJfw3E2mz7
+	alias: dlg_gloom03barrier_tristan_help_ready_random_02
+	volume: 1
+	channel: Narrator
+AYCB7WKR-ulrnDRjaGr
+	alias: dlg_gloom03barrier_tristan_help_ready_random_03
+	volume: 1
+	channel: Narrator
+AYCB7WKS-9Ab0RcCgj5
+	alias: dlg_gloom03barrier_tristan_help_ready_reminder_01
+	volume: 1
+	channel: Narrator
+AYCB7WKT-rNokPtTi_2
+	alias: dlg_gloom03barrier_reached_entrance_reminder_01
+	volume: 1
+	channel: Narrator
+AYCB7WKU-n$HizXGOg_
+	alias: dlg_gloom03barrier_outro_01
+	volume: 1
+	channel: Narrator
+AYCB7WKV-t1BuBl4VEL
+	alias: dlg_gloom03barrier_outro_02
+	volume: 1
+	channel: Narrator
+AYCB7WKW-hG2evd9gcq
+	alias: dlg_gloom03barrier_outro_03
+	volume: 1
+	channel: Narrator
+AYCB7WKX-3t_kygdS0J
+	alias: dlg_gloom03barrier_outro_04
+	volume: 1
+	channel: Narrator
+AYCB7WKY-iYtWGs7WNk
+	alias: dlg_gloom03barrier_outro_05
+	volume: 1
+	channel: Narrator
+AYCB7WKZ-2PXGC7ZRlh
+	alias: dlg_gloom03barrier_intro_09
+	volume: 1
+	channel: Narrator
+BL5NMF4V-xjGRk3$rRi
+	alias: dlg_gloom04twilight_mission_capt
+	volume: 1
+	channel: Narrator
+BL5NMF4W-axVH_UdrFo
+	alias: dlg_gloom04twilight_mission_desc
+	volume: 1
+	channel: Narrator
+BL5NMF5D-8W6RPkruiX
+	alias: dlg_gloom04twilight_intro_01
+	volume: 1
+	channel: Narrator
+BL5NMF5E-l5Uihx4mAE
+	alias: dlg_gloom04twilight_intro_02
+	volume: 1
+	channel: Narrator
+BL5NMF5F-E4Kk7Bn0Bw
+	alias: dlg_gloom04twilight_intro_03
+	volume: 1
+	channel: Narrator
+BL5NMF5G-KT$NtyjBhE
+	alias: dlg_gloom04twilight_intro_04
+	volume: 1
+	channel: Narrator
+BL5NMF5H-oPusLRe$70
+	alias: dlg_gloom04twilight_intro_05
+	volume: 1
+	channel: Narrator
+BL5NMF5J-9__97hiiAq
+	alias: dlg_gloom04twilight_intro_06
+	volume: 1
+	channel: Narrator
+BL5NMF5K-NdXQmBJIDS
+	alias: dlg_gloom04twilight_intro_07
+	volume: 1
+	channel: Narrator
+BL5NMF5L-CCc0pM85FH
+	alias: dlg_gloom04twilight_intro_08
+	volume: 1
+	channel: Narrator
+BL5NMF5M-7Xys6AjDUv
+	alias: dlg_gloom04twilight_intro_09
+	volume: 1
+	channel: Narrator
+BL5NMF5N-l299FmYp30
+	alias: dlg_gloom04twilight_intro_10
+	volume: 1
+	channel: Narrator
+BL5NMF5P-6SI7iGPolg
+	alias: dlg_gloom04twilight_intro_11
+	volume: 1
+	channel: Narrator
+BL5NMF5Q-bmgvjOj8Eq
+	alias: dlg_gloom04twilight_intro_12
+	volume: 1
+	channel: Narrator
+BL5NMF5R-ccTnqFxrAX
+	alias: dlg_gloom04twilight_intro_13
+	volume: 1
+	channel: Narrator
+BL5NMF5S-q_L642Miwl
+	alias: dlg_gloom04twilight_intro_14
+	volume: 1
+	channel: Narrator
+BL5NMF5U-s9stEILFUz
+	alias: dlg_gloom04twilight_enemy_spawn_init_01
+	volume: 1
+	channel: Narrator
+BL5NMF5V-o9kjzIrzTC
+	alias: dlg_gloom04twilight_enemy_spawn_init_fallback_01
+	volume: 1
+	channel: Narrator
+BL5NMF5W-WKrBab9o8a
+	alias: dlg_gloom04twilight_push_wave_spawn_start_01
+	volume: 1
+	channel: Narrator
+BL5NMF5X-SxRds2uh2F
+	alias: dlg_gloom04twilight_push_wave_spawn_start_02
+	volume: 1
+	channel: Narrator
+BL5NMF5Y-OEeaVm0BGW
+	alias: dlg_gloom04twilight_push_wave_spawn_start_03
+	volume: 1
+	channel: Narrator
+BL5NMF5Z-nCA6wtZysK
+	alias: dlg_gloom04twilight_push_wave_spawn_start_04
+	volume: 1
+	channel: Narrator
+BL5NMF62-dWXUkYBVEN
+	alias: dlg_gloom04twilight_push_wave_spawn_start_fallback_01
+	volume: 1
+	channel: Narrator
+BL5NMF63-nYvKH16Brl
+	alias: dlg_gloom04twilight_push_wave_spawn_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF64-ZQW6mejvdT
+	alias: dlg_gloom04twilight_push_wave_spawn_reached_first_01
+	volume: 1
+	channel: Narrator
+BL5NMF65-rBqEAIG4uv
+	alias: dlg_gloom04twilight_push_wave_spawn_reached_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF66-d8r6MDVjCO
+	alias: dlg_gloom04twilight_push_wave_spawn_reminder_01
+	volume: 1
+	channel: Narrator
+BL5NMF67-4NsTAgHbWR
+	alias: dlg_gloom04twilight_push_wave_spawn_end_01
+	volume: 1
+	channel: Narrator
+BL5NMF68-ORXZ$8UuV6
+	alias: dlg_gloom04twilight_push_wave_spawn_end_02
+	volume: 1
+	channel: Narrator
+BL5NMF69-amcyiNZLtr
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_start_01
+	volume: 1
+	channel: Narrator
+BL5NMF6A-ghPdBnXOXC
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF6B-O8IRssSPpH
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_reached_first_01
+	volume: 1
+	channel: Narrator
+BL5NMF6C-v$TfLGoP4l
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_reached_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF6D-zr3ErZe9KT
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_defeated_first_01
+	volume: 1
+	channel: Narrator
+BL5NMF6E-OCYId7Mu$l
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_defeated_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF6F-Qqda52wxc_
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_losing_info_01
+	volume: 1
+	channel: Narrator
+BL5NMF6G-HKDiJT_yvH
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_center_info_01
+	volume: 1
+	channel: Narrator
+BL5NMF6H-kjN01In7Kd
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_catapults_info_01
+	volume: 1
+	channel: Narrator
+BL5NMF6J-tSv2m_2ekv
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_catapults_info_02
+	volume: 1
+	channel: Narrator
+BL5NMF6K-bdSkMUgaX8
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_defensewave_info_01
+	volume: 1
+	channel: Narrator
+BL5NMF6L-CaOM9$pOJD
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_goldendefense_info_01
+	volume: 1
+	channel: Narrator
+BL5NMF6M-RaRvUKffL4
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_goldendefense_info_02
+	volume: 1
+	channel: Narrator
+BL5NMF6N-UXQTVagIt3
+	alias: dlg_gloom04twilight_catapult_destroy_found_info_01
+	volume: 1
+	channel: Narrator
+BL5NMF6P-VaXY1mTFUO
+	alias: dlg_gloom04twilight_catapult_destroy_end_01
+	volume: 1
+	channel: Narrator
+BL5NMF6Q-qB4XsvckUw
+	alias: dlg_gloom04twilight_catapult_destroy_end_02
+	volume: 1
+	channel: Narrator
+BL5NMF6R-azzXvjBwKq
+	alias: dlg_gloom04twilight_tristan_help_activate_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF6S-eOWpIDCVNf
+	alias: dlg_gloom04twilight_tristan_help_deactivate_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF6T-J3$KQC5k7k
+	alias: dlg_gloom04twilight_tristan_help_ready_random_01
+	volume: 1
+	channel: Narrator
+BL5NMF6U-eAbAAlGEel
+	alias: dlg_gloom04twilight_progress_trash_talk_eg_random_01_01
+	volume: 1
+	channel: Narrator
+BL5NMF6V-5VlCevQdLZ
+	alias: dlg_gloom04twilight_progress_trash_talk_mg_random_01_01
+	volume: 1
+	channel: Narrator
+BL5NMF6W-qd6NmEMNrP
+	alias: dlg_gloom04twilight_progress_trash_talk_lg_random_01_01
+	volume: 1
+	channel: Narrator
+BL5NMF6X-qkvKn55heL
+	alias: dlg_gloom04twilight_tristan_vs_tristan_random_01_01
+	volume: 1
+	channel: Narrator
+BL5NMF6Y-F6edRg77PE
+	alias: dlg_gloom04twilight_outro_01
+	volume: 1
+	channel: Narrator
+BZWLYG2Q-JJObicRWS0
+	alias: dlg_gloom02release_way_entrance_end_01
+	volume: 1
+	channel: Narrator
+CFDELXGJ-gs6M7IuyGQ
+	alias: dlg_gloom01tame_mission_capt
+	volume: 1
+	channel: Narrator
+CFDELXGK-UN70nvYfNs
+	alias: dlg_gloom01tame_mission_desc
+	volume: 1
+	channel: Narrator
+D8EWAPPS-0B72KdFqi5
+	alias: dlg_gloom03barrier_artifact_end_first_02
+	volume: 1
+	channel: Narrator
+D8EWAPPT-LIy1yvBVLm
+	alias: dlg_gloom03barrier_artifact_end_second_02
+	volume: 1
+	channel: Narrator
+D8EWAPPU-VYfj$Htk0H
+	alias: dlg_gloom03barrier_artifact_end_third_02
+	volume: 1
+	channel: Narrator
+D8EWAPPV-h6MQoHkNkh
+	alias: dlg_gloom03barrier_artifact_end_third_03
+	volume: 1
+	channel: Narrator
+D8EWAPPW-oyByQo1lt_
+	alias: dlg_gloom03barrier_artifact_start_first_02
+	volume: 1
+	channel: Narrator
+D8EWAPPX-2kyTZRtpU8
+	alias: dlg_gloom03barrier_artifact_start_second_02
+	volume: 1
+	channel: Narrator
+D8EWAPPY-x7zYiitYT7
+	alias: dlg_gloom03barrier_artifact_start_third_02
+	volume: 1
+	channel: Narrator
+D8EWAPPZ-kD9itFMSmy
+	alias: dlg_gloom03barrier_spawner_barrier_02
+	volume: 1
+	channel: Narrator
+D8EWAPQ2-Fx9rouyT6P
+	alias: dlg_gloom03barrier_spawner_barrier_03
+	volume: 1
+	channel: Narrator
+D8EWAPQ3-2LOiXyrjM8
+	alias: dlg_gloom03barrier_tristan_help_ready_reminder_02
+	volume: 1
+	channel: Narrator
+D8EWAPQ4-EaTHjduolz
+	alias: dlg_gloom03barrier_outro_06
+	volume: 1
+	channel: Narrator
+D8EWAPQ5-Vern$$aAJD
+	alias: dlg_gloom03barrier_outro_07
+	volume: 1
+	channel: Narrator
+DD7XTL3C-DReDIHPX_e
+	alias: dlg_gloom_creep_spawner_appeared_v3
+	volume: 1
+	channel: Narrator
+DD7XTL3D-Ex4Q_s1QuF
+	alias: dlg_gloom_creep_spawner_appeared_v4
+	volume: 1
+	channel: Narrator
+DD7XTL3E-6PoiCqOHiI
+	alias: dlg_gloom_creep_spawner_destroyed_v3
+	volume: 1
+	channel: Narrator
+DD7XTL3F-q2e5Yyn2i5
+	alias: dlg_gloom_creep_spawner_destroyed_v4
+	volume: 1
+	channel: Narrator
+DD7XTL3G-ibfzuJvxsW
+	alias: dlg_gloom_creep_spawn_v4
+	volume: 1
+	channel: Narrator
+DD7XTL3H-lzp0gwqOSU
+	alias: dlg_gloom_creep_spawn_v3
+	volume: 1
+	channel: Narrator
+FJYX5LKR-bLHK3dLXfn
+	alias: dlg_gloom04twilight_catapult_destroy_end_03
+	volume: 1
+	channel: Narrator
+FJYX5LKS-KcVl7dIVfc
+	alias: dlg_gloom04twilight_enemy_spawn_init_fallback_02
+	volume: 1
+	channel: Narrator
+FJYX5LKT-QtaJ6D6fdU
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_defensewave_info_02
+	volume: 1
+	channel: Narrator
+FJYX5LKU-c33LfGSNtC
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_energy_ball_02
+	volume: 1
+	channel: Narrator
+FJYX5LKV-c4a8hU9Aqg
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_energy_ball_03
+	volume: 1
+	channel: Narrator
+FJYX5LKX-_sVLlTYZj3
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_energy_ball_survived_02
+	volume: 1
+	channel: Narrator
+FPBGTACS-wYeWCMm9br
+	alias: dlg_gloom02release_barrier_wrong_attacktype_01
+	volume: 1
+	channel: Narrator
+FPBGTACT-mU4Lk5yE6h
+	alias: dlg_gloom02release_multiverstristan_progress_eg_idle_random_02_01
+	volume: 1
+	channel: Narrator
+FPBGTACU-x8Cp62lpJH
+	alias: dlg_gloom02release_multiverstristan_progress_lg_idle_random_02_01
+	volume: 1
+	channel: Narrator
+FPBGTACV-nNNbetKNvh
+	alias: dlg_gloom02release_multiverstristan_progress_mg_idle_random_02_01
+	volume: 1
+	channel: Narrator
+FPBGTACW-uuLCD3li3n
+	alias: dlg_gloom02release_intro_09
+	volume: 1
+	channel: Narrator
+FPBGTACX-BG0Z79iTSg
+	alias: dlg_gloom02release_intro_10
+	volume: 1
+	channel: Narrator
+GBPNY89U-K0SGgQQiCF
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_goldendefense_info_03
+	volume: 1
+	channel: Narrator
+GFWJNHQE-Qib9YbsHH0
+	alias: dlg_gloom02release_outro_win_02
+	volume: 1
+	channel: Narrator
+GFWJNHQF-Gtn7WyMDpu
+	alias: dlg_gloom02release_outro_win_03
+	volume: 1
+	channel: Narrator
+GFWJNHQG-6NjDx3kHw4
+	alias: dlg_gloom02release_outro_win_04
+	volume: 1
+	channel: Narrator
+GFWJNHQJ-s2eRSzcgsr
+	alias: dlg_gloom02release_new_creep_tamed_last_01
+	volume: 1
+	channel: Narrator
+GFWJNHQK-xoTUjpVnYO
+	alias: dlg_gloom02release_multiverstristan_progress_eg_idle_random_01_02
+	volume: 1
+	channel: Narrator
+GNYMLLRZ-e1Qfvu$1VJ
+	alias: dlg_startup_first_time_gloom_v1
+	volume: 1
+	channel: Narrator
+H8GBV5HE-zeyC0IDv5z
+	alias: dlg_gloom04twilight_tristan_help_activate_random_03_01
+	volume: 1
+	channel: Narrator
+H8GBV5HF-8E96IaFAfM
+	alias: dlg_gloom04twilight_tristan_help_activate_random_03_02
+	volume: 1
+	channel: Narrator
+H8GBV5HG-l0G$d2hNze
+	alias: dlg_gloom04twilight_tristan_vs_tristan_random_03_02
+	volume: 1
+	channel: Narrator
+H94N7SRV-uiZ4UWz1sK
+	alias: dlg_gloom02release_dominant_cooldown_over_random_02
+	volume: 1
+	channel: Narrator
+H94N7SRW-ZGdy$qCxcY
+	alias: dlg_gloom02release_dominant_cooldown_over_random_03
+	volume: 1
+	channel: Narrator
+HPTAHKAJ-p8dztfJgSn
+	alias: dlg_gloom03barrier_reached_barrier_01
+	volume: 1
+	channel: Narrator
+HPTAHKAQ-fEKjb6DtOP
+	alias: dlg_gloom03barrier_intro_07
+	volume: 1
+	channel: Narrator
+HPTAHKAX-$OFB4$Myap
+	alias: dlg_gloom03barrier_intro_01
+	volume: 1
+	channel: Narrator
+HPTAHKAY-USYZCnYAf_
+	alias: dlg_gloom03barrier_intro_02
+	volume: 1
+	channel: Narrator
+HPTAHKAZ-uqOLKUBFac
+	alias: dlg_gloom03barrier_intro_03
+	volume: 1
+	channel: Narrator
+HPTAHKB2-etHa7RM8uM
+	alias: dlg_gloom03barrier_intro_04
+	volume: 1
+	channel: Narrator
+HPTAHKB3-I9sBDcrImH
+	alias: dlg_gloom03barrier_intro_05
+	volume: 1
+	channel: Narrator
+HPTAHKB4-awCvIR1wWh
+	alias: dlg_gloom03barrier_intro_06
+	volume: 1
+	channel: Narrator
+HPTAHKB8-oJZ1Vppui7
+	alias: dlg_gloom03barrier_mission_capt
+	volume: 1
+	channel: Narrator
+HPTAHKB9-aoF7BjyLmQ
+	alias: dlg_gloom03barrier_mission_desc
+	volume: 1
+	channel: Narrator
+HPTAHKBA-WPehjDIlCI
+	alias: dlg_gloom03barrier_outro_lose_01
+	volume: 1
+	channel: Narrator
+KBZC6QGU-qBsLeq6cnM
+	alias: dlg_gloom04twilight_push_wave_spawn_reached_random_02
+	volume: 1
+	channel: Narrator
+KBZC6QGV-JNyV$2OQeY
+	alias: dlg_gloom04twilight_push_wave_spawn_reached_random_03
+	volume: 1
+	channel: Narrator
+KBZC6QGW-sqrT0SOZfJ
+	alias: dlg_gloom04twilight_push_wave_spawn_start_05
+	volume: 1
+	channel: Narrator
+KBZC6QGX-rNdbrx8die
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_start_02
+	volume: 1
+	channel: Narrator
+KBZC6QGY-FY4MCdOkJp
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_defeated_first_02
+	volume: 1
+	channel: Narrator
+KBZC6QGZ-vKoNJ3Icwr
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_defeated_random_02
+	volume: 1
+	channel: Narrator
+KBZC6QH2-Kil$4Pflnl
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_defeated_first_03
+	volume: 1
+	channel: Narrator
+KBZC6QH3-szlfN3YBcr
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_reached_random_02
+	volume: 1
+	channel: Narrator
+KT885LRV-OlCjXgwjMl
+	alias: dlg_gloom02release_mission_capt
+	volume: 1
+	channel: Narrator
+KT885LRW-JF3HKsU2tl
+	alias: dlg_gloom02release_mission_desc
+	volume: 1
+	channel: Narrator
+KT885LS7-SvoWiSozxC
+	alias: dlg_gloom02release_intro_01
+	volume: 1
+	channel: Narrator
+KT885LS8-kPFJxaOoeu
+	alias: dlg_gloom02release_intro_02
+	volume: 1
+	channel: Narrator
+KT885LS9-3mho7bpihX
+	alias: dlg_gloom02release_intro_03
+	volume: 1
+	channel: Narrator
+KT885LSA-$Qi0wHldfP
+	alias: dlg_gloom02release_intro_04
+	volume: 1
+	channel: Narrator
+KT885LSB-Ct_z9F6FiW
+	alias: dlg_gloom02release_intro_05
+	volume: 1
+	channel: Narrator
+KT885LSC-0VGodNSQxA
+	alias: dlg_gloom02release_spawner_first_01
+	volume: 1
+	channel: Narrator
+KT885LSD-O7ftc5aAxB
+	alias: dlg_gloom02release_spawner_first_fallback_01
+	volume: 1
+	channel: Narrator
+KT885LSE-fQHK6Rkdh5
+	alias: dlg_gloom02release_barrier_reached_info_01
+	volume: 1
+	channel: Narrator
+KT885LSF-qyzgO21C9C
+	alias: dlg_gloom02release_barrier_destroyed_first_01
+	volume: 1
+	channel: Narrator
+KT885LSG-aHbmZpsQWz
+	alias: dlg_gloom02release_barrier_destroyed_random_01
+	volume: 1
+	channel: Narrator
+KT885LSH-ydwjSySS2V
+	alias: dlg_gloom02release_multiverstristan_progress_eg_idle_random_01_01
+	volume: 1
+	channel: Narrator
+KT885LSJ-kzDC2AUJ6A
+	alias: dlg_gloom02release_new_creep_discover_01
+	volume: 1
+	channel: Narrator
+KT885LSK-ZEnED_pjPI
+	alias: dlg_gloom02release_new_creep_tamed_first_01
+	volume: 1
+	channel: Narrator
+KT885LSL-oPPPg1DHvq
+	alias: dlg_gloom02release_multiverstristan_progress_mg_idle_random_01_01
+	volume: 1
+	channel: Narrator
+KT885LSM-WgTK$Nc2uI
+	alias: dlg_gloom02release_multiverstristan_progress_lg_idle_random_01_01
+	volume: 1
+	channel: Narrator
+KT885LSN-Upl$WbhhhI
+	alias: dlg_gloom02release_outro_lose_01
+	volume: 1
+	channel: Narrator
+KT885LSP-pN11BAXpPp
+	alias: dlg_gloom02release_outro_win_01
+	volume: 1
+	channel: Narrator
+MMEVJFD6-FWrTJ8UQgH
+	alias: dlg_gloom04twilight_player_reached_pitfiend_first_01
+	volume: 1
+	channel: Narrator
+PR7LKHPW-rpMwgAvHXR
+	alias: dlg_gloom_creep_spawn_v1
+	volume: 1
+	channel: Narrator
+PR7LKHPX-8kQsDEmnSu
+	alias: dlg_gloom_creep_spawn_v2
+	volume: 1
+	channel: Narrator
+PR7LKHPY-goioIWVOqh
+	alias: dlg_gloom_creep_spawner_destroyed_v1
+	volume: 1
+	channel: Narrator
+PR7LKHPZ-97XmXIS4RQ
+	alias: dlg_gloom_creep_spawner_destroyed_v2
+	volume: 1
+	channel: Narrator
+PR7LKHQ2-02afMNMDdA
+	alias: dlg_gloom_creep_spawner_appeared_v1
+	volume: 1
+	channel: Narrator
+PR7LKHQ3-BUFlQoGCzK
+	alias: dlg_gloom_creep_spawner_appeared_v2
+	volume: 1
+	channel: Narrator
+QD53HEPK-zZLhcyI6cE
+	alias: dlg_gloom01tame_intro_01
+	volume: 1
+	channel: Narrator
+QD53HEPL-d5szlsnIaL
+	alias: dlg_gloom01tame_intro_02
+	volume: 1
+	channel: Narrator
+QD53HEPM-bnJCzOfhyq
+	alias: dlg_gloom01tame_intro_03
+	volume: 1
+	channel: Narrator
+QD53HEPN-LqZ0_OipOt
+	alias: dlg_gloom01tame_intro_04
+	volume: 1
+	channel: Narrator
+QD53HEPP-Xo3IiZN9zq
+	alias: dlg_gloom01tame_intro_05
+	volume: 1
+	channel: Narrator
+QD53HEPQ-B1YML_gxIY
+	alias: dlg_gloom01tame_intro_06
+	volume: 1
+	channel: Narrator
+QD53HEPR-zBm$iKMW8c
+	alias: dlg_gloom01tame_intro_07
+	volume: 1
+	channel: Narrator
+QD53HEPS-QFCXVkODuX
+	alias: dlg_gloom01tame_intro_08
+	volume: 1
+	channel: Narrator
+QD53HEPT-1QNoXrhOjb
+	alias: dlg_gloom01tame_intro_09
+	volume: 1
+	channel: Narrator
+QD53HEPU-5hfzOl7cYM
+	alias: dlg_gloom01tame_intro_10
+	volume: 1
+	channel: Narrator
+QD53HEPV-Vnk3gDZ$UI
+	alias: dlg_gloom01tame_intro_11
+	volume: 1
+	channel: Narrator
+QD53HEPW-HFwZcWwMmu
+	alias: dlg_gloom01tame_darkelf_start_01
+	volume: 1
+	channel: Narrator
+QD53HEPX-BfJXpPSPZT
+	alias: dlg_gloom01tame_darkelf_start_02
+	volume: 1
+	channel: Narrator
+QD53HEPY-piHQ_3W7MY
+	alias: dlg_gloom01tame_darkelf_start_03
+	volume: 1
+	channel: Narrator
+QD53HEPZ-SlAl4n3zz$
+	alias: dlg_gloom01tame_darkelf_start_04
+	volume: 1
+	channel: Narrator
+QD53HEQ2-fKbiT61s5l
+	alias: dlg_gloom01tame_darkelf_start_05
+	volume: 1
+	channel: Narrator
+QD53HEQ3-EUByclUbkv
+	alias: dlg_gloom01tame_darkelf_gateway_info_01
+	volume: 1
+	channel: Narrator
+QD53HEQ4-ZdjM0VcO43
+	alias: dlg_gloom01tame_darkelf_unit_info_01
+	volume: 1
+	channel: Narrator
+QD53HEQ5-HvZWuhyzeI
+	alias: dlg_gloom01tame_darkelf_end_01
+	volume: 1
+	channel: Narrator
+QD53HEQ6-nIoBYuuLwL
+	alias: dlg_gloom01tame_taming_start_01
+	volume: 1
+	channel: Narrator
+QD53HEQ7-dQf4956Jdi
+	alias: dlg_gloom01tame_taming_start_02
+	volume: 1
+	channel: Narrator
+QD53HEQ8-UXzoL2Mp_s
+	alias: dlg_gloom01tame_taming_end_01
+	volume: 1
+	channel: Narrator
+QD53HEQ9-n75_Jgz3Fa
+	alias: dlg_gloom01tame_taming_kennel_info_01
+	volume: 1
+	channel: Narrator
+QD53HEQA-r0IwL0QuF6
+	alias: dlg_gloom01tame_taming_creep_info_01
+	volume: 1
+	channel: Narrator
+QD53HEQB-E0cyu8sLY6
+	alias: dlg_gloom01tame_spawner_first_01
+	volume: 1
+	channel: Narrator
+QD53HEQC-LWN9VGGQ0B
+	alias: dlg_gloom01tame_spawner_first_fallback_01
+	volume: 1
+	channel: Narrator
+QD53HEQD-4xSCt5mY8U
+	alias: dlg_gloom01tame_dungeon_entrance_end_01
+	volume: 1
+	channel: Narrator
+QD53HEQE-iTcpqKPZFD
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_first_01
+	volume: 1
+	channel: Narrator
+QD53HEQF-mZ_zs2Mg_k
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_first_02
+	volume: 1
+	channel: Narrator
+QD53HEQG-U$gIciLmlw
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_first_03
+	volume: 1
+	channel: Narrator
+QD53HEQH-qvhEGGCEio
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_01_01
+	volume: 1
+	channel: Narrator
+QD53HEQJ-IgNhaqwtMr
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_01_02
+	volume: 1
+	channel: Narrator
+QD53HEQK-T2rmEU9EA
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_01_03
+	volume: 1
+	channel: Narrator
+QD53HEQL-Ji$_uOcCtG
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_02
+	volume: 1
+	channel: Narrator
+QD53HEQM-V$YV25FHdf
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_03_01
+	volume: 1
+	channel: Narrator
+QD53HEQN-eCaecZkL0T
+	alias: dlg_gloom01tame_good_thalya_progress_first_random_03_02
+	volume: 1
+	channel: Narrator
+QD53HEQP-3T_7UZuFfJ
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_first_01
+	volume: 1
+	channel: Narrator
+QD53HEQQ-o6gxLM3GhD
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_first_02
+	volume: 1
+	channel: Narrator
+QD53HEQR-8PXUWxDaAJ
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_first_03
+	volume: 1
+	channel: Narrator
+QD53HEQS-pcBARl1B5d
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_first_04
+	volume: 1
+	channel: Narrator
+QD53HEQT-dOYZBGaTQj
+	alias: dlg_gloom01tame_creep_hole_first_01
+	volume: 1
+	channel: Narrator
+QD53HEQU-Ys7QgcqisA
+	alias: dlg_gloom01tame_creep_hole_first_02
+	volume: 1
+	channel: Narrator
+QD53HEQV-TfpULR4lZz
+	alias: dlg_gloom01tame_creep_hole_first_03
+	volume: 1
+	channel: Narrator
+QD53HEQW-lEMycsBapB
+	alias: dlg_gloom01tame_creep_hole_first_04
+	volume: 1
+	channel: Narrator
+QD53HEQX-H$bIpEu_2j
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_second_01
+	volume: 1
+	channel: Narrator
+QD53HEQY-NMz7Y0yDsN
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_second_02
+	volume: 1
+	channel: Narrator
+QD53HEQZ-F5dZwZv35l
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_second_03
+	volume: 1
+	channel: Narrator
+QD53HER2-wCXvM2sO7q
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_01_01
+	volume: 1
+	channel: Narrator
+QD53HER3-Vhm4nn3ybV
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_01_02
+	volume: 1
+	channel: Narrator
+QD53HER4-BtVdR0FL_Q
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_02
+	volume: 1
+	channel: Narrator
+QD53HER5-yb_Fmo5AYA
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_03_01
+	volume: 1
+	channel: Narrator
+QD53HER6-CisRYDsduU
+	alias: dlg_gloom01tame_good_thalya_progress_second_random_03_02
+	volume: 1
+	channel: Narrator
+QD53HER7-_rcr_xwE7n
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_second_01
+	volume: 1
+	channel: Narrator
+QD53HER8-mZh89qHgDc
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_second_02
+	volume: 1
+	channel: Narrator
+QD53HER9-ucmEMOJ6IU
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_second_03
+	volume: 1
+	channel: Narrator
+QD53HERA-P71BlhJefu
+	alias: dlg_gloom01tame_thalya_checkpoint_reached_second_04
+	volume: 1
+	channel: Narrator
+QD53HERB-P1u6DkshEE
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_third_01
+	volume: 1
+	channel: Narrator
+QD53HERC-hm9GFlCyYW
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_third_02
+	volume: 1
+	channel: Narrator
+QD53HERD-1I5CkqKScH
+	alias: dlg_gloom01tame_good_thalya_waypoint_reached_third_03
+	volume: 1
+	channel: Narrator
+QD53HERE-FCxpsKXLAE
+	alias: dlg_gloom01tame_good_thalya_progress_third_random_01
+	volume: 1
+	channel: Narrator
+QD53HERG-2IVsEPsDkg
+	alias: dlg_gloom01tame_good_thalya_progress_third_random_02
+	volume: 1
+	channel: Narrator
+QD53HERH-3tepPqdwpG
+	alias: dlg_gloom01tame_good_thalya_progress_third_random_03_01
+	volume: 1
+	channel: Narrator
+QD53HERJ-oXelXVFT4R
+	alias: dlg_gloom01tame_good_thalya_progress_third_random_03_02
+	volume: 1
+	channel: Narrator
+QD53HERK-dzwYP17wYD
+	alias: dlg_gloom01tame_good_thalya_progress_third_random_03_03
+	volume: 1
+	channel: Narrator
+QD53HERL-vo4NXIslOf
+	alias: dlg_gloom01tame_outro_01
+	volume: 1
+	channel: Narrator
+QD53HERM-DLrg$$nAAC
+	alias: dlg_gloom01tame_outro_02
+	volume: 1
+	channel: Narrator
+QD53HERN-CybVS3J02K
+	alias: dlg_gloom01tame_outro_lose_01
+	volume: 1
+	channel: Narrator
+QD53HERP-rMMuP3HQYN
+	alias: dlg_gloom01tame_thalya_darkelf_army_first_01
+	volume: 1
+	channel: Narrator
+QD53HERQ-DZ7hcWSqLa
+	alias: dlg_gloom01tame_thalya_darkelf_army_second_01
+	volume: 1
+	channel: Narrator
+QD53HERR-7aVii6wakj
+	alias: dlg_gloom01tame_thalya_darkelf_army_third_01
+	volume: 1
+	channel: Narrator
+RW98V7RZ-ipPAwT4$KA
+	alias: dlg_gloom02release_multiverstristan_progress_eg_idle_random_02_02
+	volume: 1
+	channel: Narrator
+SB4CK38Z-WldhGn5R0E
+	alias: dlg_gloom03barrier_spawner_barrier_01
+	volume: 1
+	channel: Narrator
+T5KCK6PZ-wQeKELajVb
+	alias: dlg_gloom01tame_introvideo_01
+	volume: 1
+	channel: Narrator
+T5KCK6Q2-_KeWJx9FYR
+	alias: dlg_gloom01tame_introvideo_02
+	volume: 1
+	channel: Narrator
+T5KCK6Q3-79kROPCz5L
+	alias: dlg_gloom01tame_introvideo_03
+	volume: 1
+	channel: Narrator
+T5KCK6Q4-0c2HTEvkiv
+	alias: dlg_gloom01tame_introvideo_04
+	volume: 1
+	channel: Narrator
+T5KCK6Q5-ya1FPBFLI
+	alias: dlg_gloom01tame_introvideo_05
+	volume: 1
+	channel: Narrator
+T5KCK6Q6-3L0_okvj4I
+	alias: dlg_gloom01tame_introvideo_06
+	volume: 1
+	channel: Narrator
+T5KCK6Q7-CgqnH9oUGV
+	alias: dlg_gloom01tame_introvideo_07
+	volume: 1
+	channel: Narrator
+T5KCK6Q8-nhET2xXMPT
+	alias: dlg_gloom01tame_introvideo_08
+	volume: 1
+	channel: Narrator
+T5KCK6Q9-POcdjNVtLL
+	alias: dlg_gloom01tame_introvideo_09
+	volume: 1
+	channel: Narrator
+T5KCK6QA-R1CCBhwnVw
+	alias: dlg_gloom01tame_introvideo_10
+	volume: 1
+	channel: Narrator
+T5KCK6QB-Q7PuSwm$qv
+	alias: dlg_gloom01tame_introvideo_11
+	volume: 1
+	channel: Narrator
+T5KCK6QC-JtXXM49tyD
+	alias: dlg_gloom01tame_introvideo_12
+	volume: 1
+	channel: Narrator
+T5KCK6QD-6iUEq7riDt
+	alias: dlg_gloom01tame_introvideo_13
+	volume: 1
+	channel: Narrator
+T5KCK6QE-g8RQ3c24jN
+	alias: dlg_gloom04twilight_outrovideo_01
+	volume: 1
+	channel: Narrator
+T5KCK6QF-wNcViToS3p
+	alias: dlg_gloom04twilight_outrovideo_02
+	volume: 1
+	channel: Narrator
+T5KCK6QG-fRgI$qaVs
+	alias: dlg_gloom04twilight_outrovideo_03
+	volume: 1
+	channel: Narrator
+T5KCK6QH-VBYa2dDCoC
+	alias: dlg_gloom04twilight_outrovideo_04
+	volume: 1
+	channel: Narrator
+T5KCK6QJ-y_aNFfybh_
+	alias: dlg_gloom04twilight_outrovideo_05
+	volume: 1
+	channel: Narrator
+T5KCK6QK-_Jm8nuFYpb
+	alias: dlg_gloom04twilight_outrovideo_06
+	volume: 1
+	channel: Narrator
+T5KCK6QL-PE8tUonQ2m
+	alias: dlg_gloom04twilight_outrovideo_07
+	volume: 1
+	channel: Narrator
+T5KCK6QM-OVDv0Rvigy
+	alias: dlg_gloom04twilight_outrovideo_08
+	volume: 1
+	channel: Narrator
+T5KCK6QN-6UCli2AjV2
+	alias: dlg_gloom04twilight_outrovideo_09
+	volume: 1
+	channel: Narrator
+T5KCK6QP-9F5fNXIgO4
+	alias: dlg_gloom04twilight_outrovideo_10
+	volume: 1
+	channel: Narrator
+TMZ4EQCF-OEP24xTSvq
+	alias: dlg_gloom02release_intro_06
+	volume: 1
+	channel: Narrator
+TMZ4EQCG-HEEfclPBfl
+	alias: dlg_gloom02release_intro_07
+	volume: 1
+	channel: Narrator
+TMZ4EQCH-8MtXhElHWa
+	alias: dlg_gloom02release_intro_08
+	volume: 1
+	channel: Narrator
+UP8DTLSA-t7hMDoYgxe
+	alias: dlg_gloom01tame_darkelf_start_06
+	volume: 1
+	channel: Narrator
+UP8DTLSC-QYtGE_uhyA
+	alias: dlg_gloom01tame_darkelf_gateway_info_02
+	volume: 1
+	channel: Narrator
+UP8DTLSD-VeaK_z5BOK
+	alias: dlg_gloom01tame_darkelf_gateway_info_03
+	volume: 1
+	channel: Narrator
+UP8DTLSE-Gj5YWy5fMW
+	alias: dlg_gloom01tame_darkelf_gateway_info_04
+	volume: 1
+	channel: Narrator
+UP8DTLSF-YO7PvPAEo4
+	alias: dlg_gloom01tame_darkelf_unit_info_02
+	volume: 1
+	channel: Narrator
+UP8DTLSG-r$8_PAOgn6
+	alias: dlg_gloom01tame_darkelf_unit_info_03
+	volume: 1
+	channel: Narrator
+UW4NSZHQ-4lEBdU2MTM
+	alias: dlg_gloom03barrier_spawner_first_01
+	volume: 1
+	channel: Narrator
+UW4NSZHR-Vxp5P1cgCx
+	alias: dlg_gloom03barrier_spawner_first_fallback_01
+	volume: 1
+	channel: Narrator
+UW4NSZHS-ssXcQMZpsF
+	alias: dlg_gloom03barrier_artifact_start_first_01
+	volume: 1
+	channel: Narrator
+UW4NSZHT-r5y3KM9vdg
+	alias: dlg_gloom03barrier_artifact_end_first_01
+	volume: 1
+	channel: Narrator
+UW4NSZHU-_2mpwpbcYD
+	alias: dlg_gloom03barrier_artifact_start_second_01
+	volume: 1
+	channel: Narrator
+UW4NSZHV-qPaTMC9p7j
+	alias: dlg_gloom03barrier_artifact_end_second_01
+	volume: 1
+	channel: Narrator
+UW4NSZHW-oM85Xt01_M
+	alias: dlg_gloom03barrier_artifact_start_third_01
+	volume: 1
+	channel: Narrator
+UW4NSZHX-TIBHqpHZvt
+	alias: dlg_gloom03barrier_artifact_end_third_01
+	volume: 1
+	channel: Narrator
+UW4NSZHY-m_gVtGNGh0
+	alias: dlg_gloom03barrier_artifact_attack_used_first_01
+	volume: 1
+	channel: Narrator
+UW4NSZHZ-c2l7JzK3Pk
+	alias: dlg_gloom03barrier_artifact_attack_used_random_01
+	volume: 1
+	channel: Narrator
+UW4NSZJ2-eeBSEC$SaF
+	alias: dlg_gloom03barrier_artifact_attack_ready_random_01
+	volume: 1
+	channel: Narrator
+UW4NSZJ3-MZZHxtnLlM
+	alias: dlg_gloom03barrier_artifact_attack_ready_reminder_01
+	volume: 1
+	channel: Narrator
+VTG3HEZ7-TCkWEIHJZa
+	alias: dlg_gloom03barrier_reached_entrance_01
+	volume: 1
+	channel: Narrator
+VTG3HEZ8-w5ZWjnIUQg
+	alias: dlg_gloom03barrier_reached_entrance_02
+	volume: 1
+	channel: Narrator
+ZDAQ33NB-Rw9EQ8dOI
+	alias: dlg_gloom02release_barrier_destroyed_second_01
+	volume: 1
+	channel: Narrator
+ZDAQ33NC-P$x0ck_Siw
+	alias: dlg_gloom02release_barrier_destroyed_third_01
+	volume: 1
+	channel: Narrator
+ZDAQ33ND-3M34dBy_kN
+	alias: dlg_gloom02release_barrier_destroyed_last_01
+	volume: 1
+	channel: Narrator

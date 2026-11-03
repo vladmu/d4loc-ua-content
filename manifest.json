@@ -1,0 +1,9 @@
+{
+ "version": "0.1.0",
+ "voices": 4288,
+ "game": {
+  "build": "00f2081c506ff4254f07ef5ce27de25524ca3a06",
+  "steam_buildid": "23118247",
+  "release": "v1.11 build4"
+ }
+}

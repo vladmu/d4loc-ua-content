@@ -1,0 +1,32 @@
+13f36024b24ee8d85dcf61fdff67380bb34d6326
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_random_02
+	volume: 1
+	channel: Narrator
+a70876d3243b619918a37b4de38e7ca64e2eb664
+	alias: dlg_gloom04twilight_intro_02
+	volume: 1
+	channel: Narrator
+649f433cc7864cf03179a5036a7d9e099feb46b9
+	alias: dlg_gloom04twilight_intro_13
+	volume: 1
+	channel: Narrator
+d59535407578f57d4fc7bbb36f1fb4ff7654c9cb
+	alias: dlg_gloom04twilight_push_wave_spawn_start_04
+	volume: 1
+	channel: Narrator
+d163690b195f3bd3268fd7deb65b49f821c1f665
+	alias: dlg_gloom04twilight_push_wave_tristan_spawn_defeated_random_01
+	volume: 1
+	channel: Narrator
+0cf01f465e20b02d0d25660d6c374965ab3f5c8c
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_catapults_info_02
+	volume: 1
+	channel: Narrator
+418e7b1899b2c6a75a7408f936f923ebf1cb7077
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_energy_ball_02
+	volume: 1
+	channel: Narrator
+137481cf9cc2467a7a0f263428556c076f5d61c0
+	alias: dlg_gloom04twilight_pitfiend_checkpoint_goldendefense_info_03
+	volume: 1
+	channel: Narrator

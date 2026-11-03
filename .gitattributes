@@ -1,0 +1,6 @@
+* text=auto eol=lf
+# Tables and audio are stored byte for byte: CSV fields contain line breaks that must not be normalized
+*.csv -text
+*.ogg binary
+*.flac binary
+*.wav binary

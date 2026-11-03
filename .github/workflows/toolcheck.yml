@@ -1,0 +1,24 @@
+name: Toolcheck
+
+# Red while toolcheck.json is missing or stale: the stamp is written by the translator tool after validation
+# (D4 UA Localization Toolkit: https://github.com/vladmu/d4loc-ua-tool). CI recomputes the file sums and reruns the validation.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: content
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tool
+        run: git clone --depth 1 https://github.com/vladmu/d4loc-ua-tool tool
+      - name: Verify the stamp
+        working-directory: tool
+        run: python dev/run.py toolcheck --verify --content ../content ${{ github.event_name == 'pull_request' && '--check-release' || '' }}

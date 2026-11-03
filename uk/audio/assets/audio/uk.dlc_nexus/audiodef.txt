@@ -1,0 +1,1424 @@
+Q86L36-cmzX8r2VZf
+	alias: dlg_nexus01base_strong_defense_fallback_01
+	volume: 1
+	channel: Narrator
+5BPY6XU-PufrKqURz3
+	alias: dlg_startup_first_time_nexus_v1
+	volume: 1
+	channel: Narrator
+3VA7S82P-S4wA7ZJuhU
+	alias: dlg_nexus03waves_spawner_nexus_portal_info_01
+	volume: 1
+	channel: Narrator
+3VA7S82R-0L4C9b2HpA
+	alias: dlg_nexus03waves_spawner_nexus_portal_start_01
+	volume: 1
+	channel: Narrator
+3VA7S82S-$W6m17aJSe
+	alias: dlg_nexus03waves_spawner_nexus_portal_end
+	volume: 1
+	channel: Narrator
+3VA7S82T-c0ivm3zHxd
+	alias: dlg_nexus03waves_spawner_nexus_portal_end_fallback
+	volume: 1
+	channel: Narrator
+3VA7S82U-QN6qgfvK_R
+	alias: dlg_nexus03waves_outro_lose_01
+	volume: 1
+	channel: Narrator
+3VA7S82V-vos5bRda1d
+	alias: dlg_nexus03waves_outro_lose_main_building_01
+	volume: 1
+	channel: Narrator
+3VA7S82W-sd6PdcXd8p
+	alias: dlg_nexus03waves_outro_lose_portal_01
+	volume: 1
+	channel: Narrator
+3VA7S82X-$cHHFwu2BC
+	alias: dlg_nexus03waves_souls_drop_first_01
+	volume: 1
+	channel: Narrator
+3VA7S82Y-RK64nMKxNw
+	alias: dlg_nexus03waves_souls_reminder_01
+	volume: 1
+	channel: Narrator
+3VA7S82Z-SzhWYKyXuU
+	alias: dlg_nexus03waves_souls_25_percent_01
+	volume: 1
+	channel: Narrator
+3VA7S832-rVTSECOkc2
+	alias: dlg_nexus03waves_souls_50_percent_01
+	volume: 1
+	channel: Narrator
+3VA7S833-8TWh$rzx7A
+	alias: dlg_nexus03waves_souls_75_percent_01
+	volume: 1
+	channel: Narrator
+3VA7S834-J4rx4kvkA6
+	alias: dlg_nexus03waves_souls_100_percent_01
+	volume: 1
+	channel: Narrator
+3VA7S836-Q4gda4di4y
+	alias: dlg_nexus03waves_souls_125_percent_end_01
+	volume: 1
+	channel: Narrator
+3VA7S837-tn4NCg_3Xq
+	alias: dlg_nexus03waves_laser_cooldown_first_info_01
+	volume: 1
+	channel: Narrator
+3VA7S838-BYnU_42p6O
+	alias: dlg_nexus03waves_laser_cooldown_random_01
+	volume: 1
+	channel: Narrator
+3VA7S839-PJfzD5PgYc
+	alias: dlg_nexus03waves_laser_used_first_01
+	volume: 1
+	channel: Narrator
+3VA7S83A-85$DdPjpsC
+	alias: dlg_nexus03waves_laser_used_random_01
+	volume: 1
+	channel: Narrator
+3VA7S83B-ok0r2U7fxy
+	alias: dlg_nexus03waves_laser_end_first_01
+	volume: 1
+	channel: Narrator
+3VA7S83C-MXC2oSzChR
+	alias: dlg_nexus03waves_laser_end_random_01
+	volume: 1
+	channel: Narrator
+3VA7S83D-xD6fpC0$zK
+	alias: dlg_nexus03waves_laser_reminder_01
+	volume: 1
+	channel: Narrator
+3VA7S83E-gw8UcpBU1e
+	alias: dlg_nexus03waves_laser_upgrade_01
+	volume: 1
+	channel: Narrator
+3VA7S83F-1Sycmu_7EN
+	alias: dlg_nexus03waves_laser_upgrade_fallback_01
+	volume: 1
+	channel: Narrator
+3VA7S83G-tpFXQEM11X
+	alias: dlg_nexus03waves_laser_upgrade_time_fallback_01
+	volume: 1
+	channel: Narrator
+3VA7S83H-JvXv2dKerY
+	alias: dlg_nexus03waves_laser_upgrade_area_end_01
+	volume: 1
+	channel: Narrator
+3VA7S83J-n__KDPhkkf
+	alias: dlg_nexus03waves_laser_upgrade_speed_end_01
+	volume: 1
+	channel: Narrator
+3VA7S83K-T7NnK6mXQa
+	alias: dlg_nexus03waves_laser_upgrade_damage_end_01
+	volume: 1
+	channel: Narrator
+3VA7S83L-b_Fnv6iFfV
+	alias: dlg_nexus03waves_laser_upgrade_lifetime_end_01
+	volume: 1
+	channel: Narrator
+3VA7S83M-lXWGH5_EHg
+	alias: dlg_nexus03waves_laser_killed_idle_random_01
+	volume: 1
+	channel: Narrator
+3VA7S83N-NsHSWJsPeG
+	alias: dlg_nexus03wave_enemy_spawn_init_01
+	volume: 1
+	channel: Narrator
+3VA7S83P-sbfI847xnH
+	alias: dlg_nexus03wave_enemy_spawn_first_additional_lane_01
+	volume: 1
+	channel: Narrator
+3VA7S83Q-sHdeU0IAHN
+	alias: dlg_nexus03wave_enemy_spawn_second_additional_lane_01
+	volume: 1
+	channel: Narrator
+3VA7S83R-CQQpzBmupK
+	alias: dlg_nexus03wave_enemy_spawn_third_additional_lane_01
+	volume: 1
+	channel: Narrator
+4ZE6U92A-E4FzNJrtdF
+	alias: dlg_nexus01base_main_base_reached_end_02
+	volume: 1
+	channel: Narrator
+4ZE6U92B-bHEUFgIQUH
+	alias: dlg_nexus01base_main_base_reached_end_03
+	volume: 1
+	channel: Narrator
+4ZE6U92C-O7HajEjmQl
+	alias: dlg_nexus01base_gold_mine_end_02
+	volume: 1
+	channel: Narrator
+4ZE6U92D-mg3RaTczRU
+	alias: dlg_nexus01base_gold_mine_end_03
+	volume: 1
+	channel: Narrator
+4ZE6U92E-fFh25GdRGD
+	alias: dlg_nexus01base_gold_mine_end_04
+	volume: 1
+	channel: Narrator
+4ZE6U92G-BrELpFc1HM
+	alias: dlg_nexus01base_first_spawn_02
+	volume: 1
+	channel: Narrator
+4ZE6U92H-urkoILLSZE
+	alias: dlg_nexus01base_tower_scout_info_02
+	volume: 1
+	channel: Narrator
+4ZE6U92J-44izG0iVQa
+	alias: dlg_nexus01base_needs_start_02
+	volume: 1
+	channel: Narrator
+4ZE6U92K-41APrK1PN
+	alias: dlg_nexus01base_second_gold_mine_end_02
+	volume: 1
+	channel: Narrator
+4ZE6U92L-giIUkuFUMZ
+	alias: dlg_nexus01base_shadow_mark_small_end_02
+	volume: 1
+	channel: Narrator
+4ZE6U92M-JdTwdd6K4C
+	alias: dlg_nexus01base_shadow_mark_small_end_03
+	volume: 1
+	channel: Narrator
+4ZE6U92N-zUZ8WErDY8
+	alias: dlg_nexus01base_shadow_mark_small_end_04
+	volume: 1
+	channel: Narrator
+4ZE6U92P-lmr$IEKY6B
+	alias: dlg_nexus01base_strong_defense_info_02
+	volume: 1
+	channel: Narrator
+4ZE6U92Q-ZSKihfU36b
+	alias: dlg_nexus01base_strong_defense_info_03
+	volume: 1
+	channel: Narrator
+4ZE6U92R-4ofU3KTDeC
+	alias: dlg_nexus01base_strong_defense_info_04
+	volume: 1
+	channel: Narrator
+4ZE6U92S-OpKXqJIiHo
+	alias: dlg_nexus01base_strong_defense_info_05
+	volume: 1
+	channel: Narrator
+4ZE6U92T-xXhuHCOcqK
+	alias: dlg_nexus01base_strong_defense_info_06
+	volume: 1
+	channel: Narrator
+4ZE6U92U-GZw8EcpkbW
+	alias: dlg_nexus01base_shadow_mark_interaction_02
+	volume: 1
+	channel: Narrator
+4ZE6U92V-lJchiHGKfm
+	alias: dlg_nexus01base_shadow_mark_interaction_03
+	volume: 1
+	channel: Narrator
+4ZE6U92W-XPNeca4uO6
+	alias: dlg_nexus01base_shadow_mark_interaction_04
+	volume: 1
+	channel: Narrator
+4ZE6U92X-PI3Fx$VyMb
+	alias: dlg_nexus01base_shadow_mark_end_02
+	volume: 1
+	channel: Narrator
+4ZE6U92Y-7Ojv3_hhJR
+	alias: dlg_nexus01base_tristan_died_random_02
+	volume: 1
+	channel: Narrator
+4ZE6U92Z-dvggprxC8L
+	alias: dlg_nexus01base_tristan_died_random_03
+	volume: 1
+	channel: Narrator
+4ZE6U932-mAv$f3kI6x
+	alias: dlg_nexus01base_tristan_died_first_02
+	volume: 1
+	channel: Narrator
+4ZE6U933-YdvbWMAG3m
+	alias: dlg_nexus01base_portal_start_02
+	volume: 1
+	channel: Narrator
+4ZE6U934-v$88vk$5Y_
+	alias: dlg_nexus01base_portal_start_03
+	volume: 1
+	channel: Narrator
+4ZE6U935-DrYhCt6aTM
+	alias: dlg_nexus01base_portal_start_04
+	volume: 1
+	channel: Narrator
+4ZE6U936-zShKTG9YPI
+	alias: dlg_nexus01base_portal_progress_75_02
+	volume: 1
+	channel: Narrator
+4ZE6U937-3_y3zosrBG
+	alias: dlg_nexus01base_portal_progress_75_03
+	volume: 1
+	channel: Narrator
+4ZE6U938-VVm$kcrnvI
+	alias: dlg_nexus01base_portal_progress_75_04
+	volume: 1
+	channel: Narrator
+4ZE6U939-fb4HM9$vng
+	alias: dlg_nexus01base_portal_progress_50_02
+	volume: 1
+	channel: Narrator
+4ZE6U93B-QIpqvvV$iC
+	alias: dlg_nexus01base_portal_progress_25_02
+	volume: 1
+	channel: Narrator
+4ZE6U93C-iVi_pcusQN
+	alias: dlg_nexus01base_outro_02
+	volume: 1
+	channel: Narrator
+4ZE6U93D-oS96t5ApS_
+	alias: dlg_nexus01base_outro_03
+	volume: 1
+	channel: Narrator
+4ZE6U93E-9RCALyPfRt
+	alias: dlg_nexus01base_outro_04
+	volume: 1
+	channel: Narrator
+4ZE6U93F-6sS5JnH8jM
+	alias: dlg_nexus01base_outro_05
+	volume: 1
+	channel: Narrator
+4ZE6U93G-M_e$d94iwD
+	alias: dlg_nexus01base_outro_06
+	volume: 1
+	channel: Narrator
+87XBTRCW-zSga2A0SsS
+	alias: dlg_nexus01base_spider_first_01
+	volume: 1
+	channel: Narrator
+87XBTRCX-SnCU9R0TIj
+	alias: dlg_nexus01base_spider_random_01
+	volume: 1
+	channel: Narrator
+87XBTRCY-iLlF8m$zgH
+	alias: dlg_nexus01base_small_shadow_mark_staging_info_01
+	volume: 1
+	channel: Narrator
+87XBTRD7-zMrsurU3uN
+	alias: dlg_nexus01base_creatures_start_01
+	volume: 1
+	channel: Narrator
+87XBTRD8-p8bI0GqKrE
+	alias: dlg_nexus01base_creatures_end_01
+	volume: 1
+	channel: Narrator
+9KVRBP4P-ttqU1Th7QM
+	alias: dlg_skirnexus_intro_02
+	volume: 1
+	channel: Narrator
+9KVRBP4Q-orWhooajZ3
+	alias: dlg_skirnexus_intro_03
+	volume: 1
+	channel: Narrator
+AC6NBWUA-j7I3n58uE
+	alias: dlg_nexus02realm_mission_desc
+	volume: 1
+	channel: Narrator
+BP8NJ7E6-VRlCYFCnOd
+	alias: dlg_nexus01base_intro_01
+	volume: 1
+	channel: Narrator
+BP8NJ7E7-Y4i7OxFYmE
+	alias: dlg_nexus01base_intro_02
+	volume: 1
+	channel: Narrator
+BP8NJ7E8-tSPi_fmA3U
+	alias: dlg_nexus01base_intro_03
+	volume: 1
+	channel: Narrator
+BP8NJ7E9-ZUqDjk6a4O
+	alias: dlg_nexus01base_intro_04
+	volume: 1
+	channel: Narrator
+BP8NJ7EA-cpaguNEccX
+	alias: dlg_nexus01base_intro_05
+	volume: 1
+	channel: Narrator
+BP8NJ7EB-eMk_XtaY7y
+	alias: dlg_nexus01base_intro_06
+	volume: 1
+	channel: Narrator
+BP8NJ7EC-fxJ6dXPTuy
+	alias: dlg_nexus01base_main_base_reached_start_01
+	volume: 1
+	channel: Narrator
+BP8NJ7ED-LMALE4XZ86
+	alias: dlg_nexus01base_main_base_reached_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EE-OFDsjv6vVQ
+	alias: dlg_nexus01base_gold_mine_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EF-DdJwF7DMB5
+	alias: dlg_nexus01base_sawmill_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EG-ND9lamYNer
+	alias: dlg_nexus01base_tavern_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EH-Ka8WMMIKZS
+	alias: dlg_nexus01base_unit_first_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EJ-YbIUW1qltw
+	alias: dlg_nexus01base_first_spawn_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EL-JzvW3jq9J6
+	alias: dlg_nexus01base_tower_scout_info_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EM-uEntpHDEl
+	alias: dlg_nexus01base_house_info_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EN-sDMqdVHwK5
+	alias: dlg_nexus01base_population_limit_info_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EP-kZrMRcX0a5
+	alias: dlg_nexus01base_needs_start_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EQ-ER7S1SPd2m
+	alias: dlg_nexus01base_barracks_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7ER-krhpafUncC
+	alias: dlg_nexus01base_gururanch_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7ES-TOIkUdjwNF
+	alias: dlg_nexus01base_camp_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7ET-I7bAj0U80L
+	alias: dlg_nexus01base_brewery_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EU-bwV2xN8OHV
+	alias: dlg_nexus01base_strong_defense_info_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EV-tP5JLaDaiP
+	alias: dlg_nexus01base_forge_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EW-vpKGXQy4Sp
+	alias: dlg_nexus01base_elite_hero_info_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EX-TOx2DrXy0R
+	alias: dlg_nexus01base_gold_hero_info_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EY-wJS1TgtwGg
+	alias: dlg_nexus01base_tempel_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7EZ-rTjiU7s7Mh
+	alias: dlg_nexus01base_portal_end_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F2-eaGVsPCyUU
+	alias: dlg_nexus01base_portal_reached_info_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F3-a1fkzNNX4P
+	alias: dlg_nexus01base_portal_start_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F4-f1X5k81LJ0
+	alias: dlg_nexus01base_portal_progress_75_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F5-W8B2K08yA1
+	alias: dlg_nexus01base_portal_progress_50_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F6-YxUZ25VgWm
+	alias: dlg_nexus01base_portal_progress_25_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F7-x96OZz2jJ$
+	alias: dlg_nexus01base_outro_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F8-o8MI_iH2qd
+	alias: dlg_nexus01base_outro_lose_tristan_01
+	volume: 1
+	channel: Narrator
+BP8NJ7F9-Be2GFvme2y
+	alias: dlg_nexus01base_outro_lose_base_01
+	volume: 1
+	channel: Narrator
+CNRLBA6A-pTBose4brh
+	alias: dlg_general_nexus
+	volume: 1
+	channel: Narrator
+E9FWSRD5-yM4QZmrfhQ
+	alias: dlg_nexus02realm_intro_01
+	volume: 1
+	channel: Narrator
+E9FWSRD6-9JyoHcliw8
+	alias: dlg_nexus02realm_intro_02
+	volume: 1
+	channel: Narrator
+E9FWSRD7-Q6w0G5$N0g
+	alias: dlg_nexus02realm_intro_03
+	volume: 1
+	channel: Narrator
+E9FWSRD8-hIxIlHBV1a
+	alias: dlg_nexus02realm_intro_04
+	volume: 1
+	channel: Narrator
+E9FWSRD9-hs_CPc5pf3
+	alias: dlg_nexus02realm_intro_05
+	volume: 1
+	channel: Narrator
+E9FWSRDA-xxzelnEOrN
+	alias: dlg_nexus02realm_intro_06
+	volume: 1
+	channel: Narrator
+E9FWSRDB-dhJCBIiD8
+	alias: dlg_nexus02realm_intro_07
+	volume: 1
+	channel: Narrator
+E9FWSRDC-i$HZxogkwA
+	alias: dlg_nexus02realm_intro_08
+	volume: 1
+	channel: Narrator
+E9FWSRDD-fnZPK9QSCw
+	alias: dlg_nexus02realm_intro_09
+	volume: 1
+	channel: Narrator
+E9FWSRDE-6ELen9zzUM
+	alias: dlg_nexus02realm_intro_10
+	volume: 1
+	channel: Narrator
+E9FWSRDF-K8fRA$ChKO
+	alias: dlg_nexus02realm_first_spawn_01
+	volume: 1
+	channel: Narrator
+E9FWSRDH-TOCAGg8FqT
+	alias: dlg_nexus02realm_gate_stone_captured_first_01
+	volume: 1
+	channel: Narrator
+E9FWSRDJ-GxmUNzNcWP
+	alias: dlg_nexus02realm_gate_stone_reached_first_01
+	volume: 1
+	channel: Narrator
+E9FWSRDK-OlpcbiY0CI
+	alias: dlg_nexus02realm_storm_start_first_01
+	volume: 1
+	channel: Narrator
+E9FWSRDL-SHUVc0booo
+	alias: dlg_nexus02realm_storm_end_first_01
+	volume: 1
+	channel: Narrator
+E9FWSRDM-W0C9LkCccp
+	alias: dlg_nexus02realm_storm_killed_first_01
+	volume: 1
+	channel: Narrator
+E9FWSRDN-nPKO3_e2Ch
+	alias: dlg_nexus02realm_storm_start_random_01
+	volume: 1
+	channel: Narrator
+E9FWSRDQ-LYo3o8gG7f
+	alias: dlg_nexus02realm_storm_end_random_01
+	volume: 1
+	channel: Narrator
+E9FWSRDR-HkAZd1Rxxl
+	alias: dlg_nexus02realm_storm_killed_random_01
+	volume: 1
+	channel: Narrator
+E9FWSRDS-MEgAbSZ_C4
+	alias: dlg_nexus02realm_storm_dungeon_info_01
+	volume: 1
+	channel: Narrator
+E9FWSRDT-Q3mTWtb3LK
+	alias: dlg_nexus02realm_storm_outside_info_01
+	volume: 1
+	channel: Narrator
+E9FWSRDU-fQT7UvbPap
+	alias: dlg_nexus02realm_gate_stone_captured_01
+	volume: 1
+	channel: Narrator
+E9FWSRDV-uTvCRPS14G
+	alias: dlg_nexus02realm_gate_stone_reached_01
+	volume: 1
+	channel: Narrator
+E9FWSRDW-0JJlIPUEHZ
+	alias: dlg_nexus02realm_gate_stone_captured_last_01
+	volume: 1
+	channel: Narrator
+E9FWSRDX-zNY3BoTDtB
+	alias: dlg_nexus02realm_outro_01
+	volume: 1
+	channel: Narrator
+E9FWSRDY-H7mppxzl2O
+	alias: dlg_nexus02realm_outro_lose_dh_01
+	volume: 1
+	channel: Narrator
+E9FWSRDZ-Rj7IK7M5_o
+	alias: dlg_nexus02realm_outro_lose_base_01
+	volume: 1
+	channel: Narrator
+EJVNF656-YEdGhbkztM
+	alias: dlg_nexus03wave_intro_06
+	volume: 1
+	channel: Narrator
+EJVNF657-W44kfCXlyo
+	alias: dlg_nexus03wave_intro_07
+	volume: 1
+	channel: Narrator
+EJVNF658-$YJHu6TLuu
+	alias: dlg_nexus03wave_intro_08
+	volume: 1
+	channel: Narrator
+EJVNF659-9zqrwY8a7u
+	alias: dlg_nexus03wave_intro_09
+	volume: 1
+	channel: Narrator
+EJVNF65A-iBL9Vcieqy
+	alias: dlg_nexus03wave_intro_10
+	volume: 1
+	channel: Narrator
+EJVNF65B-s1gy09koFu
+	alias: dlg_nexus03wave_intro_11
+	volume: 1
+	channel: Narrator
+EJVNF65C-sN32TvdFx
+	alias: dlg_nexus03wave_intro_12
+	volume: 1
+	channel: Narrator
+EJVNF65D-hlUkBS7F$_
+	alias: dlg_nexus03wave_intro_13
+	volume: 1
+	channel: Narrator
+EJVNF65G-mxdl57QW0$
+	alias: dlg_nexus03waves_souls_drop_first_02
+	volume: 1
+	channel: Narrator
+F2L67URV-LO09szlqH3
+	alias: dlg_nexus03wave_enemy_spawn_init_02
+	volume: 1
+	channel: Narrator
+F2L67URW-HddEpJFZla
+	alias: dlg_nexus03wave_enemy_spawn_first_additional_lane_02
+	volume: 1
+	channel: Narrator
+F2L67URX-xl0EqafEgT
+	alias: dlg_nexus03wave_enemy_spawn_second_additional_lane_02
+	volume: 1
+	channel: Narrator
+F2L67URY-TXZfbvYIcI
+	alias: dlg_nexus03wave_enemy_spawn_third_additional_lane_02
+	volume: 1
+	channel: Narrator
+F2L67US2-q$3T1wj9BR
+	alias: dlg_nexus03waves_spawner_nexus_portal_info_02
+	volume: 1
+	channel: Narrator
+F2L67US3-ofIAj09QUm
+	alias: dlg_nexus03waves_spawner_nexus_portal_info_03
+	volume: 1
+	channel: Narrator
+F2L67US4-YshbU7isE_
+	alias: dlg_nexus03waves_spawner_nexus_portal_info_04
+	volume: 1
+	channel: Narrator
+F2L67US5-KOFcRbHO1Q
+	alias: dlg_nexus03waves_spawner_nexus_portal_start_02
+	volume: 1
+	channel: Narrator
+F2L67US6-RCGt_s$e80
+	alias: dlg_nexus03waves_spawner_nexus_portal_start_03
+	volume: 1
+	channel: Narrator
+F2L67US7-dT6VqEI9hj
+	alias: dlg_nexus03wave_shadow_mark_claimed_south_west_info_02
+	volume: 1
+	channel: Narrator
+F2L67US8-74xof2n_Vs
+	alias: dlg_nexus03waves_buffed_heroes_spawn_first_02
+	volume: 1
+	channel: Narrator
+F2L67US9-WmzNX0a$d9
+	alias: dlg_nexus03waves_buffed_heroes_spawn_first_03
+	volume: 1
+	channel: Narrator
+F2L67USA-7spDSiJepK
+	alias: dlg_nexus03waves_buffed_heroes_spawn_first_04
+	volume: 1
+	channel: Narrator
+F2L67USB-9ZmFxI$sXR
+	alias: dlg_nexus03waves_buffed_heroes_spawn_first_05
+	volume: 1
+	channel: Narrator
+F2L67USC-52u6hgpboJ
+	alias: dlg_nexus03waves_buffed_heroes_spawn_random_03
+	volume: 1
+	channel: Narrator
+F2L67USD-eV3EXzM1qJ
+	alias: dlg_nexus03waves_dark_tristan_spawn_02
+	volume: 1
+	channel: Narrator
+F2L67USE-sAevWY9kjk
+	alias: dlg_nexus03waves_dark_tristan_spawn_03
+	volume: 1
+	channel: Narrator
+F2L67USF-43gX4682hg
+	alias: dlg_nexus02realm_vault_01
+	volume: 1
+	channel: Narrator
+F2L67USG-1lju2QxO13
+	alias: dlg_nexus02realm_vault_02
+	volume: 1
+	channel: Narrator
+F2L67USH-3AHGL$VExz
+	alias: dlg_nexus02realm_vault_03
+	volume: 1
+	channel: Narrator
+F2L67USJ-odJTpFl_IG
+	alias: dlg_nexus02realm_vault_04
+	volume: 1
+	channel: Narrator
+F2L67USK-p$4WGNtvS$
+	alias: dlg_nexus02realm_vault_05
+	volume: 1
+	channel: Narrator
+F2L67USL-Mt8u4PYv22
+	alias: dlg_nexus02realm_vault_06
+	volume: 1
+	channel: Narrator
+FBFNAVGK-QAGkqlzmcB
+	alias: dlg_nexus02realm_gate_stone_reached_last_01
+	volume: 1
+	channel: Narrator
+FBFNAVGL-flmCr0cWFJ
+	alias: dlg_nexus02realm_thalya_tristan_rampage_eg_idle_01
+	volume: 1
+	channel: Narrator
+FBFNAVGM-3xjsimOOk4
+	alias: dlg_nexus02realm_thalya_tristan_rampage_mg_idle_01
+	volume: 1
+	channel: Narrator
+FBFNAVGN-1euVx6s83p
+	alias: dlg_nexus02realm_thalya_tristan_rampage_lg_idle_01
+	volume: 1
+	channel: Narrator
+GNHM923B-y79qhMEpwe
+	alias: dlg_nexus03waves_buffed_heroes_spawn_random_01
+	volume: 1
+	channel: Narrator
+GNHM923C-cxOv59J8Qm
+	alias: dlg_nexus03waves_buffed_heroes_spawn_random_02
+	volume: 1
+	channel: Narrator
+GNHM923D-g7CE3D5Qrw
+	alias: dlg_nexus03waves_buffed_heroes_spawn_first_01
+	volume: 1
+	channel: Narrator
+GNHM923E-MEHU6zY1Ta
+	alias: dlg_nexus03waves_dark_tristan_spawn_01
+	volume: 1
+	channel: Narrator
+GNHM923F-UFJHeNgxXl
+	alias: dlg_nexus03waves_dark_tristan_defeat_01
+	volume: 1
+	channel: Narrator
+GNHM923G-uVp08uBvd
+	alias: dlg_nexus03waves_dark_tristan_defeat_02
+	volume: 1
+	channel: Narrator
+GTW54G5D-W17qPRDjEE
+	alias: dlg_skirnexus_mission_capt
+	volume: 1
+	channel: Narrator
+GTW54G5E-3n7EREHnCT
+	alias: dlg_skirnexus_mission_desc
+	volume: 1
+	channel: Narrator
+GTW54G5W-zvAejfV14R
+	alias: dlg_skirnexus_intro_01
+	volume: 1
+	channel: Narrator
+GTW54G5X-6eg5sJyNOv
+	alias: dlg_skirnexus_entrance_found_outside_01
+	volume: 1
+	channel: Narrator
+GTW54G5Y-adICtos$Ed
+	alias: dlg_skirnexus_entrance_found_dungeon_01
+	volume: 1
+	channel: Narrator
+GTW54G5Z-IeEnHgQsRq
+	alias: dlg_skirnexus_entrance_found_end_01
+	volume: 1
+	channel: Narrator
+GTW54G62-C1ZuxOhN$5
+	alias: dlg_skirnexus_outro_lose_base_01
+	volume: 1
+	channel: Narrator
+GTW54G63-U0PV3ZtFj3
+	alias: dlg_skirnexus_outro_lose_dungeonheart_01
+	volume: 1
+	channel: Narrator
+GTW54G64-3kDjYvH5LR
+	alias: dlg_skirnexus_outro_01
+	volume: 1
+	channel: Narrator
+JJMBSNTH-LEWSoMQJ7a
+	alias: dlg_nexus03waves_souls_25_percent_02
+	volume: 1
+	channel: Narrator
+JJMBSNTJ-gMhHMagMlF
+	alias: dlg_nexus03waves_souls_25_percent_03
+	volume: 1
+	channel: Narrator
+JJMBSNTK-18w8tP7G$u
+	alias: dlg_nexus03waves_souls_50_percent_02
+	volume: 1
+	channel: Narrator
+JJMBSNTL-NvPam_UuY6
+	alias: dlg_nexus03waves_souls_50_percent_03
+	volume: 1
+	channel: Narrator
+JJMBSNTM-TWnwJuaZzU
+	alias: dlg_nexus03waves_souls_50_percent_04
+	volume: 1
+	channel: Narrator
+JJMBSNTN-3imUh222sl
+	alias: dlg_nexus03waves_souls_75_percent_02
+	volume: 1
+	channel: Narrator
+JJMBSNTP-jJyiR93eOv
+	alias: dlg_nexus03waves_souls_75_percent_03
+	volume: 1
+	channel: Narrator
+JJMBSNTQ-QNUHGPtnln
+	alias: dlg_nexus03waves_souls_125_percent_start_01
+	volume: 1
+	channel: Narrator
+JJMBSNTR-$vkqqTP04l
+	alias: dlg_nexus03waves_souls_125_percent_start_02
+	volume: 1
+	channel: Narrator
+JJMBSNTS-Qguc3SB6k9
+	alias: dlg_nexus03waves_souls_125_percent_start_03
+	volume: 1
+	channel: Narrator
+JJMBSNTU-F5U8PqPirw
+	alias: dlg_nexus03waves_laser_cooldown_first_info_02
+	volume: 1
+	channel: Narrator
+JJMBSNTV-6ugQkMf2K1
+	alias: dlg_nexus03waves_laser_cooldown_first_info_03
+	volume: 1
+	channel: Narrator
+JJMBSNTW-5y8cuxYybQ
+	alias: dlg_nexus03waves_laser_cooldown_first_info_04
+	volume: 1
+	channel: Narrator
+JJMBSNTX-qN4kdYnpd8
+	alias: dlg_nexus03waves_laser_cooldown_random_02
+	volume: 1
+	channel: Narrator
+JJMBSNTY-EOQK_ohM56
+	alias: dlg_nexus03waves_laser_cooldown_random_03
+	volume: 1
+	channel: Narrator
+JJMBSNTZ-jQ0E2RyVrw
+	alias: dlg_nexus03waves_laser_used_random_02
+	volume: 1
+	channel: Narrator
+JJMBSNU2-s3lrYSStFl
+	alias: dlg_nexus03waves_laser_used_random_03
+	volume: 1
+	channel: Narrator
+JJMBSNU3-uCzgeJ_Xe2
+	alias: dlg_nexus03waves_laser_upgrade_02
+	volume: 1
+	channel: Narrator
+JJMBSNU4-Or31A2Pg2w
+	alias: dlg_nexus03waves_laser_end_random_02
+	volume: 1
+	channel: Narrator
+JJMBSNU5-tsiO_VFyKZ
+	alias: dlg_nexus03waves_laser_end_random_03
+	volume: 1
+	channel: Narrator
+JJMBSNU6-DTfKPvFhci
+	alias: dlg_nexus03waves_laser_killed_idle_random_03
+	volume: 1
+	channel: Narrator
+K4PHJRMU-QivapDYgef
+	alias: dlg_nexus01base_defense_towers_start_01
+	volume: 1
+	channel: Narrator
+KW4PKF4Q-z3kcHR$PLi
+	alias: dlg_nexus01base_no_gold_01
+	volume: 1
+	channel: Narrator
+L397DW27-K4DEk8eHPl
+	alias: dlg_nexus01base_second_gold_mine_end_01
+	volume: 1
+	channel: Narrator
+L397DW28-eJH_9do7LO
+	alias: dlg_nexus01base_shadow_mark_small_start_01
+	volume: 1
+	channel: Narrator
+L397DW29-1D7wQaIG7Q
+	alias: dlg_nexus01base_shadow_mark_small_end_01
+	volume: 1
+	channel: Narrator
+L397DW2A-v1uZ8gjyS3
+	alias: dlg_nexus01base_shadow_mark_start_01
+	volume: 1
+	channel: Narrator
+L397DW2B-eL2uTZoidj
+	alias: dlg_nexus01base_shadow_mark_interaction_01
+	volume: 1
+	channel: Narrator
+L397DW2C-8UGZHnRhK
+	alias: dlg_nexus01base_shadow_mark_end_01
+	volume: 1
+	channel: Narrator
+L397DW2D-e3SK5Wnqe3
+	alias: dlg_nexus01base_tristan_died_first_01
+	volume: 1
+	channel: Narrator
+L397DW2E-QyNoSDYm30
+	alias: dlg_nexus01base_tristan_died_random_01
+	volume: 1
+	channel: Narrator
+LD379TWW-xXUsGCMpAc
+	alias: dlg_nexus_goldmine_exhausted_v1
+	volume: 1
+	channel: Narrator
+LEM8J569-_VKeFm4Lm0
+	alias: dlg_nexus02realm_introvideo_01
+	volume: 1
+	channel: Narrator
+LEM8J56A-ENEn3Edgon
+	alias: dlg_nexus02realm_introvideo_02
+	volume: 1
+	channel: Narrator
+LEM8J56B-CngqTHdxIj
+	alias: dlg_nexus02realm_introvideo_03
+	volume: 1
+	channel: Narrator
+LEM8J56C-UxMdhSsYZq
+	alias: dlg_nexus02realm_introvideo_04
+	volume: 1
+	channel: Narrator
+LEM8J56D-NHFXjq8rwF
+	alias: dlg_nexus02realm_introvideo_05
+	volume: 1
+	channel: Narrator
+LEM8J56E-M0DD7puaIH
+	alias: dlg_nexus02realm_introvideo_06
+	volume: 1
+	channel: Narrator
+LEM8J56F-K1UQ$9Qyoe
+	alias: dlg_nexus02realm_introvideo_07
+	volume: 1
+	channel: Narrator
+LEM8J56G-BSkZyXmzpu
+	alias: dlg_nexus02realm_introvideo_08
+	volume: 1
+	channel: Narrator
+LEM8J56H-CQA6qfmSns
+	alias: dlg_nexus02realm_introvideo_09
+	volume: 1
+	channel: Narrator
+LEM8J56J-DJmo7y_XJH
+	alias: dlg_nexus02realm_introvideo_10
+	volume: 1
+	channel: Narrator
+LEM8J56K-S13uBg_wGk
+	alias: dlg_nexus02realm_introvideo_11
+	volume: 1
+	channel: Narrator
+LEM8J56L-CSYzK$gLnO
+	alias: dlg_nexus02realm_introvideo_12
+	volume: 1
+	channel: Narrator
+LEM8J56M-QzsR8Cj_sr
+	alias: dlg_nexus02realm_introvideo_13
+	volume: 1
+	channel: Narrator
+LEM8J56N-HrDS_t9QuY
+	alias: dlg_nexus02realm_introvideo_14
+	volume: 1
+	channel: Narrator
+LEM8J56P-QWaCNZHwmO
+	alias: dlg_nexus02realm_introvideo_15
+	volume: 1
+	channel: Narrator
+LEM8J56Q-pJXiOlfJ_j
+	alias: dlg_nexus02realm_introvideo_16
+	volume: 1
+	channel: Narrator
+LEM8J56R-ePmHTls2sR
+	alias: dlg_nexus02realm_introvideo_17
+	volume: 1
+	channel: Narrator
+LEM8J56S-UNLuOUj1CZ
+	alias: dlg_nexus02realm_introvideo_18
+	volume: 1
+	channel: Narrator
+LV9LUFBC-mwJoaWRSVq
+	alias: dlg_nexus02realm_intro_11
+	volume: 1
+	channel: Narrator
+LV9LUFBD-Oj$ysZlWMs
+	alias: dlg_nexus02realm_intro_12
+	volume: 1
+	channel: Narrator
+LV9LUFBE-Bc_7i56dho
+	alias: dlg_nexus02realm_intro_13
+	volume: 1
+	channel: Narrator
+LV9LUFBF-U9hHUv2uRH
+	alias: dlg_nexus02realm_intro_14
+	volume: 1
+	channel: Narrator
+LV9LUFBG-zXQgGMIJtl
+	alias: dlg_nexus02realm_intro_15
+	volume: 1
+	channel: Narrator
+LV9LUFBH-BCsa10uxTf
+	alias: dlg_nexus02realm_first_spawn_02
+	volume: 1
+	channel: Narrator
+LV9LUFBJ-hSf_XDf$X4
+	alias: dlg_nexus02realm_first_spawn_03
+	volume: 1
+	channel: Narrator
+LV9LUFBK-IcHa53Klfj
+	alias: dlg_nexus02realm_first_spawn_04
+	volume: 1
+	channel: Narrator
+LV9LUFBM-QASPU9aKyY
+	alias: dlg_nexus02realm_gate_stone_reached_first_02
+	volume: 1
+	channel: Narrator
+LV9LUFBN-fR1wcZ1Riz
+	alias: dlg_nexus02realm_gate_stone_reached_first_03
+	volume: 1
+	channel: Narrator
+LV9LUFBP-H14dfkXNVY
+	alias: dlg_nexus02realm_gate_stone_captured_first_02
+	volume: 1
+	channel: Narrator
+LV9LUFBQ-$ItQ_3C0A8
+	alias: dlg_nexus02realm_storm_start_first_02
+	volume: 1
+	channel: Narrator
+LV9LUFBR-DftyHl9TN$
+	alias: dlg_nexus02realm_storm_start_first_03
+	volume: 1
+	channel: Narrator
+LV9LUFBS-$4_DYk0dy9
+	alias: dlg_nexus02realm_storm_start_random_02
+	volume: 1
+	channel: Narrator
+LV9LUFBT-v4rhD$ZVOs
+	alias: dlg_nexus02realm_storm_end_random_02
+	volume: 1
+	channel: Narrator
+LV9LUFBU-zZcX4Eg4OO
+	alias: dlg_nexus02realm_storm_outside_info_02
+	volume: 1
+	channel: Narrator
+LV9LUFBV-7x4Z2APSSA
+	alias: dlg_nexus02realm_storm_dungeon_info_02
+	volume: 1
+	channel: Narrator
+LV9LUFBW-nJW0Qlx$7z
+	alias: dlg_nexus02realm_storm_killed_random_03
+	volume: 1
+	channel: Narrator
+LV9LUFBX-$SSdJ_CEWZ
+	alias: dlg_nexus02realm_storm_killed_random_02
+	volume: 1
+	channel: Narrator
+LV9LUFBY-ph6_rqFCUP
+	alias: dlg_nexus02realm_storm_start_first_04
+	volume: 1
+	channel: Narrator
+LV9LUFBZ-LpwpYjLUFv
+	alias: dlg_nexus02realm_storm_start_first_05
+	volume: 1
+	channel: Narrator
+LV9LUFC2-46o3stRHgB
+	alias: dlg_nexus02realm_storm_killed_first_02
+	volume: 1
+	channel: Narrator
+LV9LUFC3-homTeeShcS
+	alias: dlg_nexus02realm_storm_killed_first_03
+	volume: 1
+	channel: Narrator
+LV9LUFC4-hMa1VZbfgU
+	alias: dlg_nexus02realm_storm_killed_first_04
+	volume: 1
+	channel: Narrator
+LV9LUFC5-covtVVV$FE
+	alias: dlg_nexus02realm_storm_killed_first_05
+	volume: 1
+	channel: Narrator
+LV9LUFC6-0KMeAitwX7
+	alias: dlg_nexus02realm_gate_stone_captured_03
+	volume: 1
+	channel: Narrator
+LV9LUFC7-Jtg7Kc4ha1
+	alias: dlg_nexus02realm_gate_stone_captured_04
+	volume: 1
+	channel: Narrator
+LV9LUFC8-uU3oMPuL42
+	alias: dlg_nexus02realm_gate_stone_captured_02
+	volume: 1
+	channel: Narrator
+LV9LUFC9-C2JXCf3Nx0
+	alias: dlg_nexus02realm_outro_03
+	volume: 1
+	channel: Narrator
+LV9LUFCA-FVrYcSG5qq
+	alias: dlg_nexus02realm_outro_09
+	volume: 1
+	channel: Narrator
+LV9LUFCB-xuy7vYVlCL
+	alias: dlg_nexus02realm_outro_02
+	volume: 1
+	channel: Narrator
+LV9LUFCC-q7NJq9YNZt
+	alias: dlg_nexus02realm_outro_08
+	volume: 1
+	channel: Narrator
+LV9LUFCD-wHOcKZxH5t
+	alias: dlg_nexus02realm_outro_05
+	volume: 1
+	channel: Narrator
+LV9LUFCE-UJUKPd9Udp
+	alias: dlg_nexus02realm_outro_07
+	volume: 1
+	channel: Narrator
+LV9LUFCF-T4at7IhFxk
+	alias: dlg_nexus02realm_outro_04
+	volume: 1
+	channel: Narrator
+LV9LUFCG-ErdXDtSnIM
+	alias: dlg_nexus02realm_outro_06
+	volume: 1
+	channel: Narrator
+LV9LUFCH-Okdzk2pcYg
+	alias: dlg_nexus02realm_outro_10
+	volume: 1
+	channel: Narrator
+LV9LUFCJ-oNeKlAK5mZ
+	alias: dlg_nexus02realm_outro_11
+	volume: 1
+	channel: Narrator
+LV9LUFCK-GPpSb7GHep
+	alias: dlg_nexus02realm_thalya_tristan_rampage_eg_idle_02
+	volume: 1
+	channel: Narrator
+LV9LUFCL-PbPFq9wHPR
+	alias: dlg_nexus02realm_thalya_tristan_rampage_lg_idle_02
+	volume: 1
+	channel: Narrator
+LV9LUFCM-F0fhD9eING
+	alias: dlg_nexus02realm_thalya_tristan_rampage_mg_idle_02
+	volume: 1
+	channel: Narrator
+MHQ24RQP-DdUnL_p8mW
+	alias: dlg_general_nexus_patrol_v1
+	volume: 1
+	channel: Narrator
+MHQ24RQQ-9CEOZ0qaAW
+	alias: dlg_general_nexus_patrol_v2
+	volume: 1
+	channel: Narrator
+MHQ24RQR-M$wODfmOe1
+	alias: dlg_general_nexus_patrol_tristran_v1
+	volume: 1
+	channel: Narrator
+MHQ24RQS-3WHr6hNl6k
+	alias: dlg_general_nexus_patrol_tristran_v2
+	volume: 1
+	channel: Narrator
+MST34LJY-4C2lC2WgKd
+	alias: dlg_nexus_attacknexusgate_v1
+	volume: 1
+	channel: Narrator
+MST34LJZ-QvQy6vtw67
+	alias: dlg_nexus_attacknexusgate_v2
+	volume: 1
+	channel: Narrator
+MST34LK2-7oIaT7sUr
+	alias: dlg_nexus_attacknexusgate_v3
+	volume: 1
+	channel: Narrator
+MVRQQ9N6-7AV_pLDg0x
+	alias: dlg_general_nexus_evil_tristan_v1
+	volume: 1
+	channel: Narrator
+MVRQQ9N7-zjO3EBbNmJ
+	alias: dlg_general_nexus_evil_tristan_v2
+	volume: 1
+	channel: Narrator
+MVRQQ9N8-DSUmhCCYYj
+	alias: dlg_general_nexus_evil_tristan_v3
+	volume: 1
+	channel: Narrator
+NRA6UHSA-IAnGZELKXb
+	alias: dlg_nexus01base_builder_end_01
+	volume: 1
+	channel: Narrator
+PBTQT92M-r3kzllBgFE
+	alias: dlg_nexus03waves_souls_125_percent_end_02
+	volume: 1
+	channel: Narrator
+PM2WNHSA-d_zM4y7SzF
+	alias: dlg_skirnexus_attack_dungeon_first_01
+	volume: 1
+	channel: Narrator
+PM2WNHSB-dvKjIIcDGh
+	alias: dlg_skirnexus_attack_dungeon_random_01
+	volume: 1
+	channel: Narrator
+PM2WNHSC-U69xKMquR3
+	alias: dlg_skirnexus_attack_dungeon_random_02
+	volume: 1
+	channel: Narrator
+PM2WNHSD-hdIg6V$kXR
+	alias: dlg_skirnexus_attack_dungeon_random_03
+	volume: 1
+	channel: Narrator
+PM2WNHSE-hdZJjyYW46
+	alias: dlg_skirnexus_attack_outside_first_01
+	volume: 1
+	channel: Narrator
+PM2WNHSF-k8rXpPAqT9
+	alias: dlg_skirnexus_attack_outside_random_01
+	volume: 1
+	channel: Narrator
+PM2WNHSG-2Cj2SVzl9T
+	alias: dlg_skirnexus_attack_outside_random_02
+	volume: 1
+	channel: Narrator
+PM2WNHSH-vOmJ0hKV8Y
+	alias: dlg_skirnexus_attack_outside_random_03
+	volume: 1
+	channel: Narrator
+PM2WNHSJ-fTWBsAswFR
+	alias: dlg_skirnexus_special_attack_dungeon_random_01
+	volume: 1
+	channel: Narrator
+PM2WNHSK-I4H743hIxq
+	alias: dlg_skirnexus_special_attack_dungeon_random_02
+	volume: 1
+	channel: Narrator
+PM2WNHSL-rx0dgHO8t4
+	alias: dlg_skirnexus_special_attack_dungeon_random_03
+	volume: 1
+	channel: Narrator
+PM2WNHSM-zScfsE1zQd
+	alias: dlg_skirnexus_special_attack_outside_random_01
+	volume: 1
+	channel: Narrator
+PM2WNHSN-Emzr8SGZPy
+	alias: dlg_skirnexus_special_attack_outside_random_02
+	volume: 1
+	channel: Narrator
+PM2WNHSP-DwH5SntSuQ
+	alias: dlg_skirnexus_special_attack_outside_random_03
+	volume: 1
+	channel: Narrator
+PM2WNHSQ-Y5xDaUFGQb
+	alias: dlg_skirnexus_special_attack_both_first_01
+	volume: 1
+	channel: Narrator
+PZ2MT27Q-d9Yn3eL61a
+	alias: dlg_nexus01base_mission_capt
+	volume: 1
+	channel: Narrator
+PZ2MT27R-Z6qWyqPCf4
+	alias: dlg_nexus01base_mission_desc
+	volume: 1
+	channel: Narrator
+PZ2MT27S-vNDHXpaWUX
+	alias: dlg_nexus02realm_mission_capt
+	volume: 1
+	channel: Narrator
+PZ2MT27U-t$gq5CrGHG
+	alias: dlg_nexus03waves_mission_capt
+	volume: 1
+	channel: Narrator
+PZ2MT27V-NU2y4rmCL1
+	alias: dlg_nexus03waves_mission_desc
+	volume: 1
+	channel: Narrator
+SB8HNEHG-gF_2MgN8J5
+	alias: dlg_nexus01base_intro_07
+	volume: 1
+	channel: Narrator
+SB8HNEHH-S621GvwpuL
+	alias: dlg_nexus01base_intro_08
+	volume: 1
+	channel: Narrator
+SB8HNEHJ-9R$1p0S9qJ
+	alias: dlg_nexus01base_intro_09
+	volume: 1
+	channel: Narrator
+SB8HNEHK-zl3OVs1gSV
+	alias: dlg_nexus01base_portal_random_01
+	volume: 1
+	channel: Narrator
+SB8HNEHL-rvZXhK12ea
+	alias: dlg_nexus01base_portal_random_02
+	volume: 1
+	channel: Narrator
+SB8HNEHM-hyqDMX9OBW
+	alias: dlg_nexus01base_intro_10
+	volume: 1
+	channel: Narrator
+SB8HNEHN-mlE13BRiwm
+	alias: dlg_nexus01base_intro_11
+	volume: 1
+	channel: Narrator
+SB8HNEHP-lRAxDieXxp
+	alias: dlg_nexus01base_intro_12
+	volume: 1
+	channel: Narrator
+SB8HNEHQ-Z4CJvouKQN
+	alias: dlg_nexus01base_intro_13
+	volume: 1
+	channel: Narrator
+SB8HNEHR-fBeoM4Z19n
+	alias: dlg_nexus01base_spider_random_02
+	volume: 1
+	channel: Narrator
+SB8HNEHS-KwJ0VweIGd
+	alias: dlg_nexus01base_spider_random_03
+	volume: 1
+	channel: Narrator
+SB8HNEHT-I3lU5kVmVH
+	alias: dlg_nexus01base_small_shadow_mark_staging_info_02
+	volume: 1
+	channel: Narrator
+X8YRNJ78-spfBnianh7
+	alias: dlg_nexus03waves_spawner_nexus_portal_killed_by_spiders
+	volume: 1
+	channel: Narrator
+XQEF5LVB-43wIyF3d3D
+	alias: dlg_nexus01base_introvideo_01
+	volume: 1
+	channel: Narrator
+XQEF5LVC-EYhJzrRp02
+	alias: dlg_nexus01base_introvideo_02
+	volume: 1
+	channel: Narrator
+XQEF5LVD-PqArBZs7Hx
+	alias: dlg_nexus01base_introvideo_03
+	volume: 1
+	channel: Narrator
+XQEF5LVE-BuOme_Zf1A
+	alias: dlg_nexus01base_introvideo_04
+	volume: 1
+	channel: Narrator
+XQEF5LVF-cETez3trlw
+	alias: dlg_nexus01base_introvideo_05
+	volume: 1
+	channel: Narrator
+ZFTH85TS-rveKWjVZ84
+	alias: dlg_nexus03waves_outrovideo_1
+	volume: 1
+	channel: Narrator
+ZFTH85TT-JufTwQ7UvT
+	alias: dlg_nexus03waves_outrovideo_2
+	volume: 1
+	channel: Narrator
+ZFTH85TU-69JCTJb9VT
+	alias: dlg_nexus03waves_outrovideo_3
+	volume: 1
+	channel: Narrator
+ZFTH85TV-K4cZ0MlMuz
+	alias: dlg_nexus03waves_outrovideo_4
+	volume: 1
+	channel: Narrator
+ZFTH85TW-9yyGO$CmH0
+	alias: dlg_nexus03waves_outrovideo_5
+	volume: 1
+	channel: Narrator
+ZFTH85TX-rpse7YLT71
+	alias: dlg_nexus03waves_outrovideo_6
+	volume: 1
+	channel: Narrator
+ZFTH85TY-p2ZNB56lYd
+	alias: dlg_nexus03waves_outrovideo_7
+	volume: 1
+	channel: Narrator
+ZFTH85TZ-ZYv8C5ccRA
+	alias: dlg_nexus03waves_outrovideo_8
+	volume: 1
+	channel: Narrator
+ZFTH85U2-jwFb9952E0
+	alias: dlg_nexus03waves_outrovideo_9
+	volume: 1
+	channel: Narrator
+ZFTH85U3-U0Ad$j3IXa
+	alias: dlg_nexus03waves_outrovideo_10
+	volume: 1
+	channel: Narrator
+ZFTH85U4-VLhoQRALl5
+	alias: dlg_nexus03waves_outrovideo_11
+	volume: 1
+	channel: Narrator
+ZFTH85U5-66Okvg6G5P
+	alias: dlg_nexus03waves_outrovideo_12
+	volume: 1
+	channel: Narrator
+ZLBKVW5L-6ddHv_a5A$
+	alias: dlg_nexus03wave_shadow_mark_claimed_north_east_info
+	volume: 1
+	channel: Narrator
+ZLBKVW5M-XdksDkv9GZ
+	alias: dlg_nexus03wave_shadow_mark_claimed_south_west_info_01
+	volume: 1
+	channel: Narrator
+ZLBKVW5N-Hh7fuHWbbF
+	alias: dlg_nexus03waves_laser_killed_idle_random_02
+	volume: 1
+	channel: Narrator
+ZLBKVW5P-6ERHsjYugO
+	alias: dlg_nexus03waves_outro_win_01
+	volume: 1
+	channel: Narrator
+ZLBKVW5Q-0$2fAy3Guu
+	alias: dlg_nexus03wave_intro_01
+	volume: 1
+	channel: Narrator
+ZLBKVW5R-R2A8Mb8Jds
+	alias: dlg_nexus03wave_intro_02
+	volume: 1
+	channel: Narrator
+ZLBKVW5S-lLBgU5NyZU
+	alias: dlg_nexus03wave_intro_03
+	volume: 1
+	channel: Narrator
+ZLBKVW5T-qKsipEWClr
+	alias: dlg_nexus03wave_intro_04
+	volume: 1
+	channel: Narrator
+ZLBKVW5U-6O_x1No21C
+	alias: dlg_nexus03wave_intro_05
+	volume: 1
+	channel: Narrator

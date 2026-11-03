@@ -1,0 +1,1308 @@
+3SCE32BH-j5aI7T0984
+	alias: dlg_tales03freeze_intro_05
+	volume: 1
+	channel: Narrator
+3SCE32BJ-THBsxXLn61
+	alias: dlg_tales03freeze_intro_06
+	volume: 1
+	channel: Narrator
+3SCE32BK-_H4rkShVsM
+	alias: dlg_tales03freeze_intro_07
+	volume: 1
+	channel: Narrator
+3SCE32BL-P8YiwK57R5
+	alias: dlg_tales03freeze_intro_08
+	volume: 1
+	channel: Narrator
+3SCE32BM-e834YhhvuT
+	alias: dlg_tales03freeze_intro_09
+	volume: 1
+	channel: Narrator
+3SCE32BN-4ctYiPBcru
+	alias: dlg_tales03freeze_intro_10
+	volume: 1
+	channel: Narrator
+3SCE32BR-8G1iUBKt4h
+	alias: dlg_tales03freeze_crater_fire_way_start_03
+	volume: 1
+	channel: Narrator
+3SCE32BS-cuxYAPBwbn
+	alias: dlg_tales03freeze_shrine_near_first_info_02
+	volume: 1
+	channel: Narrator
+3SCE32BT-GuHQKd2buJ
+	alias: dlg_tales03freeze_shrine_near_first_info_03
+	volume: 1
+	channel: Narrator
+3SCE32BU-yKeQ4xiZdA
+	alias: dlg_tales03freeze_shrine_first_start_03
+	volume: 1
+	channel: Narrator
+3SCE32BV-19EpmNHpWz
+	alias: dlg_tales03freeze_shrine_first_start_04
+	volume: 1
+	channel: Narrator
+3SCE32BW-nwJ5biYNQ7
+	alias: dlg_tales03freeze_second_entrance_start_03
+	volume: 1
+	channel: Narrator
+3SCE32BX-SpA6uE7XS_
+	alias: dlg_tales03freeze_shrine_second_start_02
+	volume: 1
+	channel: Narrator
+3SCE32BY-f9rIq3kPed
+	alias: dlg_tales03freeze_shrine_second_start_03
+	volume: 1
+	channel: Narrator
+3SCE32BZ-pJyf0gpcqo
+	alias: dlg_tales03freeze_crater_start_04
+	volume: 1
+	channel: Narrator
+3SCE32C2-TVSIpv_GdQ
+	alias: dlg_tales03freeze_outro_04
+	volume: 1
+	channel: Narrator
+46H5FPV9-yY1MA0CK5w
+	alias: dlg_tales01daylight_introvideo_01
+	volume: 1
+	channel: Narrator
+46H5FPVA-IFQRdKyApB
+	alias: dlg_tales01daylight_introvideo_02
+	volume: 1
+	channel: Narrator
+46H5FPVB-JYnA6MtvAa
+	alias: dlg_tales01daylight_introvideo_03
+	volume: 1
+	channel: Narrator
+46H5FPVC-NJiQSUOvO7
+	alias: dlg_tales01daylight_introvideo_04
+	volume: 1
+	channel: Narrator
+46H5FPVD-zncvTi8Sb4
+	alias: dlg_tales01daylight_introvideo_05
+	volume: 1
+	channel: Narrator
+46H5FPVE-LN3iwCU1td
+	alias: dlg_tales01daylight_introvideo_06
+	volume: 1
+	channel: Narrator
+46H5FPVF-k2HOJ8jPPV
+	alias: dlg_tales01daylight_introvideo_07
+	volume: 1
+	channel: Narrator
+46H5FPVG-3FF7TlwvHF
+	alias: dlg_tales01daylight_introvideo_08
+	volume: 1
+	channel: Narrator
+46H5FPVH-BRNysUgnaG
+	alias: dlg_tales01daylight_introvideo_09
+	volume: 1
+	channel: Narrator
+46H5FPVK-T4h63hPoYO
+	alias: dlg_tales02train_introvideo_01
+	volume: 1
+	channel: Narrator
+46H5FPVL-uhbGcxRe6t
+	alias: dlg_tales02train_introvideo_02
+	volume: 1
+	channel: Narrator
+46H5FPVM-GcAQqMCT3T
+	alias: dlg_tales02train_introvideo_03
+	volume: 1
+	channel: Narrator
+46H5FPVN-ijaAP5M4hF
+	alias: dlg_tales02train_introvideo_04
+	volume: 1
+	channel: Narrator
+46H5FPVP-MHx1PE7qdG
+	alias: dlg_tales02train_introvideo_06
+	volume: 1
+	channel: Narrator
+46H5FPVQ-9SGbwsP3gj
+	alias: dlg_tales02train_introvideo_05
+	volume: 1
+	channel: Narrator
+46H5FPVR-FQBxNzB8sL
+	alias: dlg_tales02train_introvideo_07
+	volume: 1
+	channel: Narrator
+46H5FPVS-COOITA$QaO
+	alias: dlg_tales02train_introvideo_08
+	volume: 1
+	channel: Narrator
+46H5FPVT-q56rZan$2O
+	alias: dlg_tales02train_introvideo_09
+	volume: 1
+	channel: Narrator
+46H5FPVU-RhtQzB_mnW
+	alias: dlg_tales02train_introvideo_10
+	volume: 1
+	channel: Narrator
+46H5FPVW-Wcv6o0p0Ew
+	alias: dlg_tales03freeze_introvideo_01
+	volume: 1
+	channel: Narrator
+46H5FPVX-1JluwnW6GJ
+	alias: dlg_tales03freeze_introvideo_02
+	volume: 1
+	channel: Narrator
+46H5FPVY-JC5Ja37_Xw
+	alias: dlg_tales03freeze_introvideo_03
+	volume: 1
+	channel: Narrator
+46H5FPVZ-1eDQ1Jm3Aw
+	alias: dlg_tales03freeze_introvideo_04
+	volume: 1
+	channel: Narrator
+46H5FPW2-cg3JzjNPW2
+	alias: dlg_tales03freeze_introvideo_05
+	volume: 1
+	channel: Narrator
+46H5FPW3-5JnVc5S5Ea
+	alias: dlg_tales03freeze_introvideo_06
+	volume: 1
+	channel: Narrator
+46H5FPW4-TE8ZgjjCUl
+	alias: dlg_tales03freeze_introvideo_07
+	volume: 1
+	channel: Narrator
+46H5FPW5-07UlelvTjv
+	alias: dlg_tales04sheep_introvideo_01
+	volume: 1
+	channel: Narrator
+46H5FPW6-tIVYg63HK_
+	alias: dlg_tales04sheep_introvideo_02
+	volume: 1
+	channel: Narrator
+46H5FPW7-gvOhiJNwQX
+	alias: dlg_tales04sheep_introvideo_03
+	volume: 1
+	channel: Narrator
+46H5FPW8-OiezKkifCS
+	alias: dlg_tales04sheep_introvideo_04
+	volume: 1
+	channel: Narrator
+46H5FPW9-od9sw2D2Cs
+	alias: dlg_tales04sheep_outrovideo_01
+	volume: 1
+	channel: Narrator
+46H5FPWA-xnJO4$kK2V
+	alias: dlg_tales04sheep_outrovideo_02
+	volume: 1
+	channel: Narrator
+46H5FPWB-LClFxri6fz
+	alias: dlg_tales04sheep_outrovideo_03
+	volume: 1
+	channel: Narrator
+46H5FPWC-tgptM0m2zi
+	alias: dlg_tales04sheep_outrovideo_04
+	volume: 1
+	channel: Narrator
+46H5FPWD-NnFdEGqQIA
+	alias: dlg_tales04sheep_outrovideo_05
+	volume: 1
+	channel: Narrator
+46H5FPWE-8FEIEg_W4d
+	alias: dlg_tales04sheep_outrovideo_06
+	volume: 1
+	channel: Narrator
+5BY9J9E8-2$VPXh5$NX
+	alias: dlg_tales02train_mission_capt
+	volume: 1
+	channel: Narrator
+5BY9J9E9-f2ZJYY0cKf
+	alias: dlg_tales02train_mission_desc
+	volume: 1
+	channel: Narrator
+5BY9J9EA-qTBwj3XUDq
+	alias: dlg_tales02train_intro_01
+	volume: 1
+	channel: Narrator
+5BY9J9EK-lkwRmMZBbE
+	alias: dlg_tales02train_outro_01
+	volume: 1
+	channel: Narrator
+5BY9J9EL-YtbDbJayvO
+	alias: dlg_tales02train_outro_lose_01
+	volume: 1
+	channel: Narrator
+5VS6AVRE-xzuB$1Zmjf
+	alias: dlg_tales03freeze_intro_02
+	volume: 1
+	channel: Narrator
+5VS6AVRF-iPFBTazxgR
+	alias: dlg_tales03freeze_intro_03
+	volume: 1
+	channel: Narrator
+5VS6AVRG-qpTuDeZwlo
+	alias: dlg_tales03freeze_intro_04
+	volume: 1
+	channel: Narrator
+5VS6AVRH-0aE_eH6_Sg
+	alias: dlg_tales03freeze_spawner_first_01
+	volume: 1
+	channel: Narrator
+5VS6AVRJ-i2iRgq4k90
+	alias: dlg_tales03freeze_spawner_first_02
+	volume: 1
+	channel: Narrator
+5VS6AVRK-rfMTEckOGm
+	alias: dlg_tales03freeze_spawner_first_03
+	volume: 1
+	channel: Narrator
+5VS6AVRM-xn9qJZx7tr
+	alias: dlg_tales03freeze_shrine_first_start_01
+	volume: 1
+	channel: Narrator
+5VS6AVRN-SMpCPCaBSm
+	alias: dlg_tales03freeze_shrine_first_start_02
+	volume: 1
+	channel: Narrator
+5VS6AVRP-7ARRZWVOoj
+	alias: dlg_tales03freeze_shrine_first_end_01
+	volume: 1
+	channel: Narrator
+5VS6AVRQ-yEdpkePY_n
+	alias: dlg_tales03freeze_shrine_first_end_02
+	volume: 1
+	channel: Narrator
+5VS6AVRR-f_Tz$RQ4Ay
+	alias: dlg_tales03freeze_shrine_first_end_03
+	volume: 1
+	channel: Narrator
+5VS6AVRS-9VjdkZyzKL
+	alias: dlg_tales03freeze_shrine_first_end_04
+	volume: 1
+	channel: Narrator
+5VS6AVRT-ONpR6LBYQu
+	alias: dlg_tales03freeze_shrine_second_start_01
+	volume: 1
+	channel: Narrator
+5VS6AVRU-9lVGhOArT2
+	alias: dlg_tales03freeze_shrine_second_end_01
+	volume: 1
+	channel: Narrator
+5VS6AVRV-psDhorayPv
+	alias: dlg_tales03freeze_shrine_third_start_01
+	volume: 1
+	channel: Narrator
+5VS6AVRW-4RUJBGfawC
+	alias: dlg_tales03freeze_shrine_third_start_02
+	volume: 1
+	channel: Narrator
+5VS6AVRX-EZtU9pmBVN
+	alias: dlg_tales03freeze_shrine_third_start_03
+	volume: 1
+	channel: Narrator
+5VS6AVRY-aOUsY9sqR5
+	alias: dlg_tales03freeze_shrine_third_end_01
+	volume: 1
+	channel: Narrator
+5VS6AVRZ-gu5VnE6tGm
+	alias: dlg_tales03freeze_shrine_third_end_02
+	volume: 1
+	channel: Narrator
+5VS6AVS2-zii6vEDgEd
+	alias: dlg_tales03freeze_shrine_third_end_03
+	volume: 1
+	channel: Narrator
+5VS6AVS3-Ff7uhrOolG
+	alias: dlg_tales03freeze_shrine_third_end_04
+	volume: 1
+	channel: Narrator
+5VS6AVS4-YCPrgpeIRS
+	alias: dlg_tales03freeze_second_entrance_start_01
+	volume: 1
+	channel: Narrator
+5VS6AVS5-gY2nPFU66B
+	alias: dlg_tales03freeze_second_entrance_start_02
+	volume: 1
+	channel: Narrator
+5VS6AVS6-joXI1h_U7G
+	alias: dlg_tales03freeze_second_entrance_end_01
+	volume: 1
+	channel: Narrator
+5VS6AVS7-d90ZB9RAo2
+	alias: dlg_tales03freeze_crater_fire_way_start_01
+	volume: 1
+	channel: Narrator
+5VS6AVS8-rdDJPABkds
+	alias: dlg_tales03freeze_crater_fire_way_start_02
+	volume: 1
+	channel: Narrator
+5VS6AVS9-tcYBZi$XxT
+	alias: dlg_tales03freeze_crater_fire_way_end_01
+	volume: 1
+	channel: Narrator
+5VS6AVSA-lnajfDb0Wm
+	alias: dlg_tales03freeze_crater_start_01
+	volume: 1
+	channel: Narrator
+5VS6AVSB-vCLzUV2Gzj
+	alias: dlg_tales03freeze_crater_start_02
+	volume: 1
+	channel: Narrator
+5VS6AVSC-YHGVCmdTWC
+	alias: dlg_tales03freeze_crater_start_03
+	volume: 1
+	channel: Narrator
+5VS6AVSD-PsSRuZDKRt
+	alias: dlg_tales03freeze_outro_02
+	volume: 1
+	channel: Narrator
+5VS6AVSE-FuR7wAYmDN
+	alias: dlg_tales03freeze_outro_03
+	volume: 1
+	channel: Narrator
+6VWSFUHB-V9mGrK_$F9
+	alias: dlg_tales03freeze_crater_failed_random_01
+	volume: 1
+	channel: Narrator
+6VWSFUHC-Ly$bfy__vL
+	alias: dlg_tales03freeze_crater_failed_random_02
+	volume: 1
+	channel: Narrator
+6VWSFUHD-IAsn429MFE
+	alias: dlg_tales03freeze_crater_failed_random_03
+	volume: 1
+	channel: Narrator
+6VWSFUHE-rNmGRFyIi1
+	alias: dlg_tales03freeze_shrine_failed_random_01
+	volume: 1
+	channel: Narrator
+6VWSFUHF-5YH$zCKr83
+	alias: dlg_tales03freeze_shrine_failed_random_02
+	volume: 1
+	channel: Narrator
+6VWSFUHG-c5ifusu0rF
+	alias: dlg_tales03freeze_shrine_failed_random_03
+	volume: 1
+	channel: Narrator
+BYLKB82Y-zbh0KIpoZl
+	alias: dlg_tales02train_enemy_spawn_init_fallback_info_02
+	volume: 1
+	channel: Narrator
+BYLKB82Z-E9ADKmnCw
+	alias: dlg_tales02train_enemy_spawn_init_info_02
+	volume: 1
+	channel: Narrator
+BYLKB832-EEk8pMyd7e
+	alias: dlg_tales02train_train_station_info_02
+	volume: 1
+	channel: Narrator
+BYLKB833-6b1ax9j33o
+	alias: dlg_tales02train_dynamite_barricades_first_start_02
+	volume: 1
+	channel: Narrator
+BYLKB834-0uN4uvQwS7
+	alias: dlg_tales02train_dynamite_barricades_first_start_03
+	volume: 1
+	channel: Narrator
+BYLKB835-CGqxtHL9II
+	alias: dlg_tales02train_dynamite_barricades_first_start_04
+	volume: 1
+	channel: Narrator
+BYLKB836-Vs2wNZwvPh
+	alias: dlg_tales02train_dynamite_barricades_random_02
+	volume: 1
+	channel: Narrator
+BYLKB837-oQS9yyYmhQ
+	alias: dlg_tales02train_dynamite_barricades_random_03
+	volume: 1
+	channel: Narrator
+BYLKB838-TX8YCC$3$Y
+	alias: dlg_tales02train_dynamite_barricades_reminder_02
+	volume: 1
+	channel: Narrator
+BYLKB839-LudDvO4VzA
+	alias: dlg_tales02train_dynamite_barricades_random_04
+	volume: 1
+	channel: Narrator
+BYLKB83A-oHIMzxefn_
+	alias: dlg_tales02train_dynamite_barricades_first_end_02
+	volume: 1
+	channel: Narrator
+BYLKB83C-j20rIfzIOh
+	alias: dlg_tales02train_dynamite_dynamite_factory_first_reminder_02
+	volume: 1
+	channel: Narrator
+BYLKB83D-ZWl3gm3Hfo
+	alias: dlg_tales02train_dynamite_dynamite_factory_first_start_02
+	volume: 1
+	channel: Narrator
+BYLKB83E-aZAilVHX$i
+	alias: dlg_tales02train_dynamite_dynamite_factory_first_end_02
+	volume: 1
+	channel: Narrator
+BYLKB83F-3obBaDA5xe
+	alias: dlg_tales02train_dynamite_spell_first_use_info_02
+	volume: 1
+	channel: Narrator
+BYLKB83G-Wx6QTJSoFW
+	alias: dlg_tales02train_dynamite_kill_heroes_random_02
+	volume: 1
+	channel: Narrator
+BYLKB83H-ByVoqJ6LA8
+	alias: dlg_tales02train_dynamite_kill_heroes_random_03
+	volume: 1
+	channel: Narrator
+BYLKB83J-jc1j83CJVs
+	alias: dlg_tales02train_dynamite_kill_heroes_random_04
+	volume: 1
+	channel: Narrator
+BYLKB83K-MwAsqF10uF
+	alias: dlg_tales02train_dynamite_kill_heroes_random_05
+	volume: 1
+	channel: Narrator
+BYLKB83L-D69zHEO2Cq
+	alias: dlg_tales02train_dynamite_spell_buy_random_02
+	volume: 1
+	channel: Narrator
+BYLKB83M-K_$Kjay$a3
+	alias: dlg_tales02train_dynamite_spell_buy_random_03
+	volume: 1
+	channel: Narrator
+BYLKB83N-9xGT26oTZ5
+	alias: dlg_tales02train_dynamite_spell_buy_random_04
+	volume: 1
+	channel: Narrator
+BYLKB83P-BTlZo45Q5J
+	alias: dlg_tales02train_train_defeated_eg_02
+	volume: 1
+	channel: Narrator
+BYLKB83R-ue4L$6ElKR
+	alias: dlg_tales02train_scorpling_event_02
+	volume: 1
+	channel: Narrator
+BYLKB83S-ons2PHVi74
+	alias: dlg_tales02train_scorpling_event_03
+	volume: 1
+	channel: Narrator
+BYLKB83T-PVVvmX3HhT
+	alias: dlg_tales02train_dynamite_dynamite_factory_second_start_02
+	volume: 1
+	channel: Narrator
+BYLKB83U-c58V1cMsrY
+	alias: dlg_tales02train_dynamite_dynamite_factory_second_end_02
+	volume: 1
+	channel: Narrator
+BYLKB83V-qSLanevLh$
+	alias: dlg_tales02train_wall_mg_to_lg_info_02
+	volume: 1
+	channel: Narrator
+BYLKB83W-OZiEu9ObMk
+	alias: dlg_tales02train_wall_mg_to_lg_info_03
+	volume: 1
+	channel: Narrator
+BYLKB83X-2KIpobovS5
+	alias: dlg_tales02train_train_defeated_mg_02
+	volume: 1
+	channel: Narrator
+BYLKB83Z-8hCX2giz8z
+	alias: dlg_tales02train_train_destroyed_wall_info_02
+	volume: 1
+	channel: Narrator
+BYLKB842-8KWGvMSPAN
+	alias: dlg_tales02train_dwarf_event_start_02
+	volume: 1
+	channel: Narrator
+BYLKB844-ePZg39W8OH
+	alias: dlg_tales02train_dynamite_dynamite_factory_third_end_02
+	volume: 1
+	channel: Narrator
+BYLKB845-IR3T_4fWcr
+	alias: dlg_tales02train_outro_02
+	volume: 1
+	channel: Narrator
+BYLKB846-s45X68KXdL
+	alias: dlg_tales02train_outro_03
+	volume: 1
+	channel: Narrator
+BYLKB847-GH2TtIDBPb
+	alias: dlg_tales02train_outro_04
+	volume: 1
+	channel: Narrator
+BYLKB848-K6dyPB5uhT
+	alias: dlg_tales02train_outro_05
+	volume: 1
+	channel: Narrator
+BYLKB849-nHxTlIfluk
+	alias: dlg_tales02train_outro_06
+	volume: 1
+	channel: Narrator
+CLHZCPX9-qu3YR6OPaY
+	alias: dlg_tales02train_dynamite_spell_buy_random_01
+	volume: 1
+	channel: Narrator
+F9PRC3FV-wMMswT9TAq
+	alias: dlg_tales02train_wall_mg_to_lg_info_01
+	volume: 1
+	channel: Narrator
+FFR56TR9-McFj3ZE4Gy
+	alias: dlg_tales02train_enemy_spawn_init_info_01
+	volume: 1
+	channel: Narrator
+FFR56TRA-OZGBZzAgre
+	alias: dlg_tales02train_enemy_spawn_init_fallback_info_01
+	volume: 1
+	channel: Narrator
+FFR56TRB-D5jwwCwelw
+	alias: dlg_tales02train_dynamite_barricades_first_start_01
+	volume: 1
+	channel: Narrator
+FFR56TRC-FCq6ZU0yFF
+	alias: dlg_tales02train_dynamite_dynamite_factory_first_reminder_01
+	volume: 1
+	channel: Narrator
+FFR56TRD-iMVz6MUlq6
+	alias: dlg_tales02train_dynamite_barricades_random_01
+	volume: 1
+	channel: Narrator
+FFR56TRE-cSAiThlUFn
+	alias: dlg_tales02train_dynamite_spell_first_use_info_01
+	volume: 1
+	channel: Narrator
+FFR56TRF-plesDa0IAh
+	alias: dlg_tales02train_dynamite_spell_first_use_info_03
+	volume: 1
+	channel: Narrator
+FFR56TRG-rSsNQAeiMG
+	alias: dlg_tales02train_dynamite_barricades_reminder_01
+	volume: 1
+	channel: Narrator
+FFR56TRH-JAkYRvgAH4
+	alias: dlg_tales02train_dynamite_spell_first_buy_reminder_01
+	volume: 1
+	channel: Narrator
+FFR56TRJ-8KreWkyIvN
+	alias: dlg_tales02train_dynamite_dynamite_factory_second_end_01
+	volume: 1
+	channel: Narrator
+FFR56TRK-I7iIRsbQyf
+	alias: dlg_tales02train_dynamite_dynamite_factory_third_end_01
+	volume: 1
+	channel: Narrator
+FFR56TRL-upXGK0Cq1Y
+	alias: dlg_tales02train_dynamite_dynamite_factory_reminder_01
+	volume: 1
+	channel: Narrator
+FFR56TRM-vdQjw8HjA0
+	alias: dlg_tales02train_dynamite_barricades_first_end_01
+	volume: 1
+	channel: Narrator
+FFR56TRN-ITq7oetMHH
+	alias: dlg_tales02train_train_station_info_01
+	volume: 1
+	channel: Narrator
+FFR56TRP-bkyYyE8IXG
+	alias: dlg_tales02train_train_reminder_eg_01
+	volume: 1
+	channel: Narrator
+FFR56TRQ-VzYQwAx7RA
+	alias: dlg_tales02train_train_reminder_mg_01
+	volume: 1
+	channel: Narrator
+FFR56TRR-eBFYmNfHgp
+	alias: dlg_tales02train_train_reminder_lg_01
+	volume: 1
+	channel: Narrator
+FFR56TRS-LEuT$JSyfJ
+	alias: dlg_tales02train_train_defeated_eg_01
+	volume: 1
+	channel: Narrator
+FFR56TRT-dXzW28v5UI
+	alias: dlg_tales02train_train_defeated_mg_01
+	volume: 1
+	channel: Narrator
+FFR56TRU-K1YMDpKlHF
+	alias: dlg_tales02train_train_destroyed_wall_info_01
+	volume: 1
+	channel: Narrator
+FFR56TRV-zfDe0uwtmf
+	alias: dlg_tales02train_dwarf_event_start_01
+	volume: 1
+	channel: Narrator
+FFR56TRW-SMji6hlv7D
+	alias: dlg_tales02train_dwarf_event_end_01
+	volume: 1
+	channel: Narrator
+FFR56TRX-Gof5nxDMzB
+	alias: dlg_tales02train_scorpling_event_01
+	volume: 1
+	channel: Narrator
+FVBTCLE4-64EZp356Yz
+	alias: dlg_tales03freeze_crater_near_info_01
+	volume: 1
+	channel: Narrator
+HLMN2T3Z-EfBkDT_kkw
+	alias: dlg_tales02train_intro_06
+	volume: 1
+	channel: Narrator
+HLMN2T42-8FI2TJsTxl
+	alias: dlg_tales02train_intro_07
+	volume: 1
+	channel: Narrator
+HLMN2T43-KNeVTrMpJq
+	alias: dlg_tales02train_intro_08
+	volume: 1
+	channel: Narrator
+HLMN2T44-K_PLiidELT
+	alias: dlg_tales02train_intro_09
+	volume: 1
+	channel: Narrator
+J3VRZEKU-iiUcfrpj0C
+	alias: dlg_tales02train_intro_02
+	volume: 1
+	channel: Narrator
+J3VRZEKV-cULM8U5$$9
+	alias: dlg_tales02train_intro_03
+	volume: 1
+	channel: Narrator
+J3VRZEKW-aEdcgym5zx
+	alias: dlg_tales02train_intro_04
+	volume: 1
+	channel: Narrator
+J3VRZEKX-kMEwxet$RX
+	alias: dlg_tales02train_intro_05
+	volume: 1
+	channel: Narrator
+J3VRZEKY-ZoeTp16qLn
+	alias: dlg_tales02train_dynamite_dynamite_factory_first_start_01
+	volume: 1
+	channel: Narrator
+J3VRZEKZ-RZfYeKcnhq
+	alias: dlg_tales02train_dynamite_dynamite_factory_first_end_01
+	volume: 1
+	channel: Narrator
+K5QTRVG7-cvBT_cgtBj
+	alias: dlg_tales01daylight_day_first_info_02
+	volume: 1
+	channel: Narrator
+K5QTRVG8-DlveRJzf8M
+	alias: dlg_tales01daylight_day_first_info_03
+	volume: 1
+	channel: Narrator
+K5QTRVG9-eGuIxu2UTd
+	alias: dlg_tales01daylight_day_second_info_02
+	volume: 1
+	channel: Narrator
+K5QTRVGA-1b1DFiSL$L
+	alias: dlg_tales01daylight_new_entrance_second_info_02
+	volume: 1
+	channel: Narrator
+K5QTRVGD-yBbFfa_vh7
+	alias: dlg_tales01daylight_day_third_info_02
+	volume: 1
+	channel: Narrator
+K5QTRVGE-q79rGppMoh
+	alias: dlg_tales01daylight_outro_02
+	volume: 1
+	channel: Narrator
+K5QTRVGG-Fbv0h9G6lu
+	alias: dlg_tales01daylight_outro_03
+	volume: 1
+	channel: Narrator
+K5QTRVGH-G1ZBnJf$J5
+	alias: dlg_tales01daylight_outro_04
+	volume: 1
+	channel: Narrator
+K5QTRVGJ-Wdl7wymsYz
+	alias: dlg_tales01daylight_outro_05
+	volume: 1
+	channel: Narrator
+LTKUXQEY-vxD$Rz$MH6
+	alias: dlg_tales01daylight_mission_capt
+	volume: 1
+	channel: Narrator
+LTKUXQEZ-sqasPoVNm7
+	alias: dlg_tales01daylight_mission_desc
+	volume: 1
+	channel: Narrator
+MPKSUQE7-$4Oz0r2Z59
+	alias: dlg_tales02train_dynamite_kill_heroes_random_01
+	volume: 1
+	channel: Narrator
+MPKSUQE8-DQWXAaQ5Ah
+	alias: dlg_tales02train_dynamite_attack_train_info_01
+	volume: 1
+	channel: Narrator
+MPKSUQE9-NpHhlw7JlJ
+	alias: dlg_tales02train_hard_villlage_at_start_info_01
+	volume: 1
+	channel: Narrator
+NCMGNJST-JkAfClpegl
+	alias: dlg_tales04sheep_intro_07
+	volume: 1
+	channel: Narrator
+NCMGNJSU-zBvFWXjMxb
+	alias: dlg_tales04sheep_enemy_spawn_init_info_02
+	volume: 1
+	channel: Narrator
+NCMGNJSW-zVMw6Cg_yY
+	alias: dlg_tales04sheep_dynamite_sheep_farm_turn_first_info_02
+	volume: 1
+	channel: Narrator
+NCMGNJSX-TRKndYlBfD
+	alias: dlg_tales04sheep_dynamite_sheep_farm_turn_second_info_02
+	volume: 1
+	channel: Narrator
+NCMGNJSZ-WwW_rVimok
+	alias: dlg_tales04sheep_dynamite_sheep_farm_sheep_died_random_02
+	volume: 1
+	channel: Narrator
+NCMGNJT2-unHrt_v8sp
+	alias: dlg_tales04sheep_dynamite_sheep_farm_sheep_died_random_03
+	volume: 1
+	channel: Narrator
+NCMGNJT3-61N05vdRNY
+	alias: dlg_tales04sheep_dynamite_sheep_farm_sheep_died_random_04
+	volume: 1
+	channel: Narrator
+NCMGNJT4-YSNmKJFIMt
+	alias: dlg_tales04sheep_dynamite_sheep_farm_sheep_died_random_05
+	volume: 1
+	channel: Narrator
+NCMGNJT5-CksCQ51Z0h
+	alias: dlg_tales04sheep_dynamite_sheep_farm_sheep_died_random_06
+	volume: 1
+	channel: Narrator
+NCMGNJT6-zvUnEwEIdN
+	alias: dlg_tales04sheep_dynamite_sheep_farm_sheep_died_random_07
+	volume: 1
+	channel: Narrator
+NCMGNJT7-b8$k0urIRA
+	alias: dlg_tales04sheep_dynamite_sheep_spawned_random_02
+	volume: 1
+	channel: Narrator
+NCMGNJT8-LGK3K4QHzF
+	alias: dlg_tales04sheep_dynamite_sheep_spawned_random_03
+	volume: 1
+	channel: Narrator
+NCMGNJT9-kFBKXf$7ZA
+	alias: dlg_tales04sheep_dynamite_sheep_spawned_random_04
+	volume: 1
+	channel: Narrator
+NCMGNJTA-6aTsDwSlJY
+	alias: dlg_tales04sheep_dynamite_sheep_spawned_random_05
+	volume: 1
+	channel: Narrator
+NCMGNJTB-4Gv7hLkWi6
+	alias: dlg_tales04sheep_dynamite_sheep_spawned_random_06
+	volume: 1
+	channel: Narrator
+NCMGNJTC-ZKnPXSyVMi
+	alias: dlg_tales04sheep_dynamite_sheep_spawned_random_07
+	volume: 1
+	channel: Narrator
+NCMGNJTD-dxxwaETuKI
+	alias: dlg_tales04sheep_sheepfog_machine_start_02
+	volume: 1
+	channel: Narrator
+NCMGNJTE-FE3YVT786u
+	alias: dlg_tales04sheep_sheepfog_machine_unit_sheeped_random_01_02
+	volume: 1
+	channel: Narrator
+NCMGNJTF-g6_ym2EiV_
+	alias: dlg_tales04sheep_sheepfog_machine_unit_sheeped_random_02_01
+	volume: 1
+	channel: Narrator
+NCMGNJTG-znRpjF934w
+	alias: dlg_tales04sheep_sheepfog_machine_unit_sheeped_random_02_02
+	volume: 1
+	channel: Narrator
+NCMGNJTH-uMQquqCJhI
+	alias: dlg_tales04sheep_sheepfog_machine_unit_sheeped_random_03_01
+	volume: 1
+	channel: Narrator
+NCMGNJTJ-4UFVH1396F
+	alias: dlg_tales04sheep_sheepfog_machine_unit_sheeped_random_03_03
+	volume: 1
+	channel: Narrator
+NCMGNJTK-wCETM_2gSJ
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_first_info_02
+	volume: 1
+	channel: Narrator
+NCMGNJTL-MjV8dvADQ5
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_random_02
+	volume: 1
+	channel: Narrator
+NCMGNJTM-Ja5qNTdL_
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_random_03
+	volume: 1
+	channel: Narrator
+NCMGNJTN-hKP$0fKT_N
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_last_info_02
+	volume: 1
+	channel: Narrator
+NCMGNJTP-zeAsD4A2t8
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_first_info_03
+	volume: 1
+	channel: Narrator
+NCMGNJTQ-u50VDYYCNS
+	alias: dlg_tales04sheep_second_entrance_start_02
+	volume: 1
+	channel: Narrator
+NCMGNJTR-y5NLKnlbZX
+	alias: dlg_tales04sheep_chamber_of_secrets_start_02
+	volume: 1
+	channel: Narrator
+NCMGNJTS-Iia9RWfHod
+	alias: dlg_tales04sheep_chamber_of_secrets_end_02
+	volume: 1
+	channel: Narrator
+NCMGNJTT-DPPn_Zym97
+	alias: dlg_tales04sheep_chamber_of_secrets_end_03
+	volume: 1
+	channel: Narrator
+NCMGNJTU-W$DW6ZZYxc
+	alias: dlg_tales04sheep_chamber_of_secrets_end_04
+	volume: 1
+	channel: Narrator
+NCMGNJTV-qFJcTYEXI3
+	alias: dlg_tales04sheep_spawner_died_by_dynamite_sheep_random_02
+	volume: 1
+	channel: Narrator
+NCMGNJTW-MgLLtdeaw7
+	alias: dlg_tales04sheep_spawner_died_by_dynamite_sheep_random_03
+	volume: 1
+	channel: Narrator
+NCMGNJTX-ySRzW6FlD7
+	alias: dlg_tales04sheep_outro_02
+	volume: 1
+	channel: Narrator
+NCMGNJTY-JqbI80qynC
+	alias: dlg_tales04sheep_outro_03
+	volume: 1
+	channel: Narrator
+R8JZVVCZ-WVN_hdxBWi
+	alias: dlg_general_tales
+	volume: 1
+	channel: Narrator
+S328RYRD-wLGEE_pWbz
+	alias: dlg_tales04sheep_intro_01
+	volume: 1
+	channel: Narrator
+S328RYRE-9$6uTmofbg
+	alias: dlg_tales04sheep_intro_02
+	volume: 1
+	channel: Narrator
+S328RYRF-BUrPPh1_cU
+	alias: dlg_tales04sheep_intro_03
+	volume: 1
+	channel: Narrator
+S328RYRG-xgzEBU$_P0
+	alias: dlg_tales04sheep_intro_04
+	volume: 1
+	channel: Narrator
+S328RYRH-Cja3BBCI2c
+	alias: dlg_tales04sheep_intro_05
+	volume: 1
+	channel: Narrator
+S328RYRJ-9433xPuU2k
+	alias: dlg_tales04sheep_intro_06
+	volume: 1
+	channel: Narrator
+S328RYRK-kdFKU1l4SB
+	alias: dlg_tales04sheep_enemy_spawn_init_info_01
+	volume: 1
+	channel: Narrator
+S328RYRL-BZWT81pHY6
+	alias: dlg_tales04sheep_enemy_spawn_init_fallback_info_01
+	volume: 1
+	channel: Narrator
+S328RYRM-s0DhPqPkOQ
+	alias: dlg_tales04sheep_dynamite_sheep_farm_start_01
+	volume: 1
+	channel: Narrator
+S328RYRN-kdxvb1FL0m
+	alias: dlg_tales04sheep_dynamite_sheep_farm_turn_first_info_01
+	volume: 1
+	channel: Narrator
+S328RYRP-7db_w4kR87
+	alias: dlg_tales04sheep_dynamite_sheep_farm_turn_second_info_01
+	volume: 1
+	channel: Narrator
+S328RYRQ-HuGInL_NNI
+	alias: dlg_tales04sheep_dynamite_sheep_farm_turn_third_info_01
+	volume: 1
+	channel: Narrator
+S328RYRR-4bGvtZ983a
+	alias: dlg_tales04sheep_dynamite_sheep_farm_sheep_died_random_01
+	volume: 1
+	channel: Narrator
+S328RYRS-9P0FGcAvsK
+	alias: dlg_tales04sheep_dynamite_sheep_farm_end_01
+	volume: 1
+	channel: Narrator
+S328RYRT-$ri5y0qWHt
+	alias: dlg_tales04sheep_dynamite_sheep_spawned_random_01
+	volume: 1
+	channel: Narrator
+S328RYRU-y5j9zfX7ya
+	alias: dlg_tales04sheep_sheepfog_machine_start_01
+	volume: 1
+	channel: Narrator
+S328RYRV-FkSUnE0sEq
+	alias: dlg_tales04sheep_sheepfog_machine_start_fallback_01
+	volume: 1
+	channel: Narrator
+S328RYRW-$p6OqgP8A5
+	alias: dlg_tales04sheep_sheepfog_machine_unit_sheeped_random_01_01
+	volume: 1
+	channel: Narrator
+S328RYRX-9WE_fmPIC9
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_first_info_01
+	volume: 1
+	channel: Narrator
+S328RYRY-3lYvt7$ZzX
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_random_01
+	volume: 1
+	channel: Narrator
+S328RYRZ-My0bMuM73w
+	alias: dlg_tales04sheep_sheepfog_machine_destroyed_last_info_01
+	volume: 1
+	channel: Narrator
+S328RYS2-9IJmo6jYXs
+	alias: dlg_tales04sheep_second_entrance_start_01
+	volume: 1
+	channel: Narrator
+S328RYS3-IBYug0qG_a
+	alias: dlg_tales04sheep_second_entrance_end_01
+	volume: 1
+	channel: Narrator
+S328RYS4-ftEt4sfPYK
+	alias: dlg_tales04sheep_chamber_of_secrets_start_01
+	volume: 1
+	channel: Narrator
+S328RYS5-XJy8yeyR8S
+	alias: dlg_tales04sheep_chamber_of_secrets_end_01
+	volume: 1
+	channel: Narrator
+S328RYS6-CzNXiXMZWC
+	alias: dlg_tales04sheep_fortress_conquer_welcome_spawn_info_01
+	volume: 1
+	channel: Narrator
+S328RYS7-WJ2m2XlxTh
+	alias: dlg_tales04sheep_fortress_conquer_tower_defeated_info_01
+	volume: 1
+	channel: Narrator
+S328RYS8-LR0dPgxWIE
+	alias: dlg_tales04sheep_fortress_conquer_fortress_health_first_stage_info_01
+	volume: 1
+	channel: Narrator
+S328RYS9-DO3KzRl8_1
+	alias: dlg_tales04sheep_fortress_conquer_fortress_health_second_stage_info_01
+	volume: 1
+	channel: Narrator
+S328RYSA-U$1X$JfkW5
+	alias: dlg_tales04sheep_fortress_conquer_fortress_health_third_stage_info_01
+	volume: 1
+	channel: Narrator
+S328RYSB-4s6qjaUtzj
+	alias: dlg_tales04sheep_spawner_died_by_dynamite_sheep_random_01
+	volume: 1
+	channel: Narrator
+S328RYSC-NjDFurdwuQ
+	alias: dlg_tales04sheep_dynamite_sheep_farm_shielded_east_info_01
+	volume: 1
+	channel: Narrator
+S328RYSD-tqlNIPQwzT
+	alias: dlg_tales04sheep_dynamite_sheep_farm_shielded_north_info_01
+	volume: 1
+	channel: Narrator
+S328RYSE-3FL_iuXXjw
+	alias: dlg_tales04sheep_dynamite_sheep_farm_shielded_south_info_01
+	volume: 1
+	channel: Narrator
+S328RYSF-WZ7lnXu3zn
+	alias: dlg_tales04sheep_outro_lose_01
+	volume: 1
+	channel: Narrator
+S328RYSG-XA1VJPBV6E
+	alias: dlg_tales04sheep_outro_01
+	volume: 1
+	channel: Narrator
+SNY7RANK-GjXTa9ymox
+	alias: dlg_tales01daylight_intro_02
+	volume: 1
+	channel: Narrator
+UCMPC8VJ-Zgw7Jvatk4
+	alias: dlg_tales02train_dynamite_dynamite_factory_second_start_01
+	volume: 1
+	channel: Narrator
+UCMPC8VK-WzuNNpA3mV
+	alias: dlg_tales02train_dynamite_dynamite_factory_third_start_01
+	volume: 1
+	channel: Narrator
+VZTTL934-fFoERUGb8R
+	alias: dlg_tales03freeze_shrine_second_end_02
+	volume: 1
+	channel: Narrator
+VZTTL936-BB2JEdk2dS
+	alias: dlg_tales03freeze_firewall_info_01
+	volume: 1
+	channel: Narrator
+VZTTL937-zogMo7alHM
+	alias: dlg_tales03freeze_firewall_info_02
+	volume: 1
+	channel: Narrator
+VZTTL938-_XDXSdWplK
+	alias: dlg_tales03freeze_shrine_near_first_info_01
+	volume: 1
+	channel: Narrator
+VZTTL939-fsljXKKPO7
+	alias: dlg_tales03freeze_shrine_near_second_info_01
+	volume: 1
+	channel: Narrator
+VZTTL93A-$kyJtl_l9z
+	alias: dlg_tales03freeze_shrine_near_third_info_01
+	volume: 1
+	channel: Narrator
+WGQDGAK9-WQ5_xKrT1J
+	alias: dlg_tales03freeze_mission_capt
+	volume: 1
+	channel: Narrator
+WGQDGAKA-3hby4zLYvZ
+	alias: dlg_tales03freeze_mission_desc
+	volume: 1
+	channel: Narrator
+WGQDGAKB-X3QG2dLWW1
+	alias: dlg_tales03freeze_outro_01
+	volume: 1
+	channel: Narrator
+WGQDGAKC-PW7KBoK9WO
+	alias: dlg_tales03freeze_outro_lose_base_01
+	volume: 1
+	channel: Narrator
+WGQDGAKD-qIOssb0hdU
+	alias: dlg_tales03freeze_outro_lose_dungeonheart_01
+	volume: 1
+	channel: Narrator
+WGQDGAKL-e9s8pfuDYk
+	alias: dlg_tales03freeze_intro_01
+	volume: 1
+	channel: Narrator
+X256ZV9P-llgQP9nF1K
+	alias: dlg_tales04sheep_mission_capt
+	volume: 1
+	channel: Narrator
+X256ZV9Q-h9D9mb_BaR
+	alias: dlg_tales04sheep_mission_desc
+	volume: 1
+	channel: Narrator
+YY6T5PLX-i4N$EU2qtq
+	alias: dlg_startup_first_time_tales_v1
+	volume: 1
+	channel: Narrator
+Z49684CK-RD2ojC1zcO
+	alias: dlg_tales01daylight_intro_01
+	volume: 1
+	channel: Narrator
+Z49684CL-BAOiLC34jw
+	alias: dlg_tales01daylight_spawner_start_first_01
+	volume: 1
+	channel: Narrator
+Z49684CM-swXdAc8nEC
+	alias: dlg_tales01daylight_spawner_start_first_fallback_01
+	volume: 1
+	channel: Narrator
+Z49684CN-f9PhtNujsN
+	alias: dlg_tales01daylight_hero_died_info_01
+	volume: 1
+	channel: Narrator
+Z49684CP-cEv4VKBfY9
+	alias: dlg_tales01daylight_sacrifice_reminder_01
+	volume: 1
+	channel: Narrator
+Z49684CQ-rkI7d2VCci
+	alias: dlg_tales01daylight_gorgu_attacked_first_01
+	volume: 1
+	channel: Narrator
+Z49684CR-f3vKNMH3aS
+	alias: dlg_tales01daylight_gorgu_attacked_random_01
+	volume: 1
+	channel: Narrator
+Z49684CS-zYgGdq5bVT
+	alias: dlg_tales01daylight_sacrifice_reminder_02
+	volume: 1
+	channel: Narrator
+Z49684CT-TMVdapEm4s
+	alias: dlg_tales01daylight_sacrifice_reminder_03
+	volume: 1
+	channel: Narrator
+Z49684CU-g444HcgPaL
+	alias: dlg_tales01daylight_gorgu_attacked_random_02
+	volume: 1
+	channel: Narrator
+Z49684CV-f5RI5wGlX
+	alias: dlg_tales01daylight_gorgu_attacked_random_03
+	volume: 1
+	channel: Narrator
+Z49684CW-EFN7SfiMUz
+	alias: dlg_tales01daylight_near_heroes_info_01
+	volume: 1
+	channel: Narrator
+Z49684CX-j1oEIiP6qB
+	alias: dlg_tales01daylight_sacrifice_hero_first_01
+	volume: 1
+	channel: Narrator
+Z49684CY-VdWd4f16ZH
+	alias: dlg_tales01daylight_sacrifice_hero_random_01
+	volume: 1
+	channel: Narrator
+Z49684CZ-9UF1kUOa$z
+	alias: dlg_tales01daylight_sacrifice_hero_random_02
+	volume: 1
+	channel: Narrator
+Z49684D2-v1ZpLOuly7
+	alias: dlg_tales01daylight_sacrifice_hero_random_03
+	volume: 1
+	channel: Narrator
+Z49684D3-10O_lGw1qK
+	alias: dlg_tales01daylight_sacrifice_no_hero_random_01
+	volume: 1
+	channel: Narrator
+Z49684D4-bRbjf6_Dr2
+	alias: dlg_tales01daylight_sacrifice_no_hero_random_02
+	volume: 1
+	channel: Narrator
+Z49684D5-Qb7RM8G5E6
+	alias: dlg_tales01daylight_sacrifice_no_hero_random_03
+	volume: 1
+	channel: Narrator
+Z49684D6-PGI$RPKGeq
+	alias: dlg_tales01daylight_night_show_first_01
+	volume: 1
+	channel: Narrator
+Z49684D7-mMZWvDGZfz
+	alias: dlg_tales01daylight_night_show_random_01
+	volume: 1
+	channel: Narrator
+Z49684D8-v3wXZcJyc1
+	alias: dlg_tales01daylight_night_show_random_02
+	volume: 1
+	channel: Narrator
+Z49684D9-5MDVguyL7D
+	alias: dlg_tales01daylight_night_show_random_03
+	volume: 1
+	channel: Narrator
+Z49684DA-DVdlq0Hyjq
+	alias: dlg_tales01daylight_night_first_01
+	volume: 1
+	channel: Narrator
+Z49684DB-lzISpsg01U
+	alias: dlg_tales01daylight_night_random_01
+	volume: 1
+	channel: Narrator
+Z49684DC-9X7TjtMEaK
+	alias: dlg_tales01daylight_night_random_02
+	volume: 1
+	channel: Narrator
+Z49684DD-R82Q9OfOJo
+	alias: dlg_tales01daylight_night_random_03
+	volume: 1
+	channel: Narrator
+Z49684DE-zHdmKPFzAl
+	alias: dlg_tales01daylight_day_first_info_01
+	volume: 1
+	channel: Narrator
+Z49684DF-Oqjf4Rb06W
+	alias: dlg_tales01daylight_day_second_info_01
+	volume: 1
+	channel: Narrator
+Z49684DG-C_mN0lZPvx
+	alias: dlg_tales01daylight_day_third_info_01
+	volume: 1
+	channel: Narrator
+Z49684DH-JKuPDBBeBr
+	alias: dlg_tales01daylight_new_entrance_first_info_01
+	volume: 1
+	channel: Narrator
+Z49684DJ-HkQO5P68eS
+	alias: dlg_tales01daylight_new_entrance_second_info_01
+	volume: 1
+	channel: Narrator
+Z49684DK-PRvUvtG6jv
+	alias: dlg_tales01daylight_new_entrance_third_info_01
+	volume: 1
+	channel: Narrator
+Z49684DL-HD2XkHgTy3
+	alias: dlg_tales01daylight_cages_first_found_01
+	volume: 1
+	channel: Narrator
+Z49684DM-FM8NbxA3Gv
+	alias: dlg_tales01daylight_cages_second_found_01
+	volume: 1
+	channel: Narrator
+Z49684DN-eA61_vaUyw
+	alias: dlg_tales01daylight_cages_third_found_01
+	volume: 1
+	channel: Narrator
+Z49684DP-hsNutIzOrB
+	alias: dlg_tales01daylight_outro_lose_01
+	volume: 1
+	channel: Narrator
+Z49684DQ-R49laivmAt
+	alias: dlg_tales01daylight_outro_lose_gorgu_died_01
+	volume: 1
+	channel: Narrator
+Z49684DR-i7aD7uTONq
+	alias: dlg_tales01daylight_outro_01
+	volume: 1
+	channel: Narrator
+ZB4YA44X-XC7LQtK$hJ
+	alias: dlg_tales01daylight_intro_03
+	volume: 1
+	channel: Narrator
+ZB4YA44Y-0S16KoKaqm
+	alias: dlg_tales01daylight_intro_04
+	volume: 1
+	channel: Narrator
+ZB4YA44Z-4k$QWPsKlz
+	alias: dlg_tales01daylight_intro_05
+	volume: 1
+	channel: Narrator
+ZB4YA452-gBCnIgwfAz
+	alias: dlg_tales01daylight_intro_06
+	volume: 1
+	channel: Narrator
+ZB4YA453-54ur3LV72c
+	alias: dlg_tales01daylight_intro_07
+	volume: 1
+	channel: Narrator
+ZB4YA454-zbD9b5m2sc
+	alias: dlg_tales01daylight_intro_08
+	volume: 1
+	channel: Narrator
+ZB4YA455-WWkN8UhQjn
+	alias: dlg_tales01daylight_intro_09
+	volume: 1
+	channel: Narrator
+ZB4YA456-zxOqVUO5io
+	alias: dlg_tales01daylight_intro_10
+	volume: 1
+	channel: Narrator
+ZB4YA457-5bbCS5FvMF
+	alias: dlg_tales01daylight_spawner_start_first_02
+	volume: 1
+	channel: Narrator
+ZB4YA458-WQXfn$CTHA
+	alias: dlg_tales01daylight_spawner_start_first_03
+	volume: 1
+	channel: Narrator
+ZB4YA459-_RKVYYeweg
+	alias: dlg_tales01daylight_spawner_start_first_fallback_02
+	volume: 1
+	channel: Narrator
+ZB4YA45B-255PFloNj3
+	alias: dlg_tales01daylight_gorgu_attacked_first_02
+	volume: 1
+	channel: Narrator
+ZB4YA45C-7FkqyorAVj
+	alias: dlg_tales01daylight_sacrifice_hero_first_02
+	volume: 1
+	channel: Narrator
+ZB4YA45E-bi3UxmHGfj
+	alias: dlg_tales01daylight_near_heroes_info_02
+	volume: 1
+	channel: Narrator

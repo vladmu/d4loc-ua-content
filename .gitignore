@@ -1,0 +1,36 @@
+# Everything the tool unpacks from your game (English and other languages) and the queue of pending changes stays out of the repository.
+/*/
+!/uk/
+!/.github/
+pending/
+source.json
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+
+# AI coding assistants: local settings, history, memory and instruction files
+.claude/
+.cursor/
+.continue/
+.windsurf/
+.codeium/
+.codex/
+.gemini/
+.roo/
+.cline/
+.copilot/
+.aider*
+.clinerules
+.cursorrules
+.cursorignore
+.windsurfrules
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+GEMINI.md
+.github/copilot-instructions.md
+*.transcript.jsonl
