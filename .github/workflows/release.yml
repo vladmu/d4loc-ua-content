@@ -1,0 +1,51 @@
+name: Release
+
+# Builds the content release when a version tag (for example, v0.1.1) is pushed:
+#   manifest.json, loca_uk_texts.csv, voice.zip
+# The files are made by the translator tool's `release` command from this repository as it is (the same code that the installer
+# uses to read them, see src/d4loc/download.py). Nothing is built from the game files: the voices are already in uk/audio.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write        # creating the release
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: content
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tool
+        run: git clone --depth 1 https://github.com/vladmu/d4loc-ua-tool tool
+
+      - name: The tag must match the content version
+        run: |
+          VERSION=$(python -c "import json; print(json.load(open('content/manifest.json', encoding='utf-8'))['version'])")
+          if [ "v$VERSION" != "$GITHUB_REF_NAME" ]; then
+            echo "Tag $GITHUB_REF_NAME does not match manifest.json version $VERSION"; exit 1
+          fi
+
+      - name: Verify the stamp
+        working-directory: tool
+        run: python dev/run.py toolcheck --verify --content ../content
+
+      - name: Build the release files
+        working-directory: tool
+        env:
+          D4_CONTENT: ${{ github.workspace }}/content
+        run: python dev/run.py release --out ${{ github.workspace }}/release_assets
+
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" release_assets/manifest.json release_assets/loca_uk_texts.csv release_assets/voice.zip \
+            --repo "$GITHUB_REPOSITORY" --title "$GITHUB_REF_NAME" --generate-notes
